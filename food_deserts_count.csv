@@ -1,0 +1,3143 @@
+State,County,LILATracts_halfAnd10,LILATracts_1And10,LILATracts_1And20,LILATracts_Vehicle,NumTracts,LILATracts_halfAnd10_ratio,LILATracts_1And10_ratio,LILATracts_1And20_ratio,LILATracts_Vehicle_ratio,LILATracts_halfAnd10_flag,LILATracts_1And10_flag,LILATracts_1And20_flag,LILATracts_Vehicle_flag
+Alabama,Autauga County,5,5,3,1,12,0.42,0.42,0.25,0.08,0,0,0,0
+Alabama,Baldwin County,4,4,3,3,31,0.13,0.13,0.1,0.1,0,0,0,0
+Alabama,Barbour County,5,4,1,3,9,0.56,0.44,0.11,0.33,1,0,0,0
+Alabama,Bibb County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Alabama,Blount County,0,0,0,2,9,0.0,0.0,0.0,0.22,0,0,0,0
+Alabama,Bullock County,2,2,1,1,3,0.67,0.67,0.33,0.33,1,1,0,0
+Alabama,Butler County,3,3,1,3,9,0.33,0.33,0.11,0.33,0,0,0,0
+Alabama,Calhoun County,14,12,12,8,30,0.47,0.4,0.4,0.27,0,0,0,0
+Alabama,Chambers County,3,3,3,1,9,0.33,0.33,0.33,0.11,0,0,0,0
+Alabama,Cherokee County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Alabama,Chilton County,1,1,1,3,9,0.11,0.11,0.11,0.33,0,0,0,0
+Alabama,Choctaw County,2,2,0,2,4,0.5,0.5,0.0,0.5,1,1,0,1
+Alabama,Clarke County,5,5,1,4,9,0.56,0.56,0.11,0.44,1,1,0,0
+Alabama,Clay County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Alabama,Cleburne County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Alabama,Coffee County,2,2,1,2,14,0.14,0.14,0.07,0.14,0,0,0,0
+Alabama,Colbert County,3,2,2,3,14,0.21,0.14,0.14,0.21,0,0,0,0
+Alabama,Conecuh County,3,3,0,1,5,0.6,0.6,0.0,0.2,1,1,0,0
+Alabama,Coosa County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Alabama,Covington County,5,3,2,1,14,0.36,0.21,0.14,0.07,0,0,0,0
+Alabama,Crenshaw County,2,2,0,0,6,0.33,0.33,0.0,0.0,0,0,0,0
+Alabama,Cullman County,2,1,0,3,18,0.11,0.06,0.0,0.17,0,0,0,0
+Alabama,Dale County,2,1,1,3,14,0.14,0.07,0.07,0.21,0,0,0,0
+Alabama,Dallas County,8,4,2,7,15,0.53,0.27,0.13,0.47,1,0,0,0
+Alabama,DeKalb County,0,0,0,3,14,0.0,0.0,0.0,0.21,0,0,0,0
+Alabama,Elmore County,1,1,1,1,15,0.07,0.07,0.07,0.07,0,0,0,0
+Alabama,Escambia County,3,3,2,1,9,0.33,0.33,0.22,0.11,0,0,0,0
+Alabama,Etowah County,13,9,9,2,30,0.43,0.3,0.3,0.07,0,0,0,0
+Alabama,Fayette County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Alabama,Franklin County,2,2,2,0,9,0.22,0.22,0.22,0.0,0,0,0,0
+Alabama,Geneva County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Alabama,Greene County,2,2,0,3,3,0.67,0.67,0.0,1.0,1,1,0,1
+Alabama,Hale County,2,2,0,1,6,0.33,0.33,0.0,0.17,0,0,0,0
+Alabama,Henry County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Alabama,Houston County,7,3,3,3,22,0.32,0.14,0.14,0.14,0,0,0,0
+Alabama,Jackson County,3,3,2,4,11,0.27,0.27,0.18,0.36,0,0,0,0
+Alabama,Jefferson County,81,54,54,50,163,0.5,0.33,0.33,0.31,1,0,0,0
+Alabama,Lamar County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+Alabama,Lauderdale County,9,4,3,7,22,0.41,0.18,0.14,0.32,0,0,0,0
+Alabama,Lawrence County,2,2,1,2,9,0.22,0.22,0.11,0.22,0,0,0,0
+Alabama,Lee County,15,10,10,6,27,0.56,0.37,0.37,0.22,1,0,0,0
+Alabama,Limestone County,4,3,3,3,16,0.25,0.19,0.19,0.19,0,0,0,0
+Alabama,Lowndes County,2,2,0,4,4,0.5,0.5,0.0,1.0,1,1,0,1
+Alabama,Macon County,8,7,5,4,12,0.67,0.58,0.42,0.33,1,1,0,0
+Alabama,Madison County,26,17,17,11,73,0.36,0.23,0.23,0.15,0,0,0,0
+Alabama,Marengo County,4,4,1,2,6,0.67,0.67,0.17,0.33,1,1,0,0
+Alabama,Marion County,0,0,0,1,8,0.0,0.0,0.0,0.12,0,0,0,0
+Alabama,Marshall County,6,6,6,3,18,0.33,0.33,0.33,0.17,0,0,0,0
+Alabama,Mobile County,45,21,21,15,114,0.39,0.18,0.18,0.13,0,0,0,0
+Alabama,Monroe County,3,3,0,4,7,0.43,0.43,0.0,0.57,0,0,0,1
+Alabama,Montgomery County,37,18,16,23,65,0.57,0.28,0.25,0.35,1,0,0,0
+Alabama,Morgan County,6,3,3,4,27,0.22,0.11,0.11,0.15,0,0,0,0
+Alabama,Perry County,3,3,0,2,3,1.0,1.0,0.0,0.67,1,1,0,1
+Alabama,Pickens County,0,0,0,3,5,0.0,0.0,0.0,0.6,0,0,0,1
+Alabama,Pike County,1,1,1,1,8,0.12,0.12,0.12,0.12,0,0,0,0
+Alabama,Randolph County,2,2,0,1,6,0.33,0.33,0.0,0.17,0,0,0,0
+Alabama,Russell County,5,2,1,6,13,0.38,0.15,0.08,0.46,0,0,0,0
+Alabama,Shelby County,3,1,1,1,48,0.06,0.02,0.02,0.02,0,0,0,0
+Alabama,St. Clair County,0,0,0,1,13,0.0,0.0,0.0,0.08,0,0,0,0
+Alabama,Sumter County,1,1,0,3,4,0.25,0.25,0.0,0.75,0,0,0,1
+Alabama,Talladega County,6,5,5,9,22,0.27,0.23,0.23,0.41,0,0,0,0
+Alabama,Tallapoosa County,1,1,1,6,10,0.1,0.1,0.1,0.6,0,0,0,1
+Alabama,Tuscaloosa County,18,4,4,5,47,0.38,0.09,0.09,0.11,0,0,0,0
+Alabama,Walker County,2,2,2,4,18,0.11,0.11,0.11,0.22,0,0,0,0
+Alabama,Washington County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Alabama,Wilcox County,3,3,0,3,4,0.75,0.75,0.0,0.75,1,1,0,1
+Alabama,Winston County,1,1,0,3,7,0.14,0.14,0.0,0.43,0,0,0,0
+Alaska,Aleutians East Borough,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Aleutians West Census Area,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Alaska,Anchorage Municipality,17,5,5,8,55,0.31,0.09,0.09,0.15,0,0,0,0
+Alaska,Bethel Census Area,2,2,2,2,3,0.67,0.67,0.67,0.67,1,1,1,1
+Alaska,Bristol Bay Borough,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Denali Borough,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Dillingham Census Area,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Alaska,Fairbanks North Star Borough,4,2,2,3,19,0.21,0.11,0.11,0.16,0,0,0,0
+Alaska,Haines Borough,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Hoonah-Angoon Census Area,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Alaska,Juneau City and Borough,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Kenai Peninsula Borough,3,3,2,2,13,0.23,0.23,0.15,0.15,0,0,0,0
+Alaska,Ketchikan Gateway Borough,1,0,0,1,4,0.25,0.0,0.0,0.25,0,0,0,0
+Alaska,Kodiak Island Borough,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Kusilvak Census Area,0,0,0,1,1,0.0,0.0,0.0,1.0,0,0,0,1
+Alaska,Lake and Peninsula Borough,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Alaska,Matanuska-Susitna Borough,7,7,3,1,24,0.29,0.29,0.12,0.04,0,0,0,0
+Alaska,Nome Census Area,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Alaska,North Slope Borough,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Alaska,Northwest Arctic Borough,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Alaska,Petersburg Borough,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Prince of Wales-Hyder Census Area,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Alaska,Sitka City and Borough,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Skagway Municipality,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Southeast Fairbanks Census Area,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Alaska,Valdez-Cordova Census Area,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Wrangell City and Borough,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Alaska,Yakutat City and Borough,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Alaska,Yukon-Koyukuk Census Area,4,4,4,4,4,1.0,1.0,1.0,1.0,1,1,1,1
+Arizona,Apache County,10,10,7,12,16,0.62,0.62,0.44,0.75,1,1,0,1
+Arizona,Cochise County,19,15,12,7,32,0.59,0.47,0.38,0.22,1,0,0,0
+Arizona,Coconino County,11,8,8,4,28,0.39,0.29,0.29,0.14,0,0,0,0
+Arizona,Gila County,7,6,5,4,16,0.44,0.38,0.31,0.25,0,0,0,0
+Arizona,Graham County,3,2,1,1,9,0.33,0.22,0.11,0.11,0,0,0,0
+Arizona,Greenlee County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Arizona,La Paz County,4,4,3,4,8,0.5,0.5,0.38,0.5,1,1,0,1
+Arizona,Maricopa County,284,97,96,111,913,0.31,0.11,0.11,0.12,0,0,0,0
+Arizona,Mohave County,24,20,16,12,43,0.56,0.47,0.37,0.28,1,0,0,0
+Arizona,Navajo County,20,19,11,12,31,0.65,0.61,0.35,0.39,1,1,0,0
+Arizona,Pima County,94,29,26,51,241,0.39,0.12,0.11,0.21,0,0,0,0
+Arizona,Pinal County,22,19,18,11,75,0.29,0.25,0.24,0.15,0,0,0,0
+Arizona,Santa Cruz County,7,4,4,1,10,0.7,0.4,0.4,0.1,1,0,0,0
+Arizona,Yavapai County,12,11,8,5,42,0.29,0.26,0.19,0.12,0,0,0,0
+Arizona,Yuma County,29,13,11,2,53,0.55,0.25,0.21,0.04,1,0,0,0
+Arkansas,Arkansas County,2,2,2,1,8,0.25,0.25,0.25,0.12,0,0,0,0
+Arkansas,Ashley County,2,2,1,1,7,0.29,0.29,0.14,0.14,0,0,0,0
+Arkansas,Baxter County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Benton County,7,4,4,0,49,0.14,0.08,0.08,0.0,0,0,0,0
+Arkansas,Boone County,2,2,2,2,7,0.29,0.29,0.29,0.29,0,0,0,0
+Arkansas,Bradley County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Arkansas,Calhoun County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Carroll County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Chicot County,3,2,1,3,4,0.75,0.5,0.25,0.75,1,1,0,1
+Arkansas,Clark County,2,1,1,2,5,0.4,0.2,0.2,0.4,0,0,0,0
+Arkansas,Clay County,2,1,1,2,6,0.33,0.17,0.17,0.33,0,0,0,0
+Arkansas,Cleburne County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Cleveland County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Arkansas,Columbia County,3,3,2,2,5,0.6,0.6,0.4,0.4,1,1,0,0
+Arkansas,Conway County,2,2,1,1,6,0.33,0.33,0.17,0.17,0,0,0,0
+Arkansas,Craighead County,7,3,3,5,17,0.41,0.18,0.18,0.29,0,0,0,0
+Arkansas,Crawford County,2,2,2,1,11,0.18,0.18,0.18,0.09,0,0,0,0
+Arkansas,Crittenden County,11,5,3,6,20,0.55,0.25,0.15,0.3,1,0,0,0
+Arkansas,Cross County,2,2,1,2,6,0.33,0.33,0.17,0.33,0,0,0,0
+Arkansas,Dallas County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Arkansas,Desha County,3,3,2,2,5,0.6,0.6,0.4,0.4,1,1,0,0
+Arkansas,Drew County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+Arkansas,Faulkner County,8,4,3,2,25,0.32,0.16,0.12,0.08,0,0,0,0
+Arkansas,Franklin County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Arkansas,Fulton County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Arkansas,Garland County,9,5,5,8,20,0.45,0.25,0.25,0.4,0,0,0,0
+Arkansas,Grant County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Greene County,1,0,0,0,9,0.11,0.0,0.0,0.0,0,0,0,0
+Arkansas,Hempstead County,2,2,2,2,5,0.4,0.4,0.4,0.4,0,0,0,0
+Arkansas,Hot Spring County,2,2,2,1,7,0.29,0.29,0.29,0.14,0,0,0,0
+Arkansas,Howard County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Arkansas,Independence County,2,2,1,0,8,0.25,0.25,0.12,0.0,0,0,0,0
+Arkansas,Izard County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Jackson County,3,3,2,1,5,0.6,0.6,0.4,0.2,1,1,0,0
+Arkansas,Jefferson County,15,8,7,8,24,0.62,0.33,0.29,0.33,1,0,0,0
+Arkansas,Johnson County,4,4,3,1,6,0.67,0.67,0.5,0.17,1,1,1,0
+Arkansas,Lafayette County,1,1,0,2,2,0.5,0.5,0.0,1.0,1,1,0,1
+Arkansas,Lawrence County,2,2,1,0,6,0.33,0.33,0.17,0.0,0,0,0,0
+Arkansas,Lee County,2,2,1,2,4,0.5,0.5,0.25,0.5,1,1,0,1
+Arkansas,Lincoln County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+Arkansas,Little River County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Logan County,2,2,2,1,6,0.33,0.33,0.33,0.17,0,0,0,0
+Arkansas,Lonoke County,2,1,1,1,16,0.12,0.06,0.06,0.06,0,0,0,0
+Arkansas,Madison County,2,2,0,0,4,0.5,0.5,0.0,0.0,1,1,0,0
+Arkansas,Marion County,1,1,0,2,4,0.25,0.25,0.0,0.5,0,0,0,1
+Arkansas,Miller County,6,2,2,4,12,0.5,0.17,0.17,0.33,1,0,0,0
+Arkansas,Mississippi County,4,3,3,3,12,0.33,0.25,0.25,0.25,0,0,0,0
+Arkansas,Monroe County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Arkansas,Montgomery County,2,2,0,0,3,0.67,0.67,0.0,0.0,1,1,0,0
+Arkansas,Nevada County,3,3,1,1,3,1.0,1.0,0.33,0.33,1,1,0,0
+Arkansas,Newton County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Ouachita County,4,4,3,3,6,0.67,0.67,0.5,0.5,1,1,1,1
+Arkansas,Perry County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Arkansas,Phillips County,3,3,2,5,6,0.5,0.5,0.33,0.83,1,1,0,1
+Arkansas,Pike County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Arkansas,Poinsett County,1,1,1,3,7,0.14,0.14,0.14,0.43,0,0,0,0
+Arkansas,Polk County,3,3,0,0,6,0.5,0.5,0.0,0.0,1,1,0,0
+Arkansas,Pope County,4,4,3,2,11,0.36,0.36,0.27,0.18,0,0,0,0
+Arkansas,Prairie County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Pulaski County,36,30,30,25,95,0.38,0.32,0.32,0.26,0,0,0,0
+Arkansas,Randolph County,2,1,0,0,4,0.5,0.25,0.0,0.0,1,0,0,0
+Arkansas,Saline County,0,0,0,0,21,0.0,0.0,0.0,0.0,0,0,0,0
+Arkansas,Scott County,2,2,1,1,3,0.67,0.67,0.33,0.33,1,1,0,0
+Arkansas,Searcy County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Arkansas,Sebastian County,12,5,5,6,26,0.46,0.19,0.19,0.23,0,0,0,0
+Arkansas,Sevier County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Arkansas,Sharp County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Arkansas,St. Francis County,3,3,2,5,6,0.5,0.5,0.33,0.83,1,1,0,1
+Arkansas,Stone County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Arkansas,Union County,4,4,3,1,10,0.4,0.4,0.3,0.1,0,0,0,0
+Arkansas,Van Buren County,2,2,0,1,5,0.4,0.4,0.0,0.2,0,0,0,0
+Arkansas,Washington County,11,6,5,8,32,0.34,0.19,0.16,0.25,0,0,0,0
+Arkansas,White County,2,1,1,3,13,0.15,0.08,0.08,0.23,0,0,0,0
+Arkansas,Woodruff County,0,0,0,2,2,0.0,0.0,0.0,1.0,0,0,0,1
+Arkansas,Yell County,3,3,0,0,6,0.5,0.5,0.0,0.0,1,1,0,0
+California,Alameda County,83,11,11,34,360,0.23,0.03,0.03,0.09,0,0,0,0
+California,Alpine County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+California,Amador County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+California,Butte County,26,14,14,11,51,0.51,0.27,0.27,0.22,1,0,0,0
+California,Calaveras County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+California,Colusa County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+California,Contra Costa County,64,15,15,15,207,0.31,0.07,0.07,0.07,0,0,0,0
+California,Del Norte County,4,2,1,2,7,0.57,0.29,0.14,0.29,1,0,0,0
+California,El Dorado County,4,2,2,1,42,0.1,0.05,0.05,0.02,0,0,0,0
+California,Fresno County,100,27,25,34,199,0.5,0.14,0.13,0.17,1,0,0,0
+California,Glenn County,3,2,1,1,6,0.5,0.33,0.17,0.17,1,0,0,0
+California,Humboldt County,14,7,5,5,30,0.47,0.23,0.17,0.17,0,0,0,0
+California,Imperial County,18,9,9,12,31,0.58,0.29,0.29,0.39,1,0,0,0
+California,Inyo County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+California,Kern County,86,27,22,26,151,0.57,0.18,0.15,0.17,1,0,0,0
+California,Kings County,15,5,5,4,27,0.56,0.19,0.19,0.15,1,0,0,0
+California,Lake County,4,1,1,5,15,0.27,0.07,0.07,0.33,0,0,0,0
+California,Lassen County,3,3,2,3,9,0.33,0.33,0.22,0.33,0,0,0,0
+California,Los Angeles County,545,61,61,110,2334,0.23,0.03,0.03,0.05,0,0,0,0
+California,Madera County,7,3,3,3,23,0.3,0.13,0.13,0.13,0,0,0,0
+California,Marin County,1,0,0,0,55,0.02,0.0,0.0,0.0,0,0,0,0
+California,Mariposa County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+California,Mendocino County,10,6,3,3,20,0.5,0.3,0.15,0.15,1,0,0,0
+California,Merced County,25,13,12,6,49,0.51,0.27,0.24,0.12,1,0,0,0
+California,Modoc County,3,2,2,2,4,0.75,0.5,0.5,0.5,1,1,1,1
+California,Mono County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+California,Monterey County,17,3,2,1,93,0.18,0.03,0.02,0.01,0,0,0,0
+California,Napa County,6,0,0,1,40,0.15,0.0,0.0,0.02,0,0,0,0
+California,Nevada County,6,6,6,2,20,0.3,0.3,0.3,0.1,0,0,0,0
+California,Orange County,74,6,6,14,582,0.13,0.01,0.01,0.02,0,0,0,0
+California,Placer County,5,4,4,4,84,0.06,0.05,0.05,0.05,0,0,0,0
+California,Plumas County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+California,Riverside County,165,61,60,29,453,0.36,0.13,0.13,0.06,0,0,0,0
+California,Sacramento County,120,25,24,27,317,0.38,0.08,0.08,0.09,0,0,0,0
+California,San Benito County,8,4,3,0,11,0.73,0.36,0.27,0.0,1,0,0,0
+California,San Bernardino County,174,80,76,45,368,0.47,0.22,0.21,0.12,0,0,0,0
+California,San Diego County,128,25,23,14,627,0.2,0.04,0.04,0.02,0,0,0,0
+California,San Francisco County,16,3,3,7,195,0.08,0.02,0.02,0.04,0,0,0,0
+California,San Joaquin County,55,14,14,12,139,0.4,0.1,0.1,0.09,0,0,0,0
+California,San Luis Obispo County,11,1,1,3,53,0.21,0.02,0.02,0.06,0,0,0,0
+California,San Mateo County,7,0,0,1,156,0.04,0.0,0.0,0.01,0,0,0,0
+California,Santa Barbara County,16,4,4,4,89,0.18,0.04,0.04,0.04,0,0,0,0
+California,Santa Clara County,71,6,6,8,372,0.19,0.02,0.02,0.02,0,0,0,0
+California,Santa Cruz County,16,7,7,2,52,0.31,0.13,0.13,0.04,0,0,0,0
+California,Shasta County,18,11,10,5,48,0.38,0.23,0.21,0.1,0,0,0,0
+California,Sierra County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+California,Siskiyou County,6,5,2,4,14,0.43,0.36,0.14,0.29,0,0,0,0
+California,Solano County,19,4,4,4,96,0.2,0.04,0.04,0.04,0,0,0,0
+California,Sonoma County,13,4,4,3,99,0.13,0.04,0.04,0.03,0,0,0,0
+California,Stanislaus County,40,9,9,8,94,0.43,0.1,0.1,0.09,0,0,0,0
+California,Sutter County,8,4,3,2,21,0.38,0.19,0.14,0.1,0,0,0,0
+California,Tehama County,6,6,4,6,11,0.55,0.55,0.36,0.55,1,1,0,1
+California,Trinity County,2,2,0,0,5,0.4,0.4,0.0,0.0,0,0,0,0
+California,Tulare County,42,16,13,8,78,0.54,0.21,0.17,0.1,1,0,0,0
+California,Tuolumne County,1,0,0,1,11,0.09,0.0,0.0,0.09,0,0,0,0
+California,Ventura County,27,9,9,5,173,0.16,0.05,0.05,0.03,0,0,0,0
+California,Yolo County,17,1,0,2,41,0.41,0.02,0.0,0.05,0,0,0,0
+California,Yuba County,6,4,4,5,14,0.43,0.29,0.29,0.36,0,0,0,0
+Colorado,Adams County,46,17,17,8,96,0.48,0.18,0.18,0.08,0,0,0,0
+Colorado,Alamosa County,2,2,1,1,4,0.5,0.5,0.25,0.25,1,1,0,0
+Colorado,Arapahoe County,50,6,6,7,147,0.34,0.04,0.04,0.05,0,0,0,0
+Colorado,Archuleta County,2,2,1,0,4,0.5,0.5,0.25,0.0,1,1,0,0
+Colorado,Baca County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Colorado,Bent County,1,1,0,1,1,1.0,1.0,0.0,1.0,1,1,0,1
+Colorado,Boulder County,20,1,1,4,68,0.29,0.01,0.01,0.06,0,0,0,0
+Colorado,Broomfield County,1,1,1,0,15,0.07,0.07,0.07,0.0,0,0,0,0
+Colorado,Chaffee County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Colorado,Cheyenne County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Clear Creek County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Colorado,Conejos County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Costilla County,2,2,2,2,2,1.0,1.0,1.0,1.0,1,1,1,1
+Colorado,Crowley County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Custer County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Colorado,Delta County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Colorado,Denver County,57,17,17,27,143,0.4,0.12,0.12,0.19,0,0,0,0
+Colorado,Dolores County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Colorado,Douglas County,1,0,0,0,61,0.02,0.0,0.0,0.0,0,0,0,0
+Colorado,Eagle County,0,0,0,0,14,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,El Paso County,50,22,20,10,130,0.38,0.17,0.15,0.08,0,0,0,0
+Colorado,Elbert County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Colorado,Fremont County,8,6,5,3,14,0.57,0.43,0.36,0.21,1,0,0,0
+Colorado,Garfield County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Gilpin County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Grand County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Gunnison County,2,1,0,0,4,0.5,0.25,0.0,0.0,1,0,0,0
+Colorado,Hinsdale County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Huerfano County,1,0,0,0,2,0.5,0.0,0.0,0.0,1,0,0,0
+Colorado,Jackson County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Jefferson County,24,6,6,7,137,0.18,0.04,0.04,0.05,0,0,0,0
+Colorado,Kiowa County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Colorado,Kit Carson County,2,2,0,0,3,0.67,0.67,0.0,0.0,1,1,0,0
+Colorado,La Plata County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Lake County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Colorado,Larimer County,22,6,6,4,73,0.3,0.08,0.08,0.05,0,0,0,0
+Colorado,Las Animas County,6,3,1,2,6,1.0,0.5,0.17,0.33,1,1,0,0
+Colorado,Lincoln County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Colorado,Logan County,5,5,2,3,6,0.83,0.83,0.33,0.5,1,1,0,1
+Colorado,Mesa County,14,6,6,4,29,0.48,0.21,0.21,0.14,0,0,0,0
+Colorado,Mineral County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Moffat County,3,3,2,0,4,0.75,0.75,0.5,0.0,1,1,1,0
+Colorado,Montezuma County,3,3,1,0,7,0.43,0.43,0.14,0.0,0,0,0,0
+Colorado,Montrose County,5,4,3,1,10,0.5,0.4,0.3,0.1,1,0,0,0
+Colorado,Morgan County,4,2,2,1,8,0.5,0.25,0.25,0.12,1,0,0,0
+Colorado,Otero County,3,2,2,2,7,0.43,0.29,0.29,0.29,0,0,0,0
+Colorado,Ouray County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Park County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Colorado,Phillips County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Pitkin County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Prowers County,3,3,2,1,5,0.6,0.6,0.4,0.2,1,1,0,0
+Colorado,Pueblo County,39,22,20,10,54,0.72,0.41,0.37,0.19,1,0,0,0
+Colorado,Rio Blanco County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Rio Grande County,2,2,1,2,3,0.67,0.67,0.33,0.67,1,1,0,1
+Colorado,Routt County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Saguache County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Colorado,San Juan County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Colorado,San Miguel County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Sedgwick County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Summit County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Teller County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Washington County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Colorado,Weld County,22,12,12,3,77,0.29,0.16,0.16,0.04,0,0,0,0
+Colorado,Yuma County,2,2,0,0,2,1.0,1.0,0.0,0.0,1,1,0,0
+Connecticut,Fairfield County,48,12,12,25,210,0.23,0.06,0.06,0.12,0,0,0,0
+Connecticut,Hartford County,52,11,11,26,223,0.23,0.05,0.05,0.12,0,0,0,0
+Connecticut,Litchfield County,6,3,3,4,51,0.12,0.06,0.06,0.08,0,0,0,0
+Connecticut,Middlesex County,2,1,1,2,36,0.06,0.03,0.03,0.06,0,0,0,0
+Connecticut,New Haven County,72,21,21,46,189,0.38,0.11,0.11,0.24,0,0,0,0
+Connecticut,New London County,14,10,10,9,65,0.22,0.15,0.15,0.14,0,0,0,0
+Connecticut,Tolland County,6,5,5,4,29,0.21,0.17,0.17,0.14,0,0,0,0
+Connecticut,Windham County,7,2,2,5,25,0.28,0.08,0.08,0.2,0,0,0,0
+Delaware,Kent County,10,7,7,6,32,0.31,0.22,0.22,0.19,0,0,0,0
+Delaware,New Castle County,41,19,19,19,129,0.32,0.15,0.15,0.15,0,0,0,0
+Delaware,Sussex County,7,6,6,2,53,0.13,0.11,0.11,0.04,0,0,0,0
+District of Columbia,District of Columbia,49,12,12,43,179,0.27,0.07,0.07,0.24,0,0,0,0
+Florida,Alachua County,23,11,11,17,56,0.41,0.2,0.2,0.3,0,0,0,0
+Florida,Baker County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Florida,Bay County,11,6,6,6,43,0.26,0.14,0.14,0.14,0,0,0,0
+Florida,Bradford County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Florida,Brevard County,34,22,22,20,112,0.3,0.2,0.2,0.18,0,0,0,0
+Florida,Broward County,90,18,18,41,361,0.25,0.05,0.05,0.11,0,0,0,0
+Florida,Calhoun County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Florida,Charlotte County,8,5,5,1,38,0.21,0.13,0.13,0.03,0,0,0,0
+Florida,Citrus County,5,4,4,6,27,0.19,0.15,0.15,0.22,0,0,0,0
+Florida,Clay County,4,3,2,1,30,0.13,0.1,0.07,0.03,0,0,0,0
+Florida,Collier County,20,11,11,8,73,0.27,0.15,0.15,0.11,0,0,0,0
+Florida,Columbia County,1,1,0,1,12,0.08,0.08,0.0,0.08,0,0,0,0
+Florida,DeSoto County,3,2,2,1,9,0.33,0.22,0.22,0.11,0,0,0,0
+Florida,Dixie County,1,1,0,3,3,0.33,0.33,0.0,1.0,0,0,0,1
+Florida,Duval County,78,38,38,49,173,0.45,0.22,0.22,0.28,0,0,0,0
+Florida,Escambia County,26,16,16,15,71,0.37,0.23,0.23,0.21,0,0,0,0
+Florida,Flagler County,2,2,2,1,20,0.1,0.1,0.1,0.05,0,0,0,0
+Florida,Franklin County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Florida,Gadsden County,2,2,1,5,9,0.22,0.22,0.11,0.56,0,0,0,1
+Florida,Gilchrist County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Florida,Glades County,3,3,1,1,3,1.0,1.0,0.33,0.33,1,1,0,0
+Florida,Gulf County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Florida,Hamilton County,2,2,0,2,3,0.67,0.67,0.0,0.67,1,1,0,1
+Florida,Hardee County,3,3,1,1,6,0.5,0.5,0.17,0.17,1,1,0,0
+Florida,Hendry County,3,2,2,5,6,0.5,0.33,0.33,0.83,1,0,0,1
+Florida,Hernando County,15,12,12,4,44,0.34,0.27,0.27,0.09,0,0,0,0
+Florida,Highlands County,11,8,8,6,26,0.42,0.31,0.31,0.23,0,0,0,0
+Florida,Hillsborough County,106,45,45,41,316,0.34,0.14,0.14,0.13,0,0,0,0
+Florida,Holmes County,2,2,1,3,4,0.5,0.5,0.25,0.75,1,1,0,1
+Florida,Indian River County,5,4,4,2,29,0.17,0.14,0.14,0.07,0,0,0,0
+Florida,Jackson County,3,3,2,3,11,0.27,0.27,0.18,0.27,0,0,0,0
+Florida,Jefferson County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Florida,Lafayette County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Florida,Lake County,14,13,12,8,56,0.25,0.23,0.21,0.14,0,0,0,0
+Florida,Lee County,41,26,26,13,165,0.25,0.16,0.16,0.08,0,0,0,0
+Florida,Leon County,28,13,13,16,68,0.41,0.19,0.19,0.24,0,0,0,0
+Florida,Levy County,2,2,1,2,9,0.22,0.22,0.11,0.22,0,0,0,0
+Florida,Liberty County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Florida,Madison County,2,2,0,4,5,0.4,0.4,0.0,0.8,0,0,0,1
+Florida,Manatee County,25,10,10,9,78,0.32,0.13,0.13,0.12,0,0,0,0
+Florida,Marion County,17,12,11,16,61,0.28,0.2,0.18,0.26,0,0,0,0
+Florida,Martin County,6,5,5,3,34,0.18,0.15,0.15,0.09,0,0,0,0
+Florida,Miami-Dade County,133,16,16,48,515,0.26,0.03,0.03,0.09,0,0,0,0
+Florida,Monroe County,1,1,1,1,30,0.03,0.03,0.03,0.03,0,0,0,0
+Florida,Nassau County,1,1,1,1,12,0.08,0.08,0.08,0.08,0,0,0,0
+Florida,Okaloosa County,6,2,2,2,41,0.15,0.05,0.05,0.05,0,0,0,0
+Florida,Okeechobee County,7,7,6,2,11,0.64,0.64,0.55,0.18,1,1,1,0
+Florida,Orange County,87,33,33,39,206,0.42,0.16,0.16,0.19,0,0,0,0
+Florida,Osceola County,20,11,11,8,41,0.49,0.27,0.27,0.2,0,0,0,0
+Florida,Palm Beach County,77,13,13,36,333,0.23,0.04,0.04,0.11,0,0,0,0
+Florida,Pasco County,56,29,29,22,133,0.42,0.22,0.22,0.17,0,0,0,0
+Florida,Pinellas County,58,20,20,29,244,0.24,0.08,0.08,0.12,0,0,0,0
+Florida,Polk County,52,31,29,22,154,0.34,0.2,0.19,0.14,0,0,0,0
+Florida,Putnam County,5,5,4,7,16,0.31,0.31,0.25,0.44,0,0,0,0
+Florida,Santa Rosa County,2,2,2,1,25,0.08,0.08,0.08,0.04,0,0,0,0
+Florida,Sarasota County,19,9,9,5,94,0.2,0.1,0.1,0.05,0,0,0,0
+Florida,Seminole County,12,5,5,3,86,0.14,0.06,0.06,0.03,0,0,0,0
+Florida,St. Johns County,5,4,3,5,39,0.13,0.1,0.08,0.13,0,0,0,0
+Florida,St. Lucie County,17,8,8,8,43,0.4,0.19,0.19,0.19,0,0,0,0
+Florida,Sumter County,2,1,1,0,19,0.11,0.05,0.05,0.0,0,0,0,0
+Florida,Suwannee County,2,2,0,3,7,0.29,0.29,0.0,0.43,0,0,0,0
+Florida,Taylor County,3,3,1,2,4,0.75,0.75,0.25,0.5,1,1,0,1
+Florida,Union County,2,2,1,0,3,0.67,0.67,0.33,0.0,1,1,0,0
+Florida,Volusia County,38,26,25,15,113,0.34,0.23,0.22,0.13,0,0,0,0
+Florida,Wakulla County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Florida,Walton County,4,4,1,4,11,0.36,0.36,0.09,0.36,0,0,0,0
+Florida,Washington County,4,4,0,1,7,0.57,0.57,0.0,0.14,1,1,0,0
+Georgia,Appling County,3,3,2,2,5,0.6,0.6,0.4,0.4,1,1,0,0
+Georgia,Atkinson County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Georgia,Bacon County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+Georgia,Baker County,2,2,0,0,2,1.0,1.0,0.0,0.0,1,1,0,0
+Georgia,Baldwin County,5,4,4,5,9,0.56,0.44,0.44,0.56,1,0,0,1
+Georgia,Banks County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Georgia,Barrow County,6,5,5,0,18,0.33,0.28,0.28,0.0,0,0,0,0
+Georgia,Bartow County,4,4,4,5,15,0.27,0.27,0.27,0.33,0,0,0,0
+Georgia,Ben Hill County,2,2,2,3,5,0.4,0.4,0.4,0.6,0,0,0,1
+Georgia,Berrien County,2,2,0,1,6,0.33,0.33,0.0,0.17,0,0,0,0
+Georgia,Bibb County,29,15,15,19,44,0.66,0.34,0.34,0.43,1,0,0,0
+Georgia,Bleckley County,1,1,1,2,3,0.33,0.33,0.33,0.67,0,0,0,1
+Georgia,Brantley County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Georgia,Brooks County,2,2,1,0,5,0.4,0.4,0.2,0.0,0,0,0,0
+Georgia,Bryan County,1,1,1,2,6,0.17,0.17,0.17,0.33,0,0,0,0
+Georgia,Bulloch County,5,2,2,5,12,0.42,0.17,0.17,0.42,0,0,0,0
+Georgia,Burke County,3,3,1,2,6,0.5,0.5,0.17,0.33,1,1,0,0
+Georgia,Butts County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Georgia,Calhoun County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Georgia,Camden County,4,4,4,2,10,0.4,0.4,0.4,0.2,0,0,0,0
+Georgia,Candler County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+Georgia,Carroll County,5,5,5,5,17,0.29,0.29,0.29,0.29,0,0,0,0
+Georgia,Catoosa County,1,1,1,0,11,0.09,0.09,0.09,0.0,0,0,0,0
+Georgia,Charlton County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Georgia,Chatham County,34,14,14,18,71,0.48,0.2,0.2,0.25,0,0,0,0
+Georgia,Chattahoochee County,3,3,2,1,5,0.6,0.6,0.4,0.2,1,1,0,0
+Georgia,Chattooga County,3,3,3,1,6,0.5,0.5,0.5,0.17,1,1,1,0
+Georgia,Cherokee County,2,2,2,2,26,0.08,0.08,0.08,0.08,0,0,0,0
+Georgia,Clarke County,19,13,13,11,30,0.63,0.43,0.43,0.37,1,0,0,0
+Georgia,Clay County,0,0,0,1,1,0.0,0.0,0.0,1.0,0,0,0,1
+Georgia,Clayton County,37,22,22,16,49,0.76,0.45,0.45,0.33,1,0,0,0
+Georgia,Clinch County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Cobb County,26,12,12,13,120,0.22,0.1,0.1,0.11,0,0,0,0
+Georgia,Coffee County,2,2,0,8,9,0.22,0.22,0.0,0.89,0,0,0,1
+Georgia,Colquitt County,5,4,3,4,10,0.5,0.4,0.3,0.4,1,0,0,0
+Georgia,Columbia County,1,0,0,0,20,0.05,0.0,0.0,0.0,0,0,0,0
+Georgia,Cook County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Georgia,Coweta County,3,3,3,3,20,0.15,0.15,0.15,0.15,0,0,0,0
+Georgia,Crawford County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Georgia,Crisp County,1,1,1,2,6,0.17,0.17,0.17,0.33,0,0,0,0
+Georgia,Dade County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Dawson County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,DeKalb County,65,38,38,49,144,0.45,0.26,0.26,0.34,0,0,0,0
+Georgia,Decatur County,3,3,1,2,7,0.43,0.43,0.14,0.29,0,0,0,0
+Georgia,Dodge County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Georgia,Dooly County,2,2,2,2,3,0.67,0.67,0.67,0.67,1,1,1,1
+Georgia,Dougherty County,17,15,15,16,27,0.63,0.56,0.56,0.59,1,1,1,1
+Georgia,Douglas County,6,6,6,4,20,0.3,0.3,0.3,0.2,0,0,0,0
+Georgia,Early County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Echols County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Effingham County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Elbert County,2,2,1,4,5,0.4,0.4,0.2,0.8,0,0,0,1
+Georgia,Emanuel County,4,4,1,4,6,0.67,0.67,0.17,0.67,1,1,0,1
+Georgia,Evans County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Georgia,Fannin County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Georgia,Fayette County,0,0,0,0,20,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Floyd County,9,7,7,8,20,0.45,0.35,0.35,0.4,0,0,0,0
+Georgia,Forsyth County,1,1,1,0,45,0.02,0.02,0.02,0.0,0,0,0,0
+Georgia,Franklin County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Georgia,Fulton County,88,44,44,69,202,0.44,0.22,0.22,0.34,0,0,0,0
+Georgia,Gilmer County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Georgia,Glascock County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Georgia,Glynn County,7,5,5,3,15,0.47,0.33,0.33,0.2,0,0,0,0
+Georgia,Gordon County,4,3,3,5,9,0.44,0.33,0.33,0.56,0,0,0,1
+Georgia,Grady County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Georgia,Greene County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Georgia,Gwinnett County,39,18,18,7,113,0.35,0.16,0.16,0.06,0,0,0,0
+Georgia,Habersham County,1,1,1,1,8,0.12,0.12,0.12,0.12,0,0,0,0
+Georgia,Hall County,6,4,4,3,36,0.17,0.11,0.11,0.08,0,0,0,0
+Georgia,Hancock County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Georgia,Haralson County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+Georgia,Harris County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Hart County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Georgia,Heard County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Georgia,Henry County,4,3,3,1,25,0.16,0.12,0.12,0.04,0,0,0,0
+Georgia,Houston County,8,6,6,7,23,0.35,0.26,0.26,0.3,0,0,0,0
+Georgia,Irwin County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Georgia,Jackson County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Jasper County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Georgia,Jeff Davis County,2,2,1,2,3,0.67,0.67,0.33,0.67,1,1,0,1
+Georgia,Jefferson County,0,0,0,3,4,0.0,0.0,0.0,0.75,0,0,0,1
+Georgia,Jenkins County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Georgia,Johnson County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Georgia,Jones County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Georgia,Lamar County,1,1,1,2,3,0.33,0.33,0.33,0.67,0,0,0,1
+Georgia,Lanier County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Georgia,Laurens County,6,5,3,4,13,0.46,0.38,0.23,0.31,0,0,0,0
+Georgia,Lee County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Liberty County,7,5,5,1,14,0.5,0.36,0.36,0.07,1,0,0,0
+Georgia,Lincoln County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Long County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Lowndes County,13,6,6,7,25,0.52,0.24,0.24,0.28,1,0,0,0
+Georgia,Lumpkin County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Georgia,Macon County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Georgia,Madison County,1,1,0,0,6,0.17,0.17,0.0,0.0,0,0,0,0
+Georgia,Marion County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Georgia,McDuffie County,0,0,0,2,5,0.0,0.0,0.0,0.4,0,0,0,0
+Georgia,McIntosh County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Georgia,Meriwether County,1,1,0,4,4,0.25,0.25,0.0,1.0,0,0,0,1
+Georgia,Miller County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Mitchell County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+Georgia,Monroe County,0,0,0,2,5,0.0,0.0,0.0,0.4,0,0,0,0
+Georgia,Montgomery County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Georgia,Morgan County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Murray County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Muscogee County,32,11,11,18,53,0.6,0.21,0.21,0.34,1,0,0,0
+Georgia,Newton County,8,8,7,5,13,0.62,0.62,0.54,0.38,1,1,1,0
+Georgia,Oconee County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Oglethorpe County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Paulding County,1,1,1,1,19,0.05,0.05,0.05,0.05,0,0,0,0
+Georgia,Peach County,0,0,0,3,6,0.0,0.0,0.0,0.5,0,0,0,1
+Georgia,Pickens County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Pierce County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+Georgia,Pike County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Polk County,1,1,1,2,7,0.14,0.14,0.14,0.29,0,0,0,0
+Georgia,Pulaski County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Georgia,Putnam County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Georgia,Quitman County,0,0,0,1,1,0.0,0.0,0.0,1.0,0,0,0,1
+Georgia,Rabun County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Randolph County,1,1,1,2,2,0.5,0.5,0.5,1.0,1,1,1,1
+Georgia,Richmond County,30,25,25,19,47,0.64,0.53,0.53,0.4,1,1,1,0
+Georgia,Rockdale County,4,4,4,4,15,0.27,0.27,0.27,0.27,0,0,0,0
+Georgia,Schley County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Screven County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Georgia,Seminole County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Georgia,Spalding County,6,5,5,6,12,0.5,0.42,0.42,0.5,1,0,0,1
+Georgia,Stephens County,2,2,2,1,5,0.4,0.4,0.4,0.2,0,0,0,0
+Georgia,Stewart County,1,1,0,2,2,0.5,0.5,0.0,1.0,1,1,0,1
+Georgia,Sumter County,2,1,1,3,8,0.25,0.12,0.12,0.38,0,0,0,0
+Georgia,Talbot County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Georgia,Taliaferro County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Georgia,Tattnall County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+Georgia,Taylor County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Telfair County,2,2,1,1,3,0.67,0.67,0.33,0.33,1,1,0,0
+Georgia,Terrell County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Georgia,Thomas County,2,2,2,3,11,0.18,0.18,0.18,0.27,0,0,0,0
+Georgia,Tift County,3,3,3,4,9,0.33,0.33,0.33,0.44,0,0,0,0
+Georgia,Toombs County,2,2,1,2,6,0.33,0.33,0.17,0.33,0,0,0,0
+Georgia,Towns County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Treutlen County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Troup County,5,3,3,5,14,0.36,0.21,0.21,0.36,0,0,0,0
+Georgia,Turner County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Georgia,Twiggs County,0,0,0,2,2,0.0,0.0,0.0,1.0,0,0,0,1
+Georgia,Union County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Upson County,3,3,2,2,7,0.43,0.43,0.29,0.29,0,0,0,0
+Georgia,Walker County,5,5,5,4,13,0.38,0.38,0.38,0.31,0,0,0,0
+Georgia,Walton County,3,3,3,2,15,0.2,0.2,0.2,0.13,0,0,0,0
+Georgia,Ware County,6,5,2,4,9,0.67,0.56,0.22,0.44,1,1,0,0
+Georgia,Warren County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Georgia,Washington County,2,2,1,3,5,0.4,0.4,0.2,0.6,0,0,0,1
+Georgia,Wayne County,2,2,1,2,6,0.33,0.33,0.17,0.33,0,0,0,0
+Georgia,Webster County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Wheeler County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Georgia,White County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Georgia,Whitfield County,6,3,3,3,18,0.33,0.17,0.17,0.17,0,0,0,0
+Georgia,Wilcox County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Georgia,Wilkes County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+Georgia,Wilkinson County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Georgia,Worth County,0,0,0,2,5,0.0,0.0,0.0,0.4,0,0,0,0
+Hawaii,Hawaii County,12,10,5,5,33,0.36,0.3,0.15,0.15,0,0,0,0
+Hawaii,Honolulu County,30,19,19,9,239,0.13,0.08,0.08,0.04,0,0,0,0
+Hawaii,Kalawao County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Hawaii,Kauai County,0,0,0,0,14,0.0,0.0,0.0,0.0,0,0,0,0
+Hawaii,Maui County,5,3,1,0,34,0.15,0.09,0.03,0.0,0,0,0,0
+Idaho,Ada County,11,1,1,3,59,0.19,0.02,0.02,0.05,0,0,0,0
+Idaho,Adams County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Bannock County,9,6,6,0,22,0.41,0.27,0.27,0.0,0,0,0,0
+Idaho,Bear Lake County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Benewah County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Idaho,Bingham County,1,1,0,0,8,0.12,0.12,0.0,0.0,0,0,0,0
+Idaho,Blaine County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Boise County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Bonner County,1,1,1,1,9,0.11,0.11,0.11,0.11,0,0,0,0
+Idaho,Bonneville County,5,1,1,4,21,0.24,0.05,0.05,0.19,0,0,0,0
+Idaho,Boundary County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Butte County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Idaho,Camas County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Idaho,Canyon County,16,6,6,5,29,0.55,0.21,0.21,0.17,1,0,0,0
+Idaho,Caribou County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Cassia County,1,0,0,0,6,0.17,0.0,0.0,0.0,0,0,0,0
+Idaho,Clark County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Idaho,Clearwater County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Custer County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Idaho,Elmore County,2,2,2,1,5,0.4,0.4,0.4,0.2,0,0,0,0
+Idaho,Franklin County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Fremont County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Gem County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Idaho,Gooding County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Idaho County,2,2,1,2,5,0.4,0.4,0.2,0.4,0,0,0,0
+Idaho,Jefferson County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Jerome County,3,2,1,0,5,0.6,0.4,0.2,0.0,1,0,0,0
+Idaho,Kootenai County,5,0,0,1,25,0.2,0.0,0.0,0.04,0,0,0,0
+Idaho,Latah County,3,3,3,0,7,0.43,0.43,0.43,0.0,0,0,0,0
+Idaho,Lemhi County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Idaho,Lewis County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Lincoln County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Madison County,4,2,2,1,6,0.67,0.33,0.33,0.17,1,0,0,0
+Idaho,Minidoka County,2,2,2,0,5,0.4,0.4,0.4,0.0,0,0,0,0
+Idaho,Nez Perce County,1,1,1,0,10,0.1,0.1,0.1,0.0,0,0,0,0
+Idaho,Oneida County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Owyhee County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Idaho,Payette County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Power County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Idaho,Shoshone County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Idaho,Teton County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Twin Falls County,2,1,1,1,14,0.14,0.07,0.07,0.07,0,0,0,0
+Idaho,Valley County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Idaho,Washington County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Illinois,Adams County,7,1,1,2,18,0.39,0.06,0.06,0.11,0,0,0,0
+Illinois,Alexander County,3,3,2,1,4,0.75,0.75,0.5,0.25,1,1,1,0
+Illinois,Bond County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Illinois,Boone County,3,2,2,2,7,0.43,0.29,0.29,0.29,0,0,0,0
+Illinois,Brown County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Bureau County,1,1,1,0,10,0.1,0.1,0.1,0.0,0,0,0,0
+Illinois,Calhoun County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Carroll County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Illinois,Cass County,2,0,0,0,5,0.4,0.0,0.0,0.0,0,0,0,0
+Illinois,Champaign County,18,3,3,11,43,0.42,0.07,0.07,0.26,0,0,0,0
+Illinois,Christian County,5,0,0,1,10,0.5,0.0,0.0,0.1,1,0,0,0
+Illinois,Clark County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Illinois,Clay County,1,0,0,1,4,0.25,0.0,0.0,0.25,0,0,0,0
+Illinois,Clinton County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Coles County,9,6,5,5,12,0.75,0.5,0.42,0.42,1,1,0,0
+Illinois,Cook County,331,51,51,186,1314,0.25,0.04,0.04,0.14,0,0,0,0
+Illinois,Crawford County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Illinois,Cumberland County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,De Witt County,2,0,0,0,5,0.4,0.0,0.0,0.0,0,0,0,0
+Illinois,DeKalb County,7,5,5,3,21,0.33,0.24,0.24,0.14,0,0,0,0
+Illinois,Douglas County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Illinois,DuPage County,12,0,0,2,216,0.06,0.0,0.0,0.01,0,0,0,0
+Illinois,Edgar County,2,2,2,2,5,0.4,0.4,0.4,0.4,0,0,0,0
+Illinois,Edwards County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Illinois,Effingham County,3,2,1,0,8,0.38,0.25,0.12,0.0,0,0,0,0
+Illinois,Fayette County,5,5,2,1,7,0.71,0.71,0.29,0.14,1,1,0,0
+Illinois,Ford County,2,1,1,0,5,0.4,0.2,0.2,0.0,0,0,0,0
+Illinois,Franklin County,6,3,2,3,12,0.5,0.25,0.17,0.25,1,0,0,0
+Illinois,Fulton County,4,2,0,1,12,0.33,0.17,0.0,0.08,0,0,0,0
+Illinois,Gallatin County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Illinois,Greene County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Illinois,Grundy County,1,1,1,0,10,0.1,0.1,0.1,0.0,0,0,0,0
+Illinois,Hamilton County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Illinois,Hancock County,3,3,1,0,7,0.43,0.43,0.14,0.0,0,0,0,0
+Illinois,Hardin County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Henderson County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Henry County,3,2,2,1,13,0.23,0.15,0.15,0.08,0,0,0,0
+Illinois,Iroquois County,3,3,1,1,9,0.33,0.33,0.11,0.11,0,0,0,0
+Illinois,Jackson County,9,7,5,8,14,0.64,0.5,0.36,0.57,1,1,0,1
+Illinois,Jasper County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Illinois,Jefferson County,5,4,2,2,11,0.45,0.36,0.18,0.18,0,0,0,0
+Illinois,Jersey County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Illinois,Jo Daviess County,1,1,0,0,6,0.17,0.17,0.0,0.0,0,0,0,0
+Illinois,Johnson County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Kane County,30,5,5,4,82,0.37,0.06,0.06,0.05,0,0,0,0
+Illinois,Kankakee County,10,5,5,7,29,0.34,0.17,0.17,0.24,0,0,0,0
+Illinois,Kendall County,1,1,1,0,10,0.1,0.1,0.1,0.0,0,0,0,0
+Illinois,Knox County,7,4,4,2,16,0.44,0.25,0.25,0.12,0,0,0,0
+Illinois,LaSalle County,7,5,5,4,28,0.25,0.18,0.18,0.14,0,0,0,0
+Illinois,Lake County,26,8,8,7,152,0.17,0.05,0.05,0.05,0,0,0,0
+Illinois,Lawrence County,2,1,1,0,5,0.4,0.2,0.2,0.0,0,0,0,0
+Illinois,Lee County,1,1,1,1,9,0.11,0.11,0.11,0.11,0,0,0,0
+Illinois,Livingston County,2,2,2,1,10,0.2,0.2,0.2,0.1,0,0,0,0
+Illinois,Logan County,1,0,0,1,8,0.12,0.0,0.0,0.12,0,0,0,0
+Illinois,Macon County,17,4,4,10,34,0.5,0.12,0.12,0.29,1,0,0,0
+Illinois,Macoupin County,4,1,0,1,13,0.31,0.08,0.0,0.08,0,0,0,0
+Illinois,Madison County,25,16,16,18,61,0.41,0.26,0.26,0.3,0,0,0,0
+Illinois,Marion County,6,5,4,3,12,0.5,0.42,0.33,0.25,1,0,0,0
+Illinois,Marshall County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Mason County,2,2,1,0,6,0.33,0.33,0.17,0.0,0,0,0,0
+Illinois,Massac County,2,1,1,1,4,0.5,0.25,0.25,0.25,1,0,0,0
+Illinois,McDonough County,6,5,4,2,10,0.6,0.5,0.4,0.2,1,1,0,0
+Illinois,McHenry County,4,2,2,1,52,0.08,0.04,0.04,0.02,0,0,0,0
+Illinois,McLean County,16,8,7,10,41,0.39,0.2,0.17,0.24,0,0,0,0
+Illinois,Menard County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Mercer County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Illinois,Monroe County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Montgomery County,4,4,3,3,8,0.5,0.5,0.38,0.38,1,1,0,0
+Illinois,Morgan County,5,5,4,2,10,0.5,0.5,0.4,0.2,1,1,0,0
+Illinois,Moultrie County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Ogle County,2,2,2,0,11,0.18,0.18,0.18,0.0,0,0,0,0
+Illinois,Peoria County,25,16,16,18,48,0.52,0.33,0.33,0.38,1,0,0,0
+Illinois,Perry County,2,2,2,3,6,0.33,0.33,0.33,0.5,0,0,0,1
+Illinois,Piatt County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Pike County,4,4,1,0,5,0.8,0.8,0.2,0.0,1,1,0,0
+Illinois,Pope County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Pulaski County,2,2,0,2,2,1.0,1.0,0.0,1.0,1,1,0,1
+Illinois,Putnam County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Randolph County,1,1,1,1,9,0.11,0.11,0.11,0.11,0,0,0,0
+Illinois,Richland County,2,0,0,0,5,0.4,0.0,0.0,0.0,0,0,0,0
+Illinois,Rock Island County,21,10,10,8,40,0.52,0.25,0.25,0.2,1,0,0,0
+Illinois,Saline County,5,3,3,2,9,0.56,0.33,0.33,0.22,1,0,0,0
+Illinois,Sangamon County,24,5,5,12,53,0.45,0.09,0.09,0.23,0,0,0,0
+Illinois,Schuyler County,2,1,0,0,3,0.67,0.33,0.0,0.0,1,0,0,0
+Illinois,Scott County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Shelby County,2,1,0,0,6,0.33,0.17,0.0,0.0,0,0,0,0
+Illinois,St. Clair County,27,20,20,19,60,0.45,0.33,0.33,0.32,0,0,0,0
+Illinois,Stark County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Stephenson County,4,0,0,2,13,0.31,0.0,0.0,0.15,0,0,0,0
+Illinois,Tazewell County,7,3,3,4,30,0.23,0.1,0.1,0.13,0,0,0,0
+Illinois,Union County,2,1,1,1,5,0.4,0.2,0.2,0.2,0,0,0,0
+Illinois,Vermilion County,11,6,6,9,24,0.46,0.25,0.25,0.38,0,0,0,0
+Illinois,Wabash County,2,1,1,0,4,0.5,0.25,0.25,0.0,1,0,0,0
+Illinois,Warren County,2,1,1,0,5,0.4,0.2,0.2,0.0,0,0,0,0
+Illinois,Washington County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Illinois,Wayne County,4,2,0,0,5,0.8,0.4,0.0,0.0,1,0,0,0
+Illinois,White County,1,0,0,1,5,0.2,0.0,0.0,0.2,0,0,0,0
+Illinois,Whiteside County,5,4,4,1,18,0.28,0.22,0.22,0.06,0,0,0,0
+Illinois,Will County,35,16,16,9,151,0.23,0.11,0.11,0.06,0,0,0,0
+Illinois,Williamson County,5,5,5,4,15,0.33,0.33,0.33,0.27,0,0,0,0
+Illinois,Winnebago County,37,11,11,12,77,0.48,0.14,0.14,0.16,0,0,0,0
+Illinois,Woodford County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Adams County,1,1,1,2,7,0.14,0.14,0.14,0.29,0,0,0,0
+Indiana,Allen County,37,20,20,16,96,0.39,0.21,0.21,0.17,0,0,0,0
+Indiana,Bartholomew County,4,4,4,3,15,0.27,0.27,0.27,0.2,0,0,0,0
+Indiana,Benton County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Blackford County,2,1,1,1,4,0.5,0.25,0.25,0.25,1,0,0,0
+Indiana,Boone County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Brown County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Carroll County,1,0,0,0,7,0.14,0.0,0.0,0.0,0,0,0,0
+Indiana,Cass County,3,2,2,1,11,0.27,0.18,0.18,0.09,0,0,0,0
+Indiana,Clark County,7,3,3,2,26,0.27,0.12,0.12,0.08,0,0,0,0
+Indiana,Clay County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Indiana,Clinton County,3,0,0,0,8,0.38,0.0,0.0,0.0,0,0,0,0
+Indiana,Crawford County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Indiana,Daviess County,2,2,2,2,7,0.29,0.29,0.29,0.29,0,0,0,0
+Indiana,DeKalb County,2,2,2,0,9,0.22,0.22,0.22,0.0,0,0,0,0
+Indiana,Dearborn County,2,2,2,2,10,0.2,0.2,0.2,0.2,0,0,0,0
+Indiana,Decatur County,2,1,0,0,6,0.33,0.17,0.0,0.0,0,0,0,0
+Indiana,Delaware County,17,12,12,9,30,0.57,0.4,0.4,0.3,1,0,0,0
+Indiana,Dubois County,1,0,0,0,7,0.14,0.0,0.0,0.0,0,0,0,0
+Indiana,Elkhart County,12,7,7,8,36,0.33,0.19,0.19,0.22,0,0,0,0
+Indiana,Fayette County,3,2,2,2,7,0.43,0.29,0.29,0.29,0,0,0,0
+Indiana,Floyd County,6,1,1,3,20,0.3,0.05,0.05,0.15,0,0,0,0
+Indiana,Fountain County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Indiana,Franklin County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Indiana,Fulton County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Gibson County,1,0,0,0,7,0.14,0.0,0.0,0.0,0,0,0,0
+Indiana,Grant County,8,5,5,5,16,0.5,0.31,0.31,0.31,1,0,0,0
+Indiana,Greene County,2,1,1,0,9,0.22,0.11,0.11,0.0,0,0,0,0
+Indiana,Hamilton County,1,0,0,0,39,0.03,0.0,0.0,0.0,0,0,0,0
+Indiana,Hancock County,2,2,2,0,10,0.2,0.2,0.2,0.0,0,0,0,0
+Indiana,Harrison County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Hendricks County,2,1,1,0,21,0.1,0.05,0.05,0.0,0,0,0,0
+Indiana,Henry County,5,1,1,0,13,0.38,0.08,0.08,0.0,0,0,0,0
+Indiana,Howard County,9,5,5,7,20,0.45,0.25,0.25,0.35,0,0,0,0
+Indiana,Huntington County,2,1,1,1,9,0.22,0.11,0.11,0.11,0,0,0,0
+Indiana,Jackson County,2,1,1,1,10,0.2,0.1,0.1,0.1,0,0,0,0
+Indiana,Jasper County,2,2,2,0,8,0.25,0.25,0.25,0.0,0,0,0,0
+Indiana,Jay County,3,3,3,2,7,0.43,0.43,0.43,0.29,0,0,0,0
+Indiana,Jefferson County,2,0,0,1,7,0.29,0.0,0.0,0.14,0,0,0,0
+Indiana,Jennings County,2,2,2,1,6,0.33,0.33,0.33,0.17,0,0,0,0
+Indiana,Johnson County,4,4,4,1,22,0.18,0.18,0.18,0.05,0,0,0,0
+Indiana,Knox County,5,0,0,2,10,0.5,0.0,0.0,0.2,1,0,0,0
+Indiana,Kosciusko County,1,0,0,0,19,0.05,0.0,0.0,0.0,0,0,0,0
+Indiana,LaGrange County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,LaPorte County,11,8,8,9,28,0.39,0.29,0.29,0.32,0,0,0,0
+Indiana,Lake County,66,31,31,28,117,0.56,0.26,0.26,0.24,1,0,0,0
+Indiana,Lawrence County,4,2,2,1,10,0.4,0.2,0.2,0.1,0,0,0,0
+Indiana,Madison County,20,12,12,8,37,0.54,0.32,0.32,0.22,1,0,0,0
+Indiana,Marion County,133,68,68,77,224,0.59,0.3,0.3,0.34,1,0,0,0
+Indiana,Marshall County,2,0,0,1,12,0.17,0.0,0.0,0.08,0,0,0,0
+Indiana,Martin County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Miami County,5,2,2,0,10,0.5,0.2,0.2,0.0,1,0,0,0
+Indiana,Monroe County,13,4,4,11,31,0.42,0.13,0.13,0.35,0,0,0,0
+Indiana,Montgomery County,1,1,1,1,9,0.11,0.11,0.11,0.11,0,0,0,0
+Indiana,Morgan County,3,1,1,0,13,0.23,0.08,0.08,0.0,0,0,0,0
+Indiana,Newton County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Indiana,Noble County,2,1,1,1,10,0.2,0.1,0.1,0.1,0,0,0,0
+Indiana,Ohio County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Orange County,1,0,0,1,6,0.17,0.0,0.0,0.17,0,0,0,0
+Indiana,Owen County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Parke County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Indiana,Perry County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Pike County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Porter County,7,5,5,2,31,0.23,0.16,0.16,0.06,0,0,0,0
+Indiana,Posey County,2,1,1,0,7,0.29,0.14,0.14,0.0,0,0,0,0
+Indiana,Pulaski County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Indiana,Putnam County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Indiana,Randolph County,3,3,3,1,8,0.38,0.38,0.38,0.12,0,0,0,0
+Indiana,Ripley County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Rush County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Indiana,Scott County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Indiana,Shelby County,3,1,1,1,10,0.3,0.1,0.1,0.1,0,0,0,0
+Indiana,Spencer County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,St. Joseph County,29,10,10,10,75,0.39,0.13,0.13,0.13,0,0,0,0
+Indiana,Starke County,1,0,0,0,7,0.14,0.0,0.0,0.0,0,0,0,0
+Indiana,Steuben County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Sullivan County,2,2,1,2,5,0.4,0.4,0.2,0.4,0,0,0,0
+Indiana,Switzerland County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Tippecanoe County,21,12,12,11,37,0.57,0.32,0.32,0.3,1,0,0,0
+Indiana,Tipton County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Union County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Vanderburgh County,27,9,9,15,49,0.55,0.18,0.18,0.31,1,0,0,0
+Indiana,Vermillion County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Indiana,Vigo County,15,13,13,9,28,0.54,0.46,0.46,0.32,1,0,0,0
+Indiana,Wabash County,2,1,1,1,8,0.25,0.12,0.12,0.12,0,0,0,0
+Indiana,Warren County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Warrick County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Washington County,1,0,0,1,6,0.17,0.0,0.0,0.17,0,0,0,0
+Indiana,Wayne County,7,7,7,4,17,0.41,0.41,0.41,0.24,0,0,0,0
+Indiana,Wells County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Indiana,White County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Indiana,Whitley County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Adair County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Adams County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Allamakee County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Appanoose County,2,1,0,0,5,0.4,0.2,0.0,0.0,0,0,0,0
+Iowa,Audubon County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Benton County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Black Hawk County,16,10,10,3,38,0.42,0.26,0.26,0.08,0,0,0,0
+Iowa,Boone County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Bremer County,1,0,0,0,8,0.12,0.0,0.0,0.0,0,0,0,0
+Iowa,Buchanan County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Buena Vista County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Butler County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Calhoun County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Carroll County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Cass County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Cedar County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Cerro Gordo County,3,2,2,0,11,0.27,0.18,0.18,0.0,0,0,0,0
+Iowa,Cherokee County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Chickasaw County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Clarke County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Iowa,Clay County,1,0,0,1,4,0.25,0.0,0.0,0.25,0,0,0,0
+Iowa,Clayton County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Clinton County,4,2,2,3,12,0.33,0.17,0.17,0.25,0,0,0,0
+Iowa,Crawford County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Iowa,Dallas County,2,1,1,1,15,0.13,0.07,0.07,0.07,0,0,0,0
+Iowa,Davis County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Decatur County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Iowa,Delaware County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Des Moines County,4,1,1,2,11,0.36,0.09,0.09,0.18,0,0,0,0
+Iowa,Dickinson County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Dubuque County,7,4,4,1,26,0.27,0.15,0.15,0.04,0,0,0,0
+Iowa,Emmet County,2,1,0,0,4,0.5,0.25,0.0,0.0,1,0,0,0
+Iowa,Fayette County,2,0,0,1,7,0.29,0.0,0.0,0.14,0,0,0,0
+Iowa,Floyd County,2,1,1,0,5,0.4,0.2,0.2,0.0,0,0,0,0
+Iowa,Franklin County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Iowa,Fremont County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Greene County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Grundy County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Guthrie County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Hamilton County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Hancock County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Hardin County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Harrison County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Iowa,Henry County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+Iowa,Howard County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Humboldt County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Ida County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Iowa County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Jackson County,2,1,1,2,6,0.33,0.17,0.17,0.33,0,0,0,0
+Iowa,Jasper County,3,1,1,0,9,0.33,0.11,0.11,0.0,0,0,0,0
+Iowa,Jefferson County,1,0,0,1,4,0.25,0.0,0.0,0.25,0,0,0,0
+Iowa,Johnson County,7,3,3,4,24,0.29,0.12,0.12,0.17,0,0,0,0
+Iowa,Jones County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Iowa,Keokuk County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Kossuth County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Lee County,4,4,4,2,11,0.36,0.36,0.36,0.18,0,0,0,0
+Iowa,Linn County,15,4,4,4,45,0.33,0.09,0.09,0.09,0,0,0,0
+Iowa,Louisa County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Lucas County,2,1,1,1,4,0.5,0.25,0.25,0.25,1,0,0,0
+Iowa,Lyon County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Madison County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Iowa,Mahaska County,3,1,1,1,7,0.43,0.14,0.14,0.14,0,0,0,0
+Iowa,Marion County,1,0,0,0,8,0.12,0.0,0.0,0.0,0,0,0,0
+Iowa,Marshall County,3,3,3,2,10,0.3,0.3,0.3,0.2,0,0,0,0
+Iowa,Mills County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Mitchell County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Monona County,1,0,0,0,4,0.25,0.0,0.0,0.0,0,0,0,0
+Iowa,Monroe County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Montgomery County,1,0,0,0,4,0.25,0.0,0.0,0.0,0,0,0,0
+Iowa,Muscatine County,4,2,2,0,10,0.4,0.2,0.2,0.0,0,0,0,0
+Iowa,O'Brien County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Osceola County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Page County,2,2,1,0,6,0.33,0.33,0.17,0.0,0,0,0,0
+Iowa,Palo Alto County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Plymouth County,1,0,0,0,6,0.17,0.0,0.0,0.0,0,0,0,0
+Iowa,Pocahontas County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Polk County,35,9,9,9,97,0.36,0.09,0.09,0.09,0,0,0,0
+Iowa,Pottawattamie County,12,5,5,2,30,0.4,0.17,0.17,0.07,0,0,0,0
+Iowa,Poweshiek County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Iowa,Ringgold County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Sac County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Scott County,15,2,2,4,47,0.32,0.04,0.04,0.09,0,0,0,0
+Iowa,Shelby County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Sioux County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Story County,7,4,4,3,20,0.35,0.2,0.2,0.15,0,0,0,0
+Iowa,Tama County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Iowa,Taylor County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Union County,1,0,0,0,4,0.25,0.0,0.0,0.0,0,0,0,0
+Iowa,Van Buren County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Iowa,Wapello County,6,5,5,5,11,0.55,0.45,0.45,0.45,1,0,0,0
+Iowa,Warren County,0,0,0,0,12,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Washington County,2,1,1,0,5,0.4,0.2,0.2,0.0,0,0,0,0
+Iowa,Wayne County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Iowa,Webster County,3,2,2,1,12,0.25,0.17,0.17,0.08,0,0,0,0
+Iowa,Winnebago County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Winneshiek County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Woodbury County,7,3,3,3,25,0.28,0.12,0.12,0.12,0,0,0,0
+Iowa,Worth County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Iowa,Wright County,2,1,1,1,5,0.4,0.2,0.2,0.2,0,0,0,0
+Kansas,Allen County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Kansas,Anderson County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Atchison County,2,1,1,1,4,0.5,0.25,0.25,0.25,1,0,0,0
+Kansas,Barber County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Barton County,3,1,1,1,8,0.38,0.12,0.12,0.12,0,0,0,0
+Kansas,Bourbon County,3,2,1,0,5,0.6,0.4,0.2,0.0,1,0,0,0
+Kansas,Brown County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Kansas,Butler County,3,1,1,0,13,0.23,0.08,0.08,0.0,0,0,0,0
+Kansas,Chase County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Chautauqua County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Kansas,Cherokee County,3,3,3,2,6,0.5,0.5,0.5,0.33,1,1,1,0
+Kansas,Cheyenne County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Clark County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Clay County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Cloud County,2,1,1,0,4,0.5,0.25,0.25,0.0,1,0,0,0
+Kansas,Coffey County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Comanche County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Cowley County,6,3,3,1,11,0.55,0.27,0.27,0.09,1,0,0,0
+Kansas,Crawford County,4,3,3,2,11,0.36,0.27,0.27,0.18,0,0,0,0
+Kansas,Decatur County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Kansas,Dickinson County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Doniphan County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Douglas County,12,5,5,3,22,0.55,0.23,0.23,0.14,1,0,0,0
+Kansas,Edwards County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Elk County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Kansas,Ellis County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Kansas,Ellsworth County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Finney County,3,2,2,0,12,0.25,0.17,0.17,0.0,0,0,0,0
+Kansas,Ford County,3,2,2,1,7,0.43,0.29,0.29,0.14,0,0,0,0
+Kansas,Franklin County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Kansas,Geary County,5,5,5,2,8,0.62,0.62,0.62,0.25,1,1,1,0
+Kansas,Gove County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Kansas,Graham County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Kansas,Grant County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Gray County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Greeley County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Greenwood County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Kansas,Hamilton County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Harper County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Kansas,Harvey County,1,0,0,0,6,0.17,0.0,0.0,0.0,0,0,0,0
+Kansas,Haskell County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Hodgeman County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Jackson County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Kansas,Jefferson County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Jewell County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Kansas,Johnson County,13,1,1,2,130,0.1,0.01,0.01,0.02,0,0,0,0
+Kansas,Kearny County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Kingman County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Kiowa County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Labette County,2,1,1,0,8,0.25,0.12,0.12,0.0,0,0,0,0
+Kansas,Lane County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Leavenworth County,4,3,3,3,16,0.25,0.19,0.19,0.19,0,0,0,0
+Kansas,Lincoln County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Linn County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Kansas,Logan County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Lyon County,4,2,2,1,8,0.5,0.25,0.25,0.12,1,0,0,0
+Kansas,Marion County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Kansas,Marshall County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,McPherson County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Meade County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Miami County,1,1,1,1,8,0.12,0.12,0.12,0.12,0,0,0,0
+Kansas,Mitchell County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Montgomery County,6,3,2,1,13,0.46,0.23,0.15,0.08,0,0,0,0
+Kansas,Morris County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Morton County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Kansas,Nemaha County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Neosho County,3,1,1,2,5,0.6,0.2,0.2,0.4,1,0,0,0
+Kansas,Ness County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Kansas,Norton County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Osage County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Osborne County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Ottawa County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Pawnee County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Kansas,Phillips County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Kansas,Pottawatomie County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Pratt County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Kansas,Rawlins County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Reno County,5,1,0,1,17,0.29,0.06,0.0,0.06,0,0,0,0
+Kansas,Republic County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Rice County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Kansas,Riley County,7,5,5,5,13,0.54,0.38,0.38,0.38,1,0,0,0
+Kansas,Rooks County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Rush County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Russell County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Saline County,5,2,2,2,12,0.42,0.17,0.17,0.17,0,0,0,0
+Kansas,Scott County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Sedgwick County,54,28,28,27,124,0.44,0.23,0.23,0.22,0,0,0,0
+Kansas,Seward County,4,2,1,0,5,0.8,0.4,0.2,0.0,1,0,0,0
+Kansas,Shawnee County,16,11,11,8,43,0.37,0.26,0.26,0.19,0,0,0,0
+Kansas,Sheridan County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Sherman County,2,2,1,0,2,1.0,1.0,0.5,0.0,1,1,1,0
+Kansas,Smith County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Stafford County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Stanton County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Stevens County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Kansas,Sumner County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Thomas County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Trego County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Wabaunsee County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Wallace County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Washington County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Kansas,Wichita County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Wilson County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Kansas,Woodson County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Kansas,Wyandotte County,44,25,25,12,67,0.66,0.37,0.37,0.18,1,0,0,0
+Kentucky,Adair County,1,1,0,1,7,0.14,0.14,0.0,0.14,0,0,0,0
+Kentucky,Allen County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Anderson County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Ballard County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Kentucky,Barren County,4,3,2,2,10,0.4,0.3,0.2,0.2,0,0,0,0
+Kentucky,Bath County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Kentucky,Bell County,3,3,2,4,9,0.33,0.33,0.22,0.44,0,0,0,0
+Kentucky,Boone County,4,3,3,2,21,0.19,0.14,0.14,0.1,0,0,0,0
+Kentucky,Bourbon County,2,2,2,2,6,0.33,0.33,0.33,0.33,0,0,0,0
+Kentucky,Boyd County,6,5,5,4,13,0.46,0.38,0.38,0.31,0,0,0,0
+Kentucky,Boyle County,2,1,1,1,7,0.29,0.14,0.14,0.14,0,0,0,0
+Kentucky,Bracken County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Breathitt County,1,1,1,3,7,0.14,0.14,0.14,0.43,0,0,0,0
+Kentucky,Breckinridge County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Kentucky,Bullitt County,1,1,1,0,17,0.06,0.06,0.06,0.0,0,0,0,0
+Kentucky,Butler County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Kentucky,Caldwell County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Calloway County,2,1,1,1,9,0.22,0.11,0.11,0.11,0,0,0,0
+Kentucky,Campbell County,4,1,1,3,25,0.16,0.04,0.04,0.12,0,0,0,0
+Kentucky,Carlisle County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Carroll County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Kentucky,Carter County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Kentucky,Casey County,2,2,0,1,5,0.4,0.4,0.0,0.2,0,0,0,0
+Kentucky,Christian County,8,6,6,5,18,0.44,0.33,0.33,0.28,0,0,0,0
+Kentucky,Clark County,2,1,1,1,10,0.2,0.1,0.1,0.1,0,0,0,0
+Kentucky,Clay County,4,4,1,4,6,0.67,0.67,0.17,0.67,1,1,0,1
+Kentucky,Clinton County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+Kentucky,Crittenden County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Cumberland County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Daviess County,8,1,1,3,23,0.35,0.04,0.04,0.13,0,0,0,0
+Kentucky,Edmonson County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Kentucky,Elliott County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Estill County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Fayette County,31,12,12,14,82,0.38,0.15,0.15,0.17,0,0,0,0
+Kentucky,Fleming County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+Kentucky,Floyd County,1,1,1,7,10,0.1,0.1,0.1,0.7,0,0,0,1
+Kentucky,Franklin County,2,2,2,2,11,0.18,0.18,0.18,0.18,0,0,0,0
+Kentucky,Fulton County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Gallatin County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Garrard County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Grant County,1,1,0,2,4,0.25,0.25,0.0,0.5,0,0,0,1
+Kentucky,Graves County,2,2,2,1,9,0.22,0.22,0.22,0.11,0,0,0,0
+Kentucky,Grayson County,2,2,0,1,7,0.29,0.29,0.0,0.14,0,0,0,0
+Kentucky,Green County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Kentucky,Greenup County,1,1,1,0,9,0.11,0.11,0.11,0.0,0,0,0,0
+Kentucky,Hancock County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Hardin County,8,5,5,4,22,0.36,0.23,0.23,0.18,0,0,0,0
+Kentucky,Harlan County,2,1,1,6,11,0.18,0.09,0.09,0.55,0,0,0,1
+Kentucky,Harrison County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Kentucky,Hart County,1,1,0,4,5,0.2,0.2,0.0,0.8,0,0,0,1
+Kentucky,Henderson County,3,1,1,2,11,0.27,0.09,0.09,0.18,0,0,0,0
+Kentucky,Henry County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Hickman County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Hopkins County,2,1,1,2,12,0.17,0.08,0.08,0.17,0,0,0,0
+Kentucky,Jackson County,1,1,0,3,3,0.33,0.33,0.0,1.0,0,0,0,1
+Kentucky,Jefferson County,75,24,24,46,190,0.39,0.13,0.13,0.24,0,0,0,0
+Kentucky,Jessamine County,3,1,1,0,9,0.33,0.11,0.11,0.0,0,0,0,0
+Kentucky,Johnson County,1,1,0,4,6,0.17,0.17,0.0,0.67,0,0,0,1
+Kentucky,Kenton County,10,4,4,6,41,0.24,0.1,0.1,0.15,0,0,0,0
+Kentucky,Knott County,0,0,0,5,5,0.0,0.0,0.0,1.0,0,0,0,1
+Kentucky,Knox County,3,3,2,4,8,0.38,0.38,0.25,0.5,0,0,0,1
+Kentucky,Larue County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Kentucky,Laurel County,5,4,4,7,13,0.38,0.31,0.31,0.54,0,0,0,1
+Kentucky,Lawrence County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Kentucky,Lee County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Kentucky,Leslie County,1,1,0,3,3,0.33,0.33,0.0,1.0,0,0,0,1
+Kentucky,Letcher County,0,0,0,3,7,0.0,0.0,0.0,0.43,0,0,0,0
+Kentucky,Lewis County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Lincoln County,2,2,0,2,6,0.33,0.33,0.0,0.33,0,0,0,0
+Kentucky,Livingston County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Kentucky,Logan County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Kentucky,Lyon County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Madison County,9,8,8,4,19,0.47,0.42,0.42,0.21,0,0,0,0
+Kentucky,Magoffin County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Marion County,1,1,1,2,6,0.17,0.17,0.17,0.33,0,0,0,0
+Kentucky,Marshall County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Martin County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+Kentucky,Mason County,1,0,0,1,5,0.2,0.0,0.0,0.2,0,0,0,0
+Kentucky,McCracken County,7,6,6,5,17,0.41,0.35,0.35,0.29,0,0,0,0
+Kentucky,McCreary County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,McLean County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Meade County,1,1,1,0,8,0.12,0.12,0.12,0.0,0,0,0,0
+Kentucky,Menifee County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Mercer County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+Kentucky,Metcalfe County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Monroe County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Kentucky,Montgomery County,1,1,1,3,6,0.17,0.17,0.17,0.5,0,0,0,1
+Kentucky,Morgan County,1,1,0,2,5,0.2,0.2,0.0,0.4,0,0,0,0
+Kentucky,Muhlenberg County,1,0,0,0,9,0.11,0.0,0.0,0.0,0,0,0,0
+Kentucky,Nelson County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Nicholas County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Ohio County,1,1,0,1,7,0.14,0.14,0.0,0.14,0,0,0,0
+Kentucky,Oldham County,0,0,0,0,14,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Owen County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Owsley County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Pendleton County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Perry County,0,0,0,5,8,0.0,0.0,0.0,0.62,0,0,0,1
+Kentucky,Pike County,1,0,0,6,19,0.05,0.0,0.0,0.32,0,0,0,0
+Kentucky,Powell County,0,0,0,2,2,0.0,0.0,0.0,1.0,0,0,0,1
+Kentucky,Pulaski County,3,2,1,4,14,0.21,0.14,0.07,0.29,0,0,0,0
+Kentucky,Robertson County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Kentucky,Rockcastle County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Rowan County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Russell County,1,1,0,2,5,0.2,0.2,0.0,0.4,0,0,0,0
+Kentucky,Scott County,3,2,2,1,14,0.21,0.14,0.14,0.07,0,0,0,0
+Kentucky,Shelby County,2,0,0,1,9,0.22,0.0,0.0,0.11,0,0,0,0
+Kentucky,Simpson County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Spencer County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Kentucky,Taylor County,1,1,1,3,5,0.2,0.2,0.2,0.6,0,0,0,1
+Kentucky,Todd County,1,1,0,2,4,0.25,0.25,0.0,0.5,0,0,0,1
+Kentucky,Trigg County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Kentucky,Trimble County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Kentucky,Union County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Kentucky,Warren County,9,4,4,4,24,0.38,0.17,0.17,0.17,0,0,0,0
+Kentucky,Washington County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Kentucky,Wayne County,2,2,1,4,5,0.4,0.4,0.2,0.8,0,0,0,1
+Kentucky,Webster County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Kentucky,Whitley County,1,1,0,3,8,0.12,0.12,0.0,0.38,0,0,0,0
+Kentucky,Wolfe County,0,0,0,2,2,0.0,0.0,0.0,1.0,0,0,0,1
+Kentucky,Woodford County,1,1,1,0,8,0.12,0.12,0.12,0.0,0,0,0,0
+Louisiana,Acadia Parish,6,3,3,3,12,0.5,0.25,0.25,0.25,1,0,0,0
+Louisiana,Allen Parish,3,2,1,1,5,0.6,0.4,0.2,0.2,1,0,0,0
+Louisiana,Ascension Parish,2,2,2,2,14,0.14,0.14,0.14,0.14,0,0,0,0
+Louisiana,Assumption Parish,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Louisiana,Avoyelles Parish,2,2,2,4,9,0.22,0.22,0.22,0.44,0,0,0,0
+Louisiana,Beauregard Parish,2,1,1,1,7,0.29,0.14,0.14,0.14,0,0,0,0
+Louisiana,Bienville Parish,2,2,1,3,5,0.4,0.4,0.2,0.6,0,0,0,1
+Louisiana,Bossier Parish,9,6,6,6,22,0.41,0.27,0.27,0.27,0,0,0,0
+Louisiana,Caddo Parish,35,25,24,30,63,0.56,0.4,0.38,0.48,1,0,0,0
+Louisiana,Calcasieu Parish,17,9,9,9,42,0.4,0.21,0.21,0.21,0,0,0,0
+Louisiana,Caldwell Parish,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+Louisiana,Cameron Parish,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Louisiana,Catahoula Parish,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Louisiana,Claiborne Parish,2,2,1,2,5,0.4,0.4,0.2,0.4,0,0,0,0
+Louisiana,Concordia Parish,2,2,2,2,5,0.4,0.4,0.4,0.4,0,0,0,0
+Louisiana,De Soto Parish,2,2,1,3,7,0.29,0.29,0.14,0.43,0,0,0,0
+Louisiana,East Baton Rouge Parish,41,26,26,23,91,0.45,0.29,0.29,0.25,0,0,0,0
+Louisiana,East Carroll Parish,3,3,2,1,3,1.0,1.0,0.67,0.33,1,1,1,0
+Louisiana,East Feliciana Parish,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Louisiana,Evangeline Parish,2,1,1,5,8,0.25,0.12,0.12,0.62,0,0,0,1
+Louisiana,Franklin Parish,4,4,1,2,6,0.67,0.67,0.17,0.33,1,1,0,0
+Louisiana,Grant Parish,2,2,0,1,5,0.4,0.4,0.0,0.2,0,0,0,0
+Louisiana,Iberia Parish,5,1,1,7,15,0.33,0.07,0.07,0.47,0,0,0,0
+Louisiana,Iberville Parish,2,1,1,1,7,0.29,0.14,0.14,0.14,0,0,0,0
+Louisiana,Jackson Parish,2,2,1,2,5,0.4,0.4,0.2,0.4,0,0,0,0
+Louisiana,Jefferson Davis Parish,2,1,1,3,7,0.29,0.14,0.14,0.43,0,0,0,0
+Louisiana,Jefferson Parish,38,15,15,17,124,0.31,0.12,0.12,0.14,0,0,0,0
+Louisiana,LaSalle Parish,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Louisiana,Lafayette Parish,17,9,9,14,42,0.4,0.21,0.21,0.33,0,0,0,0
+Louisiana,Lafourche Parish,3,2,2,1,23,0.13,0.09,0.09,0.04,0,0,0,0
+Louisiana,Lincoln Parish,6,5,5,4,10,0.6,0.5,0.5,0.4,1,1,1,0
+Louisiana,Livingston Parish,1,1,1,3,17,0.06,0.06,0.06,0.18,0,0,0,0
+Louisiana,Madison Parish,3,0,0,1,5,0.6,0.0,0.0,0.2,1,0,0,0
+Louisiana,Morehouse Parish,4,4,3,4,8,0.5,0.5,0.38,0.5,1,1,0,1
+Louisiana,Natchitoches Parish,7,5,2,4,9,0.78,0.56,0.22,0.44,1,1,0,0
+Louisiana,Orleans Parish,69,22,22,38,175,0.39,0.13,0.13,0.22,0,0,0,0
+Louisiana,Ouachita Parish,19,9,9,13,40,0.48,0.22,0.22,0.32,0,0,0,0
+Louisiana,Plaquemines Parish,5,5,4,2,8,0.62,0.62,0.5,0.25,1,1,1,0
+Louisiana,Pointe Coupee Parish,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Louisiana,Rapides Parish,13,13,13,12,33,0.39,0.39,0.39,0.36,0,0,0,0
+Louisiana,Red River Parish,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Louisiana,Richland Parish,3,2,1,1,6,0.5,0.33,0.17,0.17,1,0,0,0
+Louisiana,Sabine Parish,2,2,1,1,7,0.29,0.29,0.14,0.14,0,0,0,0
+Louisiana,St. Bernard Parish,8,4,3,0,17,0.47,0.24,0.18,0.0,0,0,0,0
+Louisiana,St. Charles Parish,3,3,3,0,13,0.23,0.23,0.23,0.0,0,0,0,0
+Louisiana,St. Helena Parish,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Louisiana,St. James Parish,2,0,0,2,7,0.29,0.0,0.0,0.29,0,0,0,0
+Louisiana,St. John the Baptist Parish,4,3,3,2,11,0.36,0.27,0.27,0.18,0,0,0,0
+Louisiana,St. Landry Parish,12,7,4,7,19,0.63,0.37,0.21,0.37,1,0,0,0
+Louisiana,St. Martin Parish,1,1,1,1,11,0.09,0.09,0.09,0.09,0,0,0,0
+Louisiana,St. Mary Parish,9,4,4,3,16,0.56,0.25,0.25,0.19,1,0,0,0
+Louisiana,St. Tammany Parish,5,4,4,3,42,0.12,0.1,0.1,0.07,0,0,0,0
+Louisiana,Tangipahoa Parish,7,6,6,8,20,0.35,0.3,0.3,0.4,0,0,0,0
+Louisiana,Tensas Parish,3,3,0,0,3,1.0,1.0,0.0,0.0,1,1,0,0
+Louisiana,Terrebonne Parish,5,3,3,8,21,0.24,0.14,0.14,0.38,0,0,0,0
+Louisiana,Union Parish,2,2,1,1,6,0.33,0.33,0.17,0.17,0,0,0,0
+Louisiana,Vermilion Parish,5,3,2,2,12,0.42,0.25,0.17,0.17,0,0,0,0
+Louisiana,Vernon Parish,6,6,5,2,12,0.5,0.5,0.42,0.17,1,1,0,0
+Louisiana,Washington Parish,5,3,1,5,11,0.45,0.27,0.09,0.45,0,0,0,0
+Louisiana,Webster Parish,9,8,5,4,11,0.82,0.73,0.45,0.36,1,1,0,0
+Louisiana,West Baton Rouge Parish,2,1,1,1,5,0.4,0.2,0.2,0.2,0,0,0,0
+Louisiana,West Carroll Parish,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Louisiana,West Feliciana Parish,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Louisiana,Winn Parish,2,1,0,1,4,0.5,0.25,0.0,0.25,1,0,0,0
+Maine,Androscoggin County,5,1,1,3,28,0.18,0.04,0.04,0.11,0,0,0,0
+Maine,Aroostook County,6,6,2,3,24,0.25,0.25,0.08,0.12,0,0,0,0
+Maine,Cumberland County,7,3,3,4,66,0.11,0.05,0.05,0.06,0,0,0,0
+Maine,Franklin County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+Maine,Hancock County,2,2,0,1,17,0.12,0.12,0.0,0.06,0,0,0,0
+Maine,Kennebec County,5,1,1,2,31,0.16,0.03,0.03,0.06,0,0,0,0
+Maine,Knox County,1,0,0,0,10,0.1,0.0,0.0,0.0,0,0,0,0
+Maine,Lincoln County,0,0,0,1,9,0.0,0.0,0.0,0.11,0,0,0,0
+Maine,Oxford County,2,2,2,3,17,0.12,0.12,0.12,0.18,0,0,0,0
+Maine,Penobscot County,11,8,5,8,46,0.24,0.17,0.11,0.17,0,0,0,0
+Maine,Piscataquis County,0,0,0,1,8,0.0,0.0,0.0,0.12,0,0,0,0
+Maine,Sagadahoc County,1,1,1,0,8,0.12,0.12,0.12,0.0,0,0,0,0
+Maine,Somerset County,1,1,0,3,17,0.06,0.06,0.0,0.18,0,0,0,0
+Maine,Waldo County,0,0,0,1,8,0.0,0.0,0.0,0.12,0,0,0,0
+Maine,Washington County,1,1,1,3,13,0.08,0.08,0.08,0.23,0,0,0,0
+Maine,York County,5,4,4,2,40,0.12,0.1,0.1,0.05,0,0,0,0
+Maryland,Allegany County,14,9,8,9,23,0.61,0.39,0.35,0.39,1,0,0,0
+Maryland,Anne Arundel County,20,10,10,6,104,0.19,0.1,0.1,0.06,0,0,0,0
+Maryland,Baltimore County,68,23,23,26,211,0.32,0.11,0.11,0.12,0,0,0,0
+Maryland,Baltimore city,91,14,14,79,200,0.46,0.07,0.07,0.4,0,0,0,0
+Maryland,Calvert County,1,1,1,0,18,0.06,0.06,0.06,0.0,0,0,0,0
+Maryland,Caroline County,2,2,2,3,9,0.22,0.22,0.22,0.33,0,0,0,0
+Maryland,Carroll County,1,1,1,1,38,0.03,0.03,0.03,0.03,0,0,0,0
+Maryland,Cecil County,5,5,5,4,19,0.26,0.26,0.26,0.21,0,0,0,0
+Maryland,Charles County,6,3,3,1,30,0.2,0.1,0.1,0.03,0,0,0,0
+Maryland,Dorchester County,5,5,3,4,9,0.56,0.56,0.33,0.44,1,1,0,0
+Maryland,Frederick County,15,5,5,4,61,0.25,0.08,0.08,0.07,0,0,0,0
+Maryland,Garrett County,1,1,1,3,7,0.14,0.14,0.14,0.43,0,0,0,0
+Maryland,Harford County,7,2,2,5,57,0.12,0.04,0.04,0.09,0,0,0,0
+Maryland,Howard County,2,2,2,1,55,0.04,0.04,0.04,0.02,0,0,0,0
+Maryland,Kent County,1,0,0,1,5,0.2,0.0,0.0,0.2,0,0,0,0
+Maryland,Montgomery County,43,3,3,8,215,0.2,0.01,0.01,0.04,0,0,0,0
+Maryland,Prince George's County,98,25,25,32,218,0.45,0.11,0.11,0.15,0,0,0,0
+Maryland,Queen Anne's County,0,0,0,1,11,0.0,0.0,0.0,0.09,0,0,0,0
+Maryland,Somerset County,2,1,0,3,7,0.29,0.14,0.0,0.43,0,0,0,0
+Maryland,St. Mary's County,3,2,2,2,17,0.18,0.12,0.12,0.12,0,0,0,0
+Maryland,Talbot County,3,3,3,2,10,0.3,0.3,0.3,0.2,0,0,0,0
+Maryland,Washington County,15,4,4,11,32,0.47,0.12,0.12,0.34,0,0,0,0
+Maryland,Wicomico County,8,5,5,4,19,0.42,0.26,0.26,0.21,0,0,0,0
+Maryland,Worcester County,5,5,5,4,15,0.33,0.33,0.33,0.27,0,0,0,0
+Massachusetts,Barnstable County,14,8,8,5,56,0.25,0.14,0.14,0.09,0,0,0,0
+Massachusetts,Berkshire County,13,9,9,6,39,0.33,0.23,0.23,0.15,0,0,0,0
+Massachusetts,Bristol County,48,8,8,30,125,0.38,0.06,0.06,0.24,0,0,0,0
+Massachusetts,Dukes County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Massachusetts,Essex County,38,15,15,21,162,0.23,0.09,0.09,0.13,0,0,0,0
+Massachusetts,Franklin County,5,3,3,2,18,0.28,0.17,0.17,0.11,0,0,0,0
+Massachusetts,Hampden County,48,12,12,29,103,0.47,0.12,0.12,0.28,0,0,0,0
+Massachusetts,Hampshire County,14,12,11,9,36,0.39,0.33,0.31,0.25,0,0,0,0
+Massachusetts,Middlesex County,45,10,10,20,317,0.14,0.03,0.03,0.06,0,0,0,0
+Massachusetts,Nantucket County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Massachusetts,Norfolk County,11,5,5,8,130,0.08,0.04,0.04,0.06,0,0,0,0
+Massachusetts,Plymouth County,20,8,8,9,100,0.2,0.08,0.08,0.09,0,0,0,0
+Massachusetts,Suffolk County,47,4,4,35,200,0.24,0.02,0.02,0.18,0,0,0,0
+Massachusetts,Worcester County,52,18,18,30,172,0.3,0.1,0.1,0.17,0,0,0,0
+Michigan,Alcona County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Alger County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Michigan,Allegan County,2,2,2,2,24,0.08,0.08,0.08,0.08,0,0,0,0
+Michigan,Alpena County,3,1,0,1,9,0.33,0.11,0.0,0.11,0,0,0,0
+Michigan,Antrim County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Arenac County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Baraga County,2,2,0,0,2,1.0,1.0,0.0,0.0,1,1,0,0
+Michigan,Barry County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Bay County,11,5,5,6,26,0.42,0.19,0.19,0.23,0,0,0,0
+Michigan,Benzie County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Berrien County,16,10,10,9,48,0.33,0.21,0.21,0.19,0,0,0,0
+Michigan,Branch County,2,2,2,4,12,0.17,0.17,0.17,0.33,0,0,0,0
+Michigan,Calhoun County,20,14,13,12,39,0.51,0.36,0.33,0.31,1,0,0,0
+Michigan,Cass County,0,0,0,1,11,0.0,0.0,0.0,0.09,0,0,0,0
+Michigan,Charlevoix County,0,0,0,0,13,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Cheboygan County,2,2,1,0,8,0.25,0.25,0.12,0.0,0,0,0,0
+Michigan,Chippewa County,4,3,3,3,12,0.33,0.25,0.25,0.25,0,0,0,0
+Michigan,Clare County,0,0,0,2,11,0.0,0.0,0.0,0.18,0,0,0,0
+Michigan,Clinton County,2,2,2,1,22,0.09,0.09,0.09,0.05,0,0,0,0
+Michigan,Crawford County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Michigan,Delta County,4,2,1,2,11,0.36,0.18,0.09,0.18,0,0,0,0
+Michigan,Dickinson County,3,2,1,2,7,0.43,0.29,0.14,0.29,0,0,0,0
+Michigan,Eaton County,4,3,3,2,28,0.14,0.11,0.11,0.07,0,0,0,0
+Michigan,Emmet County,1,1,0,0,8,0.12,0.12,0.0,0.0,0,0,0,0
+Michigan,Genesee County,64,31,31,30,130,0.49,0.24,0.24,0.23,0,0,0,0
+Michigan,Gladwin County,3,3,1,2,9,0.33,0.33,0.11,0.22,0,0,0,0
+Michigan,Gogebic County,3,1,0,1,7,0.43,0.14,0.0,0.14,0,0,0,0
+Michigan,Grand Traverse County,2,1,1,1,16,0.12,0.06,0.06,0.06,0,0,0,0
+Michigan,Gratiot County,3,3,3,2,10,0.3,0.3,0.3,0.2,0,0,0,0
+Michigan,Hillsdale County,2,2,2,1,12,0.17,0.17,0.17,0.08,0,0,0,0
+Michigan,Houghton County,4,2,2,3,10,0.4,0.2,0.2,0.3,0,0,0,0
+Michigan,Huron County,2,2,1,2,12,0.17,0.17,0.08,0.17,0,0,0,0
+Michigan,Ingham County,35,25,25,26,80,0.44,0.31,0.31,0.32,0,0,0,0
+Michigan,Ionia County,2,1,1,1,13,0.15,0.08,0.08,0.08,0,0,0,0
+Michigan,Iosco County,2,2,2,1,9,0.22,0.22,0.22,0.11,0,0,0,0
+Michigan,Iron County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Michigan,Isabella County,6,2,2,2,15,0.4,0.13,0.13,0.13,0,0,0,0
+Michigan,Jackson County,11,8,8,9,38,0.29,0.21,0.21,0.24,0,0,0,0
+Michigan,Kalamazoo County,20,10,10,13,57,0.35,0.18,0.18,0.23,0,0,0,0
+Michigan,Kalkaska County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Michigan,Kent County,33,5,5,15,128,0.26,0.04,0.04,0.12,0,0,0,0
+Michigan,Keweenaw County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Lake County,0,0,0,2,4,0.0,0.0,0.0,0.5,0,0,0,1
+Michigan,Lapeer County,4,3,3,3,24,0.17,0.12,0.12,0.12,0,0,0,0
+Michigan,Leelanau County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Lenawee County,4,4,4,4,23,0.17,0.17,0.17,0.17,0,0,0,0
+Michigan,Livingston County,3,1,1,0,61,0.05,0.02,0.02,0.0,0,0,0,0
+Michigan,Luce County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Michigan,Mackinac County,2,2,0,1,5,0.4,0.4,0.0,0.2,0,0,0,0
+Michigan,Macomb County,66,24,24,23,215,0.31,0.11,0.11,0.11,0,0,0,0
+Michigan,Manistee County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Marquette County,6,2,1,2,24,0.25,0.08,0.04,0.08,0,0,0,0
+Michigan,Mason County,1,1,0,0,8,0.12,0.12,0.0,0.0,0,0,0,0
+Michigan,Mecosta County,3,3,3,3,11,0.27,0.27,0.27,0.27,0,0,0,0
+Michigan,Menominee County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Michigan,Midland County,3,2,1,2,19,0.16,0.11,0.05,0.11,0,0,0,0
+Michigan,Missaukee County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Michigan,Monroe County,0,0,0,0,38,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Montcalm County,1,1,1,6,13,0.08,0.08,0.08,0.46,0,0,0,0
+Michigan,Montmorency County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Michigan,Muskegon County,19,16,16,12,42,0.45,0.38,0.38,0.29,0,0,0,0
+Michigan,Newaygo County,1,1,1,1,11,0.09,0.09,0.09,0.09,0,0,0,0
+Michigan,Oakland County,44,9,9,19,337,0.13,0.03,0.03,0.06,0,0,0,0
+Michigan,Oceana County,2,2,1,1,7,0.29,0.29,0.14,0.14,0,0,0,0
+Michigan,Ogemaw County,0,0,0,1,7,0.0,0.0,0.0,0.14,0,0,0,0
+Michigan,Ontonagon County,2,2,0,1,3,0.67,0.67,0.0,0.33,1,1,0,0
+Michigan,Osceola County,0,0,0,4,6,0.0,0.0,0.0,0.67,0,0,0,1
+Michigan,Oscoda County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Michigan,Otsego County,1,0,0,1,6,0.17,0.0,0.0,0.17,0,0,0,0
+Michigan,Ottawa County,2,2,2,0,53,0.04,0.04,0.04,0.0,0,0,0,0
+Michigan,Presque Isle County,1,0,0,0,6,0.17,0.0,0.0,0.0,0,0,0,0
+Michigan,Roscommon County,1,1,1,1,10,0.1,0.1,0.1,0.1,0,0,0,0
+Michigan,Saginaw County,25,16,16,16,56,0.45,0.29,0.29,0.29,0,0,0,0
+Michigan,Sanilac County,3,3,2,2,12,0.25,0.25,0.17,0.17,0,0,0,0
+Michigan,Schoolcraft County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Michigan,Shiawassee County,4,4,4,2,17,0.24,0.24,0.24,0.12,0,0,0,0
+Michigan,St. Clair County,10,7,7,8,49,0.2,0.14,0.14,0.16,0,0,0,0
+Michigan,St. Joseph County,5,3,3,1,17,0.29,0.18,0.18,0.06,0,0,0,0
+Michigan,Tuscola County,2,2,2,2,13,0.15,0.15,0.15,0.15,0,0,0,0
+Michigan,Van Buren County,1,1,1,2,15,0.07,0.07,0.07,0.13,0,0,0,0
+Michigan,Washtenaw County,36,15,15,16,100,0.36,0.15,0.15,0.16,0,0,0,0
+Michigan,Wayne County,291,54,54,159,606,0.48,0.09,0.09,0.26,0,0,0,0
+Michigan,Wexford County,5,3,2,2,8,0.62,0.38,0.25,0.25,1,0,0,0
+Minnesota,Aitkin County,4,4,0,1,6,0.67,0.67,0.0,0.17,1,1,0,0
+Minnesota,Anoka County,28,12,12,9,83,0.34,0.14,0.14,0.11,0,0,0,0
+Minnesota,Becker County,5,5,2,3,10,0.5,0.5,0.2,0.3,1,1,0,0
+Minnesota,Beltrami County,6,5,2,3,10,0.6,0.5,0.2,0.3,1,1,0,0
+Minnesota,Benton County,4,3,3,4,9,0.44,0.33,0.33,0.44,0,0,0,0
+Minnesota,Big Stone County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Blue Earth County,5,4,4,3,16,0.31,0.25,0.25,0.19,0,0,0,0
+Minnesota,Brown County,1,1,1,0,8,0.12,0.12,0.12,0.0,0,0,0,0
+Minnesota,Carlton County,2,2,2,1,7,0.29,0.29,0.29,0.14,0,0,0,0
+Minnesota,Carver County,0,0,0,0,19,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Cass County,3,3,0,1,10,0.3,0.3,0.0,0.1,0,0,0,0
+Minnesota,Chippewa County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Minnesota,Chisago County,0,0,0,1,10,0.0,0.0,0.0,0.1,0,0,0,0
+Minnesota,Clay County,4,0,0,2,13,0.31,0.0,0.0,0.15,0,0,0,0
+Minnesota,Clearwater County,2,2,0,1,3,0.67,0.67,0.0,0.33,1,1,0,0
+Minnesota,Cook County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Minnesota,Cottonwood County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Minnesota,Crow Wing County,3,2,2,2,16,0.19,0.12,0.12,0.12,0,0,0,0
+Minnesota,Dakota County,17,4,4,4,95,0.18,0.04,0.04,0.04,0,0,0,0
+Minnesota,Dodge County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Douglas County,1,1,1,2,9,0.11,0.11,0.11,0.22,0,0,0,0
+Minnesota,Faribault County,1,1,0,0,6,0.17,0.17,0.0,0.0,0,0,0,0
+Minnesota,Fillmore County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Minnesota,Freeborn County,3,2,2,2,10,0.3,0.2,0.2,0.2,0,0,0,0
+Minnesota,Goodhue County,1,1,1,1,10,0.1,0.1,0.1,0.1,0,0,0,0
+Minnesota,Grant County,2,2,0,0,2,1.0,1.0,0.0,0.0,1,1,0,0
+Minnesota,Hennepin County,65,18,18,25,299,0.22,0.06,0.06,0.08,0,0,0,0
+Minnesota,Houston County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+Minnesota,Hubbard County,3,2,0,0,7,0.43,0.29,0.0,0.0,0,0,0,0
+Minnesota,Isanti County,2,2,1,0,8,0.25,0.25,0.12,0.0,0,0,0,0
+Minnesota,Itasca County,4,4,2,2,11,0.36,0.36,0.18,0.18,0,0,0,0
+Minnesota,Jackson County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Minnesota,Kanabec County,2,2,1,0,4,0.5,0.5,0.25,0.0,1,1,0,0
+Minnesota,Kandiyohi County,4,2,2,3,12,0.33,0.17,0.17,0.25,0,0,0,0
+Minnesota,Kittson County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Minnesota,Koochiching County,3,3,3,1,4,0.75,0.75,0.75,0.25,1,1,1,0
+Minnesota,Lac qui Parle County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Minnesota,Lake County,1,0,0,1,3,0.33,0.0,0.0,0.33,0,0,0,0
+Minnesota,Lake of the Woods County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Le Sueur County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Minnesota,Lincoln County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Lyon County,2,1,1,1,7,0.29,0.14,0.14,0.14,0,0,0,0
+Minnesota,Mahnomen County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Minnesota,Marshall County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Martin County,2,2,1,1,6,0.33,0.33,0.17,0.17,0,0,0,0
+Minnesota,McLeod County,2,2,2,1,7,0.29,0.29,0.29,0.14,0,0,0,0
+Minnesota,Meeker County,2,1,0,0,6,0.33,0.17,0.0,0.0,0,0,0,0
+Minnesota,Mille Lacs County,2,2,1,2,7,0.29,0.29,0.14,0.29,0,0,0,0
+Minnesota,Morrison County,3,3,1,1,8,0.38,0.38,0.12,0.12,0,0,0,0
+Minnesota,Mower County,5,2,2,1,11,0.45,0.18,0.18,0.09,0,0,0,0
+Minnesota,Murray County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Nicollet County,2,2,2,1,7,0.29,0.29,0.29,0.14,0,0,0,0
+Minnesota,Nobles County,3,2,2,1,6,0.5,0.33,0.33,0.17,1,0,0,0
+Minnesota,Norman County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Minnesota,Olmsted County,7,2,2,3,33,0.21,0.06,0.06,0.09,0,0,0,0
+Minnesota,Otter Tail County,6,5,1,4,17,0.35,0.29,0.06,0.24,0,0,0,0
+Minnesota,Pennington County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Minnesota,Pine County,4,4,1,0,8,0.5,0.5,0.12,0.0,1,1,0,0
+Minnesota,Pipestone County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Minnesota,Polk County,3,2,1,0,10,0.3,0.2,0.1,0.0,0,0,0,0
+Minnesota,Pope County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Minnesota,Ramsey County,50,15,15,22,136,0.37,0.11,0.11,0.16,0,0,0,0
+Minnesota,Red Lake County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Redwood County,3,2,1,0,6,0.5,0.33,0.17,0.0,1,0,0,0
+Minnesota,Renville County,1,1,0,0,6,0.17,0.17,0.0,0.0,0,0,0,0
+Minnesota,Rice County,4,3,3,3,13,0.31,0.23,0.23,0.23,0,0,0,0
+Minnesota,Rock County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Minnesota,Roseau County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Minnesota,Scott County,2,1,1,1,21,0.1,0.05,0.05,0.05,0,0,0,0
+Minnesota,Sherburne County,1,1,1,1,11,0.09,0.09,0.09,0.09,0,0,0,0
+Minnesota,Sibley County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,St. Louis County,30,16,15,12,66,0.45,0.24,0.23,0.18,0,0,0,0
+Minnesota,Stearns County,10,5,5,5,29,0.34,0.17,0.17,0.17,0,0,0,0
+Minnesota,Steele County,2,0,0,0,8,0.25,0.0,0.0,0.0,0,0,0,0
+Minnesota,Stevens County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Swift County,2,1,0,0,4,0.5,0.25,0.0,0.0,1,0,0,0
+Minnesota,Todd County,4,4,1,1,8,0.5,0.5,0.12,0.12,1,1,0,0
+Minnesota,Traverse County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Minnesota,Wabasha County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Minnesota,Wadena County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Minnesota,Waseca County,3,3,2,0,5,0.6,0.6,0.4,0.0,1,1,0,0
+Minnesota,Washington County,3,2,2,2,50,0.06,0.04,0.04,0.04,0,0,0,0
+Minnesota,Watonwan County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Minnesota,Wilkin County,1,0,0,0,2,0.5,0.0,0.0,0.0,1,0,0,0
+Minnesota,Winona County,5,2,2,2,10,0.5,0.2,0.2,0.2,1,0,0,0
+Minnesota,Wright County,2,2,2,0,17,0.12,0.12,0.12,0.0,0,0,0,0
+Minnesota,Yellow Medicine County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Mississippi,Adams County,5,5,5,3,9,0.56,0.56,0.56,0.33,1,1,1,0
+Mississippi,Alcorn County,1,1,1,0,7,0.14,0.14,0.14,0.0,0,0,0,0
+Mississippi,Amite County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Mississippi,Attala County,2,2,2,2,6,0.33,0.33,0.33,0.33,0,0,0,0
+Mississippi,Benton County,2,2,0,0,2,1.0,1.0,0.0,0.0,1,1,0,0
+Mississippi,Bolivar County,5,4,2,7,8,0.62,0.5,0.25,0.88,1,1,0,1
+Mississippi,Calhoun County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Mississippi,Carroll County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Mississippi,Chickasaw County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Mississippi,Choctaw County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Mississippi,Claiborne County,2,2,0,2,3,0.67,0.67,0.0,0.67,1,1,0,1
+Mississippi,Clarke County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+Mississippi,Clay County,4,3,1,3,5,0.8,0.6,0.2,0.6,1,1,0,1
+Mississippi,Coahoma County,3,2,1,3,7,0.43,0.29,0.14,0.43,0,0,0,0
+Mississippi,Copiah County,5,5,2,2,6,0.83,0.83,0.33,0.33,1,1,0,0
+Mississippi,Covington County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Mississippi,DeSoto County,9,3,3,0,33,0.27,0.09,0.09,0.0,0,0,0,0
+Mississippi,Forrest County,10,6,5,6,17,0.59,0.35,0.29,0.35,1,0,0,0
+Mississippi,Franklin County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Mississippi,George County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Mississippi,Greene County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Mississippi,Grenada County,3,1,1,1,5,0.6,0.2,0.2,0.2,1,0,0,0
+Mississippi,Hancock County,3,3,2,2,7,0.43,0.43,0.29,0.29,0,0,0,0
+Mississippi,Harrison County,20,17,17,8,45,0.44,0.38,0.38,0.18,0,0,0,0
+Mississippi,Hinds County,40,24,22,16,64,0.62,0.38,0.34,0.25,1,0,0,0
+Mississippi,Holmes County,2,2,0,4,5,0.4,0.4,0.0,0.8,0,0,0,1
+Mississippi,Humphreys County,2,1,0,2,3,0.67,0.33,0.0,0.67,1,0,0,1
+Mississippi,Issaquena County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Mississippi,Itawamba County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+Mississippi,Jackson County,9,6,6,3,28,0.32,0.21,0.21,0.11,0,0,0,0
+Mississippi,Jasper County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Mississippi,Jefferson County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Mississippi,Jefferson Davis County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Mississippi,Jones County,4,3,3,4,14,0.29,0.21,0.21,0.29,0,0,0,0
+Mississippi,Kemper County,2,2,0,2,2,1.0,1.0,0.0,1.0,1,1,0,1
+Mississippi,Lafayette County,4,4,3,3,10,0.4,0.4,0.3,0.3,0,0,0,0
+Mississippi,Lamar County,1,1,1,2,8,0.12,0.12,0.12,0.25,0,0,0,0
+Mississippi,Lauderdale County,8,7,6,5,19,0.42,0.37,0.32,0.26,0,0,0,0
+Mississippi,Lawrence County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Mississippi,Leake County,2,2,1,2,5,0.4,0.4,0.2,0.4,0,0,0,0
+Mississippi,Lee County,4,3,3,4,18,0.22,0.17,0.17,0.22,0,0,0,0
+Mississippi,Leflore County,5,5,4,5,8,0.62,0.62,0.5,0.62,1,1,1,1
+Mississippi,Lincoln County,2,2,1,3,6,0.33,0.33,0.17,0.5,0,0,0,1
+Mississippi,Lowndes County,5,4,4,3,14,0.36,0.29,0.29,0.21,0,0,0,0
+Mississippi,Madison County,5,2,1,2,21,0.24,0.1,0.05,0.1,0,0,0,0
+Mississippi,Marion County,2,2,1,3,6,0.33,0.33,0.17,0.5,0,0,0,1
+Mississippi,Marshall County,3,3,1,3,6,0.5,0.5,0.17,0.5,1,1,0,1
+Mississippi,Monroe County,2,2,2,2,9,0.22,0.22,0.22,0.22,0,0,0,0
+Mississippi,Montgomery County,2,2,1,1,3,0.67,0.67,0.33,0.33,1,1,0,0
+Mississippi,Neshoba County,2,0,0,3,7,0.29,0.0,0.0,0.43,0,0,0,0
+Mississippi,Newton County,2,2,1,2,5,0.4,0.4,0.2,0.4,0,0,0,0
+Mississippi,Noxubee County,3,2,0,2,3,1.0,0.67,0.0,0.67,1,1,0,1
+Mississippi,Oktibbeha County,5,4,4,3,8,0.62,0.5,0.5,0.38,1,1,1,0
+Mississippi,Panola County,2,2,0,2,6,0.33,0.33,0.0,0.33,0,0,0,0
+Mississippi,Pearl River County,2,1,1,2,9,0.22,0.11,0.11,0.22,0,0,0,0
+Mississippi,Perry County,2,2,0,1,3,0.67,0.67,0.0,0.33,1,1,0,0
+Mississippi,Pike County,5,4,2,5,8,0.62,0.5,0.25,0.62,1,1,0,1
+Mississippi,Pontotoc County,1,1,0,0,6,0.17,0.17,0.0,0.0,0,0,0,0
+Mississippi,Prentiss County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+Mississippi,Quitman County,3,3,1,2,3,1.0,1.0,0.33,0.67,1,1,0,1
+Mississippi,Rankin County,3,3,3,0,27,0.11,0.11,0.11,0.0,0,0,0,0
+Mississippi,Scott County,3,2,1,4,6,0.5,0.33,0.17,0.67,1,0,0,1
+Mississippi,Sharkey County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Mississippi,Simpson County,2,2,1,3,5,0.4,0.4,0.2,0.6,0,0,0,1
+Mississippi,Smith County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Mississippi,Stone County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Mississippi,Sunflower County,4,3,2,4,7,0.57,0.43,0.29,0.57,1,0,0,1
+Mississippi,Tallahatchie County,3,2,0,1,4,0.75,0.5,0.0,0.25,1,1,0,0
+Mississippi,Tate County,4,4,1,2,5,0.8,0.8,0.2,0.4,1,1,0,0
+Mississippi,Tippah County,1,0,0,1,4,0.25,0.0,0.0,0.25,0,0,0,0
+Mississippi,Tishomingo County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Mississippi,Tunica County,2,2,1,2,2,1.0,1.0,0.5,1.0,1,1,1,1
+Mississippi,Union County,1,1,0,0,6,0.17,0.17,0.0,0.0,0,0,0,0
+Mississippi,Walthall County,1,1,0,2,3,0.33,0.33,0.0,0.67,0,0,0,1
+Mississippi,Warren County,6,4,3,4,12,0.5,0.33,0.25,0.33,1,0,0,0
+Mississippi,Washington County,14,9,8,7,19,0.74,0.47,0.42,0.37,1,0,0,0
+Mississippi,Wayne County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Mississippi,Webster County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Mississippi,Wilkinson County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Mississippi,Winston County,3,3,1,3,5,0.6,0.6,0.2,0.6,1,1,0,1
+Mississippi,Yalobusha County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Mississippi,Yazoo County,5,4,2,2,6,0.83,0.67,0.33,0.33,1,1,0,0
+Missouri,Adair County,4,1,1,1,7,0.57,0.14,0.14,0.14,1,0,0,0
+Missouri,Andrew County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Atchison County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Audrain County,3,3,3,1,7,0.43,0.43,0.43,0.14,0,0,0,0
+Missouri,Barry County,2,2,2,2,7,0.29,0.29,0.29,0.29,0,0,0,0
+Missouri,Barton County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Missouri,Bates County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Missouri,Benton County,2,2,0,2,6,0.33,0.33,0.0,0.33,0,0,0,0
+Missouri,Bollinger County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Boone County,11,5,5,3,29,0.38,0.17,0.17,0.1,0,0,0,0
+Missouri,Buchanan County,10,3,3,5,25,0.4,0.12,0.12,0.2,0,0,0,0
+Missouri,Butler County,8,7,4,5,10,0.8,0.7,0.4,0.5,1,1,0,1
+Missouri,Caldwell County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Missouri,Callaway County,1,1,1,1,8,0.12,0.12,0.12,0.12,0,0,0,0
+Missouri,Camden County,1,1,1,1,11,0.09,0.09,0.09,0.09,0,0,0,0
+Missouri,Cape Girardeau County,4,1,1,1,16,0.25,0.06,0.06,0.06,0,0,0,0
+Missouri,Carroll County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Missouri,Carter County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Missouri,Cass County,5,5,4,2,20,0.25,0.25,0.2,0.1,0,0,0,0
+Missouri,Cedar County,2,2,1,1,3,0.67,0.67,0.33,0.33,1,1,0,0
+Missouri,Chariton County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Christian County,1,1,1,0,14,0.07,0.07,0.07,0.0,0,0,0,0
+Missouri,Clark County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Clay County,14,7,7,5,44,0.32,0.16,0.16,0.11,0,0,0,0
+Missouri,Clinton County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Missouri,Cole County,4,2,2,3,15,0.27,0.13,0.13,0.2,0,0,0,0
+Missouri,Cooper County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Crawford County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Missouri,Dade County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Missouri,Dallas County,2,2,1,2,3,0.67,0.67,0.33,0.67,1,1,0,1
+Missouri,Daviess County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,DeKalb County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Dent County,3,2,1,1,4,0.75,0.5,0.25,0.25,1,1,0,0
+Missouri,Douglas County,3,3,1,0,3,1.0,1.0,0.33,0.0,1,1,0,0
+Missouri,Dunklin County,4,3,3,2,10,0.4,0.3,0.3,0.2,0,0,0,0
+Missouri,Franklin County,4,3,2,4,17,0.24,0.18,0.12,0.24,0,0,0,0
+Missouri,Gasconade County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Gentry County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Greene County,28,8,8,12,62,0.45,0.13,0.13,0.19,0,0,0,0
+Missouri,Grundy County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Missouri,Harrison County,2,2,1,0,3,0.67,0.67,0.33,0.0,1,1,0,0
+Missouri,Henry County,4,3,2,1,6,0.67,0.5,0.33,0.17,1,1,0,0
+Missouri,Hickory County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Holt County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Howard County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Missouri,Howell County,3,3,2,5,8,0.38,0.38,0.25,0.62,0,0,0,1
+Missouri,Iron County,2,2,0,1,4,0.5,0.5,0.0,0.25,1,1,0,0
+Missouri,Jackson County,87,37,37,49,197,0.44,0.19,0.19,0.25,0,0,0,0
+Missouri,Jasper County,9,6,5,3,22,0.41,0.27,0.23,0.14,0,0,0,0
+Missouri,Jefferson County,5,5,5,4,42,0.12,0.12,0.12,0.1,0,0,0,0
+Missouri,Johnson County,3,2,2,1,9,0.33,0.22,0.22,0.11,0,0,0,0
+Missouri,Knox County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Missouri,Laclede County,3,3,2,1,6,0.5,0.5,0.33,0.17,1,1,0,0
+Missouri,Lafayette County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Missouri,Lawrence County,1,1,1,2,7,0.14,0.14,0.14,0.29,0,0,0,0
+Missouri,Lewis County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Lincoln County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Linn County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Missouri,Livingston County,3,1,1,0,5,0.6,0.2,0.2,0.0,1,0,0,0
+Missouri,Macon County,2,2,1,1,5,0.4,0.4,0.2,0.2,0,0,0,0
+Missouri,Madison County,2,2,1,1,3,0.67,0.67,0.33,0.33,1,1,0,0
+Missouri,Maries County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Marion County,4,3,3,1,8,0.5,0.38,0.38,0.12,1,0,0,0
+Missouri,McDonald County,1,1,0,2,4,0.25,0.25,0.0,0.5,0,0,0,1
+Missouri,Mercer County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Miller County,1,0,0,1,5,0.2,0.0,0.0,0.2,0,0,0,0
+Missouri,Mississippi County,2,0,0,0,4,0.5,0.0,0.0,0.0,1,0,0,0
+Missouri,Moniteau County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Missouri,Monroe County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Missouri,Montgomery County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Missouri,Morgan County,1,1,0,3,5,0.2,0.2,0.0,0.6,0,0,0,1
+Missouri,New Madrid County,2,1,1,2,6,0.33,0.17,0.17,0.33,0,0,0,0
+Missouri,Newton County,2,1,1,1,12,0.17,0.08,0.08,0.08,0,0,0,0
+Missouri,Nodaway County,3,3,2,1,5,0.6,0.6,0.4,0.2,1,1,0,0
+Missouri,Oregon County,2,2,0,0,3,0.67,0.67,0.0,0.0,1,1,0,0
+Missouri,Osage County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Ozark County,2,2,0,1,2,1.0,1.0,0.0,0.5,1,1,0,1
+Missouri,Pemiscot County,3,2,2,2,6,0.5,0.33,0.33,0.33,1,0,0,0
+Missouri,Perry County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Missouri,Pettis County,5,4,4,3,11,0.45,0.36,0.36,0.27,0,0,0,0
+Missouri,Phelps County,2,2,2,2,10,0.2,0.2,0.2,0.2,0,0,0,0
+Missouri,Pike County,2,2,1,0,5,0.4,0.4,0.2,0.0,0,0,0,0
+Missouri,Platte County,2,1,1,2,20,0.1,0.05,0.05,0.1,0,0,0,0
+Missouri,Polk County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Missouri,Pulaski County,2,2,2,1,9,0.22,0.22,0.22,0.11,0,0,0,0
+Missouri,Putnam County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Ralls County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Randolph County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Missouri,Ray County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Missouri,Reynolds County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Ripley County,1,1,0,2,4,0.25,0.25,0.0,0.5,0,0,0,1
+Missouri,Saline County,3,2,2,1,8,0.38,0.25,0.25,0.12,0,0,0,0
+Missouri,Schuyler County,2,2,0,0,2,1.0,1.0,0.0,0.0,1,1,0,0
+Missouri,Scotland County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Scott County,5,4,3,2,10,0.5,0.4,0.3,0.2,1,0,0,0
+Missouri,Shannon County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Missouri,Shelby County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,St. Charles County,5,1,1,1,79,0.06,0.01,0.01,0.01,0,0,0,0
+Missouri,St. Clair County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,St. Francois County,3,3,3,4,11,0.27,0.27,0.27,0.36,0,0,0,0
+Missouri,St. Louis County,58,24,24,41,199,0.29,0.12,0.12,0.21,0,0,0,0
+Missouri,St. Louis city,54,10,10,43,106,0.51,0.09,0.09,0.41,1,0,0,0
+Missouri,Ste. Genevieve County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Missouri,Stoddard County,1,0,0,1,8,0.12,0.0,0.0,0.12,0,0,0,0
+Missouri,Stone County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Missouri,Sullivan County,2,2,0,0,3,0.67,0.67,0.0,0.0,1,1,0,0
+Missouri,Taney County,5,5,4,4,10,0.5,0.5,0.4,0.4,1,1,0,0
+Missouri,Texas County,2,2,0,3,4,0.5,0.5,0.0,0.75,1,1,0,1
+Missouri,Vernon County,4,4,2,2,6,0.67,0.67,0.33,0.33,1,1,0,0
+Missouri,Warren County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Missouri,Washington County,3,3,0,2,5,0.6,0.6,0.0,0.4,1,1,0,0
+Missouri,Wayne County,2,2,0,2,4,0.5,0.5,0.0,0.5,1,1,0,1
+Missouri,Webster County,1,1,1,2,8,0.12,0.12,0.12,0.25,0,0,0,0
+Missouri,Worth County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Missouri,Wright County,2,2,1,3,4,0.5,0.5,0.25,0.75,1,1,0,1
+Montana,Beaverhead County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Montana,Big Horn County,4,4,1,1,5,0.8,0.8,0.2,0.2,1,1,0,0
+Montana,Blaine County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Montana,Broadwater County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Carbon County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Carter County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Cascade County,7,3,3,2,22,0.32,0.14,0.14,0.09,0,0,0,0
+Montana,Chouteau County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Montana,Custer County,1,0,0,0,6,0.17,0.0,0.0,0.0,0,0,0,0
+Montana,Daniels County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Dawson County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Deer Lodge County,2,0,0,1,3,0.67,0.0,0.0,0.33,1,0,0,0
+Montana,Fallon County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Fergus County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Montana,Flathead County,3,2,1,0,19,0.16,0.11,0.05,0.0,0,0,0,0
+Montana,Gallatin County,1,1,1,0,22,0.05,0.05,0.05,0.0,0,0,0,0
+Montana,Garfield County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Glacier County,3,3,3,2,4,0.75,0.75,0.75,0.5,1,1,1,1
+Montana,Golden Valley County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Montana,Granite County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Hill County,2,1,0,0,6,0.33,0.17,0.0,0.0,0,0,0,0
+Montana,Jefferson County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Judith Basin County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Lake County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Lewis and Clark County,1,1,1,1,14,0.07,0.07,0.07,0.07,0,0,0,0
+Montana,Liberty County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Lincoln County,2,1,0,0,5,0.4,0.2,0.0,0.0,0,0,0,0
+Montana,Madison County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,McCone County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Meagher County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Montana,Mineral County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Montana,Missoula County,7,1,1,2,20,0.35,0.05,0.05,0.1,0,0,0,0
+Montana,Musselshell County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Montana,Park County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Montana,Petroleum County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Phillips County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Pondera County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Montana,Powder River County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Powell County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Prairie County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Ravalli County,0,0,0,1,10,0.0,0.0,0.0,0.1,0,0,0,0
+Montana,Richland County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Roosevelt County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Montana,Rosebud County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Montana,Sanders County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Montana,Sheridan County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Silver Bow County,3,0,0,1,8,0.38,0.0,0.0,0.12,0,0,0,0
+Montana,Stillwater County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Sweet Grass County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Teton County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Toole County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Treasure County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Montana,Valley County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Montana,Wheatland County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Montana,Wibaux County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Montana,Yellowstone County,7,4,4,2,32,0.22,0.12,0.12,0.06,0,0,0,0
+Nebraska,Adams County,3,2,2,2,9,0.33,0.22,0.22,0.22,0,0,0,0
+Nebraska,Antelope County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Arthur County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Banner County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Blaine County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Nebraska,Boone County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Box Butte County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Boyd County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Brown County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Buffalo County,2,2,2,1,11,0.18,0.18,0.18,0.09,0,0,0,0
+Nebraska,Burt County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Butler County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Cass County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Nebraska,Cedar County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Chase County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Cherry County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Cheyenne County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Clay County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Colfax County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Nebraska,Cuming County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Custer County,3,2,0,0,4,0.75,0.5,0.0,0.0,1,1,0,0
+Nebraska,Dakota County,2,2,2,2,4,0.5,0.5,0.5,0.5,1,1,1,1
+Nebraska,Dawes County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Dawson County,2,1,1,1,7,0.29,0.14,0.14,0.14,0,0,0,0
+Nebraska,Deuel County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Nebraska,Dixon County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Dodge County,3,1,1,1,9,0.33,0.11,0.11,0.11,0,0,0,0
+Nebraska,Douglas County,64,10,10,19,156,0.41,0.06,0.06,0.12,0,0,0,0
+Nebraska,Dundy County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Nebraska,Fillmore County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Franklin County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Frontier County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Furnas County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Gage County,2,1,1,0,7,0.29,0.14,0.14,0.0,0,0,0,0
+Nebraska,Garden County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Garfield County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Gosper County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Grant County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Nebraska,Greeley County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Hall County,6,2,2,0,14,0.43,0.14,0.14,0.0,0,0,0,0
+Nebraska,Hamilton County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Harlan County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Hayes County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Hitchcock County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Nebraska,Holt County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Hooker County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Nebraska,Howard County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Jefferson County,3,1,0,0,3,1.0,0.33,0.0,0.0,1,0,0,0
+Nebraska,Johnson County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Kearney County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Keith County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Keya Paha County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Nebraska,Kimball County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Knox County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Lancaster County,25,10,10,9,74,0.34,0.14,0.14,0.12,0,0,0,0
+Nebraska,Lincoln County,0,0,0,1,8,0.0,0.0,0.0,0.12,0,0,0,0
+Nebraska,Logan County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Loup County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Madison County,2,1,1,0,9,0.22,0.11,0.11,0.0,0,0,0,0
+Nebraska,McPherson County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Merrick County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Morrill County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Nebraska,Nance County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Nemaha County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Nuckolls County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Otoe County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Pawnee County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Perkins County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Phelps County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Pierce County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Platte County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Polk County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Red Willow County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Nebraska,Richardson County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Nebraska,Rock County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Saline County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Nebraska,Sarpy County,8,6,6,2,43,0.19,0.14,0.14,0.05,0,0,0,0
+Nebraska,Saunders County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Scotts Bluff County,2,0,0,1,11,0.18,0.0,0.0,0.09,0,0,0,0
+Nebraska,Seward County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Sheridan County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Sherman County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Sioux County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Nebraska,Stanton County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Thayer County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Thomas County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Thurston County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Nebraska,Valley County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Washington County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Nebraska,Wayne County,1,0,0,0,2,0.5,0.0,0.0,0.0,1,0,0,0
+Nebraska,Webster County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,Wheeler County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nebraska,York County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Nevada,Carson City,2,0,0,0,13,0.15,0.0,0.0,0.0,0,0,0,0
+Nevada,Churchill County,2,1,1,1,7,0.29,0.14,0.14,0.14,0,0,0,0
+Nevada,Clark County,122,30,30,57,487,0.25,0.06,0.06,0.12,0,0,0,0
+Nevada,Douglas County,1,1,0,0,16,0.06,0.06,0.0,0.0,0,0,0,0
+Nevada,Elko County,2,1,1,1,14,0.14,0.07,0.07,0.07,0,0,0,0
+Nevada,Esmeralda County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Nevada,Eureka County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nevada,Humboldt County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Nevada,Lander County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nevada,Lincoln County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Nevada,Lyon County,0,0,0,1,10,0.0,0.0,0.0,0.1,0,0,0,0
+Nevada,Mineral County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Nevada,Nye County,5,5,5,2,9,0.56,0.56,0.56,0.22,1,1,1,0
+Nevada,Pershing County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nevada,Storey County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Nevada,Washoe County,27,8,7,13,108,0.25,0.07,0.06,0.12,0,0,0,0
+Nevada,White Pine County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+New Hampshire,Belknap County,2,1,1,0,15,0.13,0.07,0.07,0.0,0,0,0,0
+New Hampshire,Carroll County,1,1,0,3,11,0.09,0.09,0.0,0.27,0,0,0,0
+New Hampshire,Cheshire County,4,3,2,1,16,0.25,0.19,0.12,0.06,0,0,0,0
+New Hampshire,Coos County,3,3,2,2,11,0.27,0.27,0.18,0.18,0,0,0,0
+New Hampshire,Grafton County,3,3,1,2,19,0.16,0.16,0.05,0.11,0,0,0,0
+New Hampshire,Hillsborough County,19,6,6,8,85,0.22,0.07,0.07,0.09,0,0,0,0
+New Hampshire,Merrimack County,3,3,3,3,36,0.08,0.08,0.08,0.08,0,0,0,0
+New Hampshire,Rockingham County,9,7,7,4,64,0.14,0.11,0.11,0.06,0,0,0,0
+New Hampshire,Strafford County,10,7,7,5,25,0.4,0.28,0.28,0.2,0,0,0,0
+New Hampshire,Sullivan County,4,4,4,4,10,0.4,0.4,0.4,0.4,0,0,0,0
+New Jersey,Atlantic County,25,13,13,17,69,0.36,0.19,0.19,0.25,0,0,0,0
+New Jersey,Bergen County,16,0,0,6,179,0.09,0.0,0.0,0.03,0,0,0,0
+New Jersey,Burlington County,18,9,9,6,114,0.16,0.08,0.08,0.05,0,0,0,0
+New Jersey,Camden County,37,14,14,22,127,0.29,0.11,0.11,0.17,0,0,0,0
+New Jersey,Cape May County,8,6,6,2,32,0.25,0.19,0.19,0.06,0,0,0,0
+New Jersey,Cumberland County,14,8,7,10,33,0.42,0.24,0.21,0.3,0,0,0,0
+New Jersey,Essex County,31,3,3,20,210,0.15,0.01,0.01,0.1,0,0,0,0
+New Jersey,Gloucester County,8,4,4,3,63,0.13,0.06,0.06,0.05,0,0,0,0
+New Jersey,Hudson County,13,0,0,9,165,0.08,0.0,0.0,0.05,0,0,0,0
+New Jersey,Hunterdon County,1,0,0,0,26,0.04,0.0,0.0,0.0,0,0,0,0
+New Jersey,Mercer County,20,1,1,11,77,0.26,0.01,0.01,0.14,0,0,0,0
+New Jersey,Middlesex County,18,5,5,6,175,0.1,0.03,0.03,0.03,0,0,0,0
+New Jersey,Monmouth County,21,6,6,12,143,0.15,0.04,0.04,0.08,0,0,0,0
+New Jersey,Morris County,6,0,0,1,100,0.06,0.0,0.0,0.01,0,0,0,0
+New Jersey,Ocean County,36,25,25,17,125,0.29,0.2,0.2,0.14,0,0,0,0
+New Jersey,Passaic County,17,1,1,11,100,0.17,0.01,0.01,0.11,0,0,0,0
+New Jersey,Salem County,6,5,5,3,24,0.25,0.21,0.21,0.12,0,0,0,0
+New Jersey,Somerset County,7,1,1,2,68,0.1,0.01,0.01,0.03,0,0,0,0
+New Jersey,Sussex County,3,1,1,1,41,0.07,0.02,0.02,0.02,0,0,0,0
+New Jersey,Union County,28,2,2,10,108,0.26,0.02,0.02,0.09,0,0,0,0
+New Jersey,Warren County,6,4,4,6,23,0.26,0.17,0.17,0.26,0,0,0,0
+New Mexico,Bernalillo County,52,16,16,20,153,0.34,0.1,0.1,0.13,0,0,0,0
+New Mexico,Catron County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+New Mexico,Chaves County,7,5,4,0,16,0.44,0.31,0.25,0.0,0,0,0,0
+New Mexico,Cibola County,4,3,2,3,7,0.57,0.43,0.29,0.43,1,0,0,0
+New Mexico,Colfax County,1,1,1,2,3,0.33,0.33,0.33,0.67,0,0,0,1
+New Mexico,Curry County,6,4,4,1,12,0.5,0.33,0.33,0.08,1,0,0,0
+New Mexico,De Baca County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+New Mexico,DoÃ±a Ana County,27,14,12,10,41,0.66,0.34,0.29,0.24,1,0,0,0
+New Mexico,Eddy County,4,3,3,3,12,0.33,0.25,0.25,0.25,0,0,0,0
+New Mexico,Grant County,2,2,2,3,8,0.25,0.25,0.25,0.38,0,0,0,0
+New Mexico,Guadalupe County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+New Mexico,Harding County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+New Mexico,Hidalgo County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+New Mexico,Lea County,6,4,4,1,18,0.33,0.22,0.22,0.06,0,0,0,0
+New Mexico,Lincoln County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+New Mexico,Los Alamos County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+New Mexico,Luna County,5,4,4,5,6,0.83,0.67,0.67,0.83,1,1,1,1
+New Mexico,McKinley County,12,10,9,12,17,0.71,0.59,0.53,0.71,1,1,1,1
+New Mexico,Mora County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+New Mexico,Otero County,4,2,2,3,16,0.25,0.12,0.12,0.19,0,0,0,0
+New Mexico,Quay County,2,2,2,0,3,0.67,0.67,0.67,0.0,1,1,1,0
+New Mexico,Rio Arriba County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+New Mexico,Roosevelt County,2,2,2,1,5,0.4,0.4,0.4,0.2,0,0,0,0
+New Mexico,San Juan County,15,13,9,7,33,0.45,0.39,0.27,0.21,0,0,0,0
+New Mexico,San Miguel County,6,4,4,4,7,0.86,0.57,0.57,0.57,1,1,1,1
+New Mexico,Sandoval County,5,4,3,2,27,0.19,0.15,0.11,0.07,0,0,0,0
+New Mexico,Santa Fe County,9,6,6,0,50,0.18,0.12,0.12,0.0,0,0,0,0
+New Mexico,Sierra County,2,2,2,3,4,0.5,0.5,0.5,0.75,1,1,1,1
+New Mexico,Socorro County,5,5,4,2,6,0.83,0.83,0.67,0.33,1,1,1,0
+New Mexico,Taos County,4,4,1,2,6,0.67,0.67,0.17,0.33,1,1,0,0
+New Mexico,Torrance County,2,2,2,2,4,0.5,0.5,0.5,0.5,1,1,1,1
+New Mexico,Union County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+New Mexico,Valencia County,7,7,6,1,18,0.39,0.39,0.33,0.06,0,0,0,0
+New York,Albany County,19,4,4,13,75,0.25,0.05,0.05,0.17,0,0,0,0
+New York,Allegany County,1,1,0,5,13,0.08,0.08,0.0,0.38,0,0,0,0
+New York,Bronx County,3,0,0,2,336,0.01,0.0,0.0,0.01,0,0,0,0
+New York,Broome County,19,3,3,14,55,0.35,0.05,0.05,0.25,0,0,0,0
+New York,Cattaraugus County,1,1,1,8,20,0.05,0.05,0.05,0.4,0,0,0,0
+New York,Cayuga County,5,1,1,4,19,0.26,0.05,0.05,0.21,0,0,0,0
+New York,Chautauqua County,15,7,6,12,35,0.43,0.2,0.17,0.34,0,0,0,0
+New York,Chemung County,9,3,3,5,22,0.41,0.14,0.14,0.23,0,0,0,0
+New York,Chenango County,1,1,0,2,12,0.08,0.08,0.0,0.17,0,0,0,0
+New York,Clinton County,4,1,0,5,19,0.21,0.05,0.0,0.26,0,0,0,0
+New York,Columbia County,2,2,2,2,21,0.1,0.1,0.1,0.1,0,0,0,0
+New York,Cortland County,1,0,0,0,12,0.08,0.0,0.0,0.0,0,0,0,0
+New York,Delaware County,1,1,1,3,14,0.07,0.07,0.07,0.21,0,0,0,0
+New York,Dutchess County,9,3,3,6,78,0.12,0.04,0.04,0.08,0,0,0,0
+New York,Erie County,81,27,27,53,236,0.34,0.11,0.11,0.22,0,0,0,0
+New York,Essex County,0,0,0,0,13,0.0,0.0,0.0,0.0,0,0,0,0
+New York,Franklin County,5,4,0,4,14,0.36,0.29,0.0,0.29,0,0,0,0
+New York,Fulton County,4,0,0,2,15,0.27,0.0,0.0,0.13,0,0,0,0
+New York,Genesee County,1,0,0,1,15,0.07,0.0,0.0,0.07,0,0,0,0
+New York,Greene County,0,0,0,1,15,0.0,0.0,0.0,0.07,0,0,0,0
+New York,Hamilton County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+New York,Herkimer County,5,2,2,5,19,0.26,0.11,0.11,0.26,0,0,0,0
+New York,Jefferson County,8,5,4,5,25,0.32,0.2,0.16,0.2,0,0,0,0
+New York,Kings County,5,0,0,2,754,0.01,0.0,0.0,0.0,0,0,0,0
+New York,Lewis County,4,4,0,0,7,0.57,0.57,0.0,0.0,1,1,0,0
+New York,Livingston County,3,2,2,4,15,0.2,0.13,0.13,0.27,0,0,0,0
+New York,Madison County,2,2,2,2,16,0.12,0.12,0.12,0.12,0,0,0,0
+New York,Monroe County,62,17,17,47,191,0.32,0.09,0.09,0.25,0,0,0,0
+New York,Montgomery County,8,8,8,11,16,0.5,0.5,0.5,0.69,1,1,1,1
+New York,Nassau County,8,0,0,2,279,0.03,0.0,0.0,0.01,0,0,0,0
+New York,New York County,0,0,0,0,286,0.0,0.0,0.0,0.0,0,0,0,0
+New York,Niagara County,21,6,6,10,60,0.35,0.1,0.1,0.17,0,0,0,0
+New York,Oneida County,21,9,9,15,74,0.28,0.12,0.12,0.2,0,0,0,0
+New York,Onondaga County,42,11,11,27,140,0.3,0.08,0.08,0.19,0,0,0,0
+New York,Ontario County,4,2,2,3,25,0.16,0.08,0.08,0.12,0,0,0,0
+New York,Orange County,18,7,7,7,79,0.23,0.09,0.09,0.09,0,0,0,0
+New York,Orleans County,3,2,2,5,10,0.3,0.2,0.2,0.5,0,0,0,1
+New York,Oswego County,5,2,1,7,29,0.17,0.07,0.03,0.24,0,0,0,0
+New York,Otsego County,6,6,3,5,17,0.35,0.35,0.18,0.29,0,0,0,0
+New York,Putnam County,0,0,0,0,19,0.0,0.0,0.0,0.0,0,0,0,0
+New York,Queens County,11,0,0,6,656,0.02,0.0,0.0,0.01,0,0,0,0
+New York,Rensselaer County,13,6,5,9,42,0.31,0.14,0.12,0.21,0,0,0,0
+New York,Richmond County,13,0,0,11,108,0.12,0.0,0.0,0.1,0,0,0,0
+New York,Rockland County,11,5,5,6,65,0.17,0.08,0.08,0.09,0,0,0,0
+New York,Saratoga County,4,1,1,0,50,0.08,0.02,0.02,0.0,0,0,0,0
+New York,Schenectady County,13,1,1,9,43,0.3,0.02,0.02,0.21,0,0,0,0
+New York,Schoharie County,0,0,0,2,8,0.0,0.0,0.0,0.25,0,0,0,0
+New York,Schuyler County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+New York,Seneca County,0,0,0,2,10,0.0,0.0,0.0,0.2,0,0,0,0
+New York,St. Lawrence County,12,9,5,6,28,0.43,0.32,0.18,0.21,0,0,0,0
+New York,Steuben County,10,4,2,5,30,0.33,0.13,0.07,0.17,0,0,0,0
+New York,Suffolk County,19,6,6,6,322,0.06,0.02,0.02,0.02,0,0,0,0
+New York,Sullivan County,2,2,2,5,24,0.08,0.08,0.08,0.21,0,0,0,0
+New York,Tioga County,2,0,0,1,10,0.2,0.0,0.0,0.1,0,0,0,0
+New York,Tompkins County,7,5,5,3,23,0.3,0.22,0.22,0.13,0,0,0,0
+New York,Ulster County,9,5,5,6,47,0.19,0.11,0.11,0.13,0,0,0,0
+New York,Warren County,2,0,0,3,19,0.11,0.0,0.0,0.16,0,0,0,0
+New York,Washington County,3,1,1,4,17,0.18,0.06,0.06,0.24,0,0,0,0
+New York,Wayne County,4,3,3,3,22,0.18,0.14,0.14,0.14,0,0,0,0
+New York,Westchester County,13,2,2,5,221,0.06,0.01,0.01,0.02,0,0,0,0
+New York,Wyoming County,0,0,0,1,11,0.0,0.0,0.0,0.09,0,0,0,0
+New York,Yates County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+North Carolina,Alamance County,13,10,10,7,36,0.36,0.28,0.28,0.19,0,0,0,0
+North Carolina,Alexander County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+North Carolina,Alleghany County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+North Carolina,Anson County,1,1,1,3,6,0.17,0.17,0.17,0.5,0,0,0,1
+North Carolina,Ashe County,2,2,1,3,6,0.33,0.33,0.17,0.5,0,0,0,1
+North Carolina,Avery County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+North Carolina,Beaufort County,3,3,2,2,11,0.27,0.27,0.18,0.18,0,0,0,0
+North Carolina,Bertie County,3,3,1,4,4,0.75,0.75,0.25,1.0,1,1,0,1
+North Carolina,Bladen County,3,3,1,6,6,0.5,0.5,0.17,1.0,1,1,0,1
+North Carolina,Brunswick County,2,2,2,2,32,0.06,0.06,0.06,0.06,0,0,0,0
+North Carolina,Buncombe County,10,7,7,5,56,0.18,0.12,0.12,0.09,0,0,0,0
+North Carolina,Burke County,3,3,3,2,18,0.17,0.17,0.17,0.11,0,0,0,0
+North Carolina,Cabarrus County,14,7,7,6,37,0.38,0.19,0.19,0.16,0,0,0,0
+North Carolina,Caldwell County,6,6,6,3,17,0.35,0.35,0.35,0.18,0,0,0,0
+North Carolina,Camden County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Carolina,Carteret County,4,2,2,1,36,0.11,0.06,0.06,0.03,0,0,0,0
+North Carolina,Caswell County,1,1,0,2,6,0.17,0.17,0.0,0.33,0,0,0,0
+North Carolina,Catawba County,7,6,6,6,31,0.23,0.19,0.19,0.19,0,0,0,0
+North Carolina,Chatham County,4,4,2,1,13,0.31,0.31,0.15,0.08,0,0,0,0
+North Carolina,Cherokee County,1,1,0,0,7,0.14,0.14,0.0,0.0,0,0,0,0
+North Carolina,Chowan County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+North Carolina,Clay County,0,0,0,2,2,0.0,0.0,0.0,1.0,0,0,0,1
+North Carolina,Cleveland County,8,6,5,7,22,0.36,0.27,0.23,0.32,0,0,0,0
+North Carolina,Columbus County,1,1,1,6,13,0.08,0.08,0.08,0.46,0,0,0,0
+North Carolina,Craven County,4,2,2,5,21,0.19,0.1,0.1,0.24,0,0,0,0
+North Carolina,Cumberland County,32,22,22,20,67,0.48,0.33,0.33,0.3,0,0,0,0
+North Carolina,Currituck County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+North Carolina,Dare County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+North Carolina,Davidson County,9,7,7,7,34,0.26,0.21,0.21,0.21,0,0,0,0
+North Carolina,Davie County,0,0,0,1,7,0.0,0.0,0.0,0.14,0,0,0,0
+North Carolina,Duplin County,2,2,2,4,11,0.18,0.18,0.18,0.36,0,0,0,0
+North Carolina,Durham County,21,8,8,13,60,0.35,0.13,0.13,0.22,0,0,0,0
+North Carolina,Edgecombe County,6,6,6,6,14,0.43,0.43,0.43,0.43,0,0,0,0
+North Carolina,Forsyth County,35,23,23,22,93,0.38,0.25,0.25,0.24,0,0,0,0
+North Carolina,Franklin County,3,3,1,4,12,0.25,0.25,0.08,0.33,0,0,0,0
+North Carolina,Gaston County,25,14,14,8,65,0.38,0.22,0.22,0.12,0,0,0,0
+North Carolina,Gates County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+North Carolina,Graham County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+North Carolina,Granville County,3,3,3,1,13,0.23,0.23,0.23,0.08,0,0,0,0
+North Carolina,Greene County,0,0,0,3,4,0.0,0.0,0.0,0.75,0,0,0,1
+North Carolina,Guilford County,52,18,18,19,118,0.44,0.15,0.15,0.16,0,0,0,0
+North Carolina,Halifax County,4,3,3,9,12,0.33,0.25,0.25,0.75,0,0,0,1
+North Carolina,Harnett County,4,4,4,6,27,0.15,0.15,0.15,0.22,0,0,0,0
+North Carolina,Haywood County,2,1,1,1,16,0.12,0.06,0.06,0.06,0,0,0,0
+North Carolina,Henderson County,3,2,2,1,26,0.12,0.08,0.08,0.04,0,0,0,0
+North Carolina,Hertford County,2,2,1,3,5,0.4,0.4,0.2,0.6,0,0,0,1
+North Carolina,Hoke County,2,2,2,3,8,0.25,0.25,0.25,0.38,0,0,0,0
+North Carolina,Hyde County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+North Carolina,Iredell County,6,5,5,1,44,0.14,0.11,0.11,0.02,0,0,0,0
+North Carolina,Jackson County,0,0,0,2,9,0.0,0.0,0.0,0.22,0,0,0,0
+North Carolina,Johnston County,4,2,2,5,25,0.16,0.08,0.08,0.2,0,0,0,0
+North Carolina,Jones County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+North Carolina,Lee County,4,2,2,4,13,0.31,0.15,0.15,0.31,0,0,0,0
+North Carolina,Lenoir County,6,4,4,4,15,0.4,0.27,0.27,0.27,0,0,0,0
+North Carolina,Lincoln County,3,3,3,0,18,0.17,0.17,0.17,0.0,0,0,0,0
+North Carolina,Macon County,2,2,1,1,9,0.22,0.22,0.11,0.11,0,0,0,0
+North Carolina,Madison County,2,2,0,0,6,0.33,0.33,0.0,0.0,0,0,0,0
+North Carolina,Martin County,1,1,1,3,6,0.17,0.17,0.17,0.5,0,0,0,1
+North Carolina,McDowell County,1,0,0,2,10,0.1,0.0,0.0,0.2,0,0,0,0
+North Carolina,Mecklenburg County,79,19,19,36,231,0.34,0.08,0.08,0.16,0,0,0,0
+North Carolina,Mitchell County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+North Carolina,Montgomery County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+North Carolina,Moore County,2,2,2,3,18,0.11,0.11,0.11,0.17,0,0,0,0
+North Carolina,Nash County,2,1,1,4,18,0.11,0.06,0.06,0.22,0,0,0,0
+North Carolina,New Hanover County,15,8,8,10,44,0.34,0.18,0.18,0.23,0,0,0,0
+North Carolina,Northampton County,0,0,0,4,5,0.0,0.0,0.0,0.8,0,0,0,1
+North Carolina,Onslow County,9,8,8,3,31,0.29,0.26,0.26,0.1,0,0,0,0
+North Carolina,Orange County,6,0,0,4,28,0.21,0.0,0.0,0.14,0,0,0,0
+North Carolina,Pamlico County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+North Carolina,Pasquotank County,5,5,4,4,10,0.5,0.5,0.4,0.4,1,1,0,0
+North Carolina,Pender County,1,1,0,0,15,0.07,0.07,0.0,0.0,0,0,0,0
+North Carolina,Perquimans County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+North Carolina,Person County,3,3,2,4,7,0.43,0.43,0.29,0.57,0,0,0,1
+North Carolina,Pitt County,16,9,9,13,32,0.5,0.28,0.28,0.41,1,0,0,0
+North Carolina,Polk County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+North Carolina,Randolph County,9,6,5,7,28,0.32,0.21,0.18,0.25,0,0,0,0
+North Carolina,Richmond County,5,3,2,5,11,0.45,0.27,0.18,0.45,0,0,0,0
+North Carolina,Robeson County,9,6,6,14,31,0.29,0.19,0.19,0.45,0,0,0,0
+North Carolina,Rockingham County,6,5,5,4,21,0.29,0.24,0.24,0.19,0,0,0,0
+North Carolina,Rowan County,10,7,7,5,30,0.33,0.23,0.23,0.17,0,0,0,0
+North Carolina,Rutherford County,3,2,1,4,13,0.23,0.15,0.08,0.31,0,0,0,0
+North Carolina,Sampson County,2,2,1,6,11,0.18,0.18,0.09,0.55,0,0,0,1
+North Carolina,Scotland County,4,4,3,4,7,0.57,0.57,0.43,0.57,1,1,0,1
+North Carolina,Stanly County,2,1,1,1,13,0.15,0.08,0.08,0.08,0,0,0,0
+North Carolina,Stokes County,2,2,1,2,9,0.22,0.22,0.11,0.22,0,0,0,0
+North Carolina,Surry County,3,1,1,4,22,0.14,0.05,0.05,0.18,0,0,0,0
+North Carolina,Swain County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+North Carolina,Transylvania County,0,0,0,2,7,0.0,0.0,0.0,0.29,0,0,0,0
+North Carolina,Tyrrell County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Carolina,Union County,7,6,6,1,41,0.17,0.15,0.15,0.02,0,0,0,0
+North Carolina,Vance County,5,2,1,5,10,0.5,0.2,0.1,0.5,1,0,0,1
+North Carolina,Wake County,46,18,18,17,187,0.25,0.1,0.1,0.09,0,0,0,0
+North Carolina,Warren County,1,1,0,3,6,0.17,0.17,0.0,0.5,0,0,0,1
+North Carolina,Washington County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+North Carolina,Watauga County,2,0,0,1,13,0.15,0.0,0.0,0.08,0,0,0,0
+North Carolina,Wayne County,12,10,10,8,26,0.46,0.38,0.38,0.31,0,0,0,0
+North Carolina,Wilkes County,2,2,2,5,14,0.14,0.14,0.14,0.36,0,0,0,0
+North Carolina,Wilson County,6,2,2,5,19,0.32,0.11,0.11,0.26,0,0,0,0
+North Carolina,Yadkin County,0,0,0,1,7,0.0,0.0,0.0,0.14,0,0,0,0
+North Carolina,Yancey County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Adams County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Barnes County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Benson County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+North Dakota,Billings County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Bottineau County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Bowman County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Burke County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Burleigh County,3,1,1,2,19,0.16,0.05,0.05,0.11,0,0,0,0
+North Dakota,Cass County,14,2,2,2,33,0.42,0.06,0.06,0.06,0,0,0,0
+North Dakota,Cavalier County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Dickey County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Divide County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Dunn County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Eddy County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Emmons County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+North Dakota,Foster County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Golden Valley County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Grand Forks County,8,4,4,5,18,0.44,0.22,0.22,0.28,0,0,0,0
+North Dakota,Grant County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Griggs County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Hettinger County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+North Dakota,Kidder County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+North Dakota,LaMoure County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Logan County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,McHenry County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,McIntosh County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+North Dakota,McKenzie County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+North Dakota,McLean County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Mercer County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Morton County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Mountrail County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Nelson County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Oliver County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Pembina County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Pierce County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Ramsey County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Ransom County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Renville County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Richland County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Rolette County,1,1,0,2,4,0.25,0.25,0.0,0.5,0,0,0,1
+North Dakota,Sargent County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Sheridan County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+North Dakota,Sioux County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+North Dakota,Slope County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Stark County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Steele County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Stutsman County,1,0,0,0,6,0.17,0.0,0.0,0.0,0,0,0,0
+North Dakota,Towner County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Traill County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Walsh County,1,0,0,0,6,0.17,0.0,0.0,0.0,0,0,0,0
+North Dakota,Ward County,2,1,1,1,13,0.15,0.08,0.08,0.08,0,0,0,0
+North Dakota,Wells County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+North Dakota,Williams County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Adams County,2,2,1,4,6,0.33,0.33,0.17,0.67,0,0,0,1
+Ohio,Allen County,13,2,2,7,33,0.39,0.06,0.06,0.21,0,0,0,0
+Ohio,Ashland County,1,1,1,1,11,0.09,0.09,0.09,0.09,0,0,0,0
+Ohio,Ashtabula County,9,7,7,10,25,0.36,0.28,0.28,0.4,0,0,0,0
+Ohio,Athens County,6,5,4,7,15,0.4,0.33,0.27,0.47,0,0,0,0
+Ohio,Auglaize County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Belmont County,6,3,3,4,20,0.3,0.15,0.15,0.2,0,0,0,0
+Ohio,Brown County,1,1,1,2,9,0.11,0.11,0.11,0.22,0,0,0,0
+Ohio,Butler County,32,19,19,16,80,0.4,0.24,0.24,0.2,0,0,0,0
+Ohio,Carroll County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Champaign County,1,0,0,1,10,0.1,0.0,0.0,0.1,0,0,0,0
+Ohio,Clark County,22,10,10,9,44,0.5,0.23,0.23,0.2,1,0,0,0
+Ohio,Clermont County,6,5,5,4,40,0.15,0.12,0.12,0.1,0,0,0,0
+Ohio,Clinton County,2,2,2,2,9,0.22,0.22,0.22,0.22,0,0,0,0
+Ohio,Columbiana County,5,3,3,3,24,0.21,0.12,0.12,0.12,0,0,0,0
+Ohio,Coshocton County,3,2,1,4,10,0.3,0.2,0.1,0.4,0,0,0,0
+Ohio,Crawford County,6,3,3,4,13,0.46,0.23,0.23,0.31,0,0,0,0
+Ohio,Cuyahoga County,162,25,25,92,444,0.36,0.06,0.06,0.21,0,0,0,0
+Ohio,Darke County,2,1,1,2,12,0.17,0.08,0.08,0.17,0,0,0,0
+Ohio,Defiance County,1,1,1,1,9,0.11,0.11,0.11,0.11,0,0,0,0
+Ohio,Delaware County,1,1,1,1,35,0.03,0.03,0.03,0.03,0,0,0,0
+Ohio,Erie County,7,3,3,6,18,0.39,0.17,0.17,0.33,0,0,0,0
+Ohio,Fairfield County,9,6,6,7,28,0.32,0.21,0.21,0.25,0,0,0,0
+Ohio,Fayette County,3,1,1,1,7,0.43,0.14,0.14,0.14,0,0,0,0
+Ohio,Franklin County,127,42,42,56,284,0.45,0.15,0.15,0.2,0,0,0,0
+Ohio,Fulton County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Gallia County,3,3,1,2,7,0.43,0.43,0.14,0.29,0,0,0,0
+Ohio,Geauga County,1,1,1,2,21,0.05,0.05,0.05,0.1,0,0,0,0
+Ohio,Greene County,6,4,4,4,35,0.17,0.11,0.11,0.11,0,0,0,0
+Ohio,Guernsey County,5,3,3,5,10,0.5,0.3,0.3,0.5,1,0,0,1
+Ohio,Hamilton County,89,39,39,59,222,0.4,0.18,0.18,0.27,0,0,0,0
+Ohio,Hancock County,3,2,2,3,13,0.23,0.15,0.15,0.23,0,0,0,0
+Ohio,Hardin County,2,0,0,1,7,0.29,0.0,0.0,0.14,0,0,0,0
+Ohio,Harrison County,1,1,0,2,5,0.2,0.2,0.0,0.4,0,0,0,0
+Ohio,Henry County,0,0,0,1,7,0.0,0.0,0.0,0.14,0,0,0,0
+Ohio,Highland County,2,1,0,3,9,0.22,0.11,0.0,0.33,0,0,0,0
+Ohio,Hocking County,1,1,1,3,7,0.14,0.14,0.14,0.43,0,0,0,0
+Ohio,Holmes County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Huron County,3,2,2,1,13,0.23,0.15,0.15,0.08,0,0,0,0
+Ohio,Jackson County,1,1,1,2,7,0.14,0.14,0.14,0.29,0,0,0,0
+Ohio,Jefferson County,9,6,5,7,23,0.39,0.26,0.22,0.3,0,0,0,0
+Ohio,Knox County,3,3,3,4,12,0.25,0.25,0.25,0.33,0,0,0,0
+Ohio,Lake County,5,2,2,1,58,0.09,0.03,0.03,0.02,0,0,0,0
+Ohio,Lawrence County,5,1,0,1,16,0.31,0.06,0.0,0.06,0,0,0,0
+Ohio,Licking County,8,6,6,4,32,0.25,0.19,0.19,0.12,0,0,0,0
+Ohio,Logan County,2,2,2,1,11,0.18,0.18,0.18,0.09,0,0,0,0
+Ohio,Lorain County,28,13,13,14,73,0.38,0.18,0.18,0.19,0,0,0,0
+Ohio,Lucas County,61,20,20,36,127,0.48,0.16,0.16,0.28,0,0,0,0
+Ohio,Madison County,1,1,1,1,12,0.08,0.08,0.08,0.08,0,0,0,0
+Ohio,Mahoning County,38,24,24,14,70,0.54,0.34,0.34,0.2,1,0,0,0
+Ohio,Marion County,11,7,6,7,18,0.61,0.39,0.33,0.39,1,0,0,0
+Ohio,Medina County,1,1,1,1,37,0.03,0.03,0.03,0.03,0,0,0,0
+Ohio,Meigs County,4,4,2,3,6,0.67,0.67,0.33,0.5,1,1,0,1
+Ohio,Mercer County,1,1,1,0,9,0.11,0.11,0.11,0.0,0,0,0,0
+Ohio,Miami County,4,1,1,0,21,0.19,0.05,0.05,0.0,0,0,0,0
+Ohio,Monroe County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Ohio,Montgomery County,62,35,35,41,152,0.41,0.23,0.23,0.27,0,0,0,0
+Ohio,Morgan County,2,2,1,2,4,0.5,0.5,0.25,0.5,1,1,0,1
+Ohio,Morrow County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Muskingum County,7,6,6,5,19,0.37,0.32,0.32,0.26,0,0,0,0
+Ohio,Noble County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Ohio,Ottawa County,1,1,1,0,13,0.08,0.08,0.08,0.0,0,0,0,0
+Ohio,Paulding County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Perry County,1,1,1,3,6,0.17,0.17,0.17,0.5,0,0,0,1
+Ohio,Pickaway County,3,1,1,1,13,0.23,0.08,0.08,0.08,0,0,0,0
+Ohio,Pike County,0,0,0,3,6,0.0,0.0,0.0,0.5,0,0,0,1
+Ohio,Portage County,11,6,6,8,35,0.31,0.17,0.17,0.23,0,0,0,0
+Ohio,Preble County,0,0,0,0,12,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Putnam County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Richland County,13,10,10,7,30,0.43,0.33,0.33,0.23,0,0,0,0
+Ohio,Ross County,4,1,1,2,17,0.24,0.06,0.06,0.12,0,0,0,0
+Ohio,Sandusky County,4,1,1,3,15,0.27,0.07,0.07,0.2,0,0,0,0
+Ohio,Scioto County,6,2,2,6,20,0.3,0.1,0.1,0.3,0,0,0,0
+Ohio,Seneca County,5,3,3,3,14,0.36,0.21,0.21,0.21,0,0,0,0
+Ohio,Shelby County,1,1,1,1,10,0.1,0.1,0.1,0.1,0,0,0,0
+Ohio,Stark County,26,9,9,16,86,0.3,0.1,0.1,0.19,0,0,0,0
+Ohio,Summit County,51,19,19,31,135,0.38,0.14,0.14,0.23,0,0,0,0
+Ohio,Trumbull County,24,14,14,8,55,0.44,0.25,0.25,0.15,0,0,0,0
+Ohio,Tuscarawas County,3,1,1,3,21,0.14,0.05,0.05,0.14,0,0,0,0
+Ohio,Union County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Ohio,Van Wert County,3,1,1,1,9,0.33,0.11,0.11,0.11,0,0,0,0
+Ohio,Vinton County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Ohio,Warren County,5,2,2,2,33,0.15,0.06,0.06,0.06,0,0,0,0
+Ohio,Washington County,4,2,2,3,16,0.25,0.12,0.12,0.19,0,0,0,0
+Ohio,Wayne County,4,2,2,3,32,0.12,0.06,0.06,0.09,0,0,0,0
+Ohio,Williams County,1,1,1,1,9,0.11,0.11,0.11,0.11,0,0,0,0
+Ohio,Wood County,5,3,3,3,28,0.18,0.11,0.11,0.11,0,0,0,0
+Ohio,Wyandot County,1,0,0,0,6,0.17,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Adair County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Oklahoma,Alfalfa County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Atoka County,3,3,0,1,4,0.75,0.75,0.0,0.25,1,1,0,0
+Oklahoma,Beaver County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Beckham County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Blaine County,2,2,0,0,5,0.4,0.4,0.0,0.0,0,0,0,0
+Oklahoma,Bryan County,4,2,1,0,11,0.36,0.18,0.09,0.0,0,0,0,0
+Oklahoma,Caddo County,1,1,1,1,8,0.12,0.12,0.12,0.12,0,0,0,0
+Oklahoma,Canadian County,5,3,3,1,29,0.17,0.1,0.1,0.03,0,0,0,0
+Oklahoma,Carter County,3,1,1,1,11,0.27,0.09,0.09,0.09,0,0,0,0
+Oklahoma,Cherokee County,2,2,2,2,9,0.22,0.22,0.22,0.22,0,0,0,0
+Oklahoma,Choctaw County,3,3,2,2,5,0.6,0.6,0.4,0.4,1,1,0,0
+Oklahoma,Cimarron County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Cleveland County,15,5,5,2,62,0.24,0.08,0.08,0.03,0,0,0,0
+Oklahoma,Coal County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+Oklahoma,Comanche County,13,4,4,7,32,0.41,0.12,0.12,0.22,0,0,0,0
+Oklahoma,Cotton County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Craig County,3,2,1,1,5,0.6,0.4,0.2,0.2,1,0,0,0
+Oklahoma,Creek County,3,2,2,0,21,0.14,0.1,0.1,0.0,0,0,0,0
+Oklahoma,Custer County,3,3,2,1,5,0.6,0.6,0.4,0.2,1,1,0,0
+Oklahoma,Delaware County,1,1,0,0,9,0.11,0.11,0.0,0.0,0,0,0,0
+Oklahoma,Dewey County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Oklahoma,Ellis County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Oklahoma,Garfield County,2,0,0,2,12,0.17,0.0,0.0,0.17,0,0,0,0
+Oklahoma,Garvin County,1,0,0,1,9,0.11,0.0,0.0,0.11,0,0,0,0
+Oklahoma,Grady County,3,1,1,0,10,0.3,0.1,0.1,0.0,0,0,0,0
+Oklahoma,Grant County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Greer County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Oklahoma,Harmon County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Harper County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Haskell County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Oklahoma,Hughes County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Oklahoma,Jackson County,3,1,1,2,8,0.38,0.12,0.12,0.25,0,0,0,0
+Oklahoma,Jefferson County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Oklahoma,Johnston County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Kay County,4,3,3,2,11,0.36,0.27,0.27,0.18,0,0,0,0
+Oklahoma,Kingfisher County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Kiowa County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Latimer County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Oklahoma,Le Flore County,5,5,3,0,12,0.42,0.42,0.25,0.0,0,0,0,0
+Oklahoma,Lincoln County,1,1,0,0,7,0.14,0.14,0.0,0.0,0,0,0,0
+Oklahoma,Logan County,2,2,1,0,8,0.25,0.25,0.12,0.0,0,0,0,0
+Oklahoma,Love County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Major County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Marshall County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Oklahoma,Mayes County,1,1,1,2,9,0.11,0.11,0.11,0.22,0,0,0,0
+Oklahoma,McClain County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,McCurtain County,5,5,3,4,8,0.62,0.62,0.38,0.5,1,1,0,1
+Oklahoma,McIntosh County,3,3,1,1,6,0.5,0.5,0.17,0.17,1,1,0,0
+Oklahoma,Murray County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Muskogee County,9,6,5,5,16,0.56,0.38,0.31,0.31,1,0,0,0
+Oklahoma,Noble County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Nowata County,2,2,1,1,4,0.5,0.5,0.25,0.25,1,1,0,0
+Oklahoma,Okfuskee County,2,1,0,0,4,0.5,0.25,0.0,0.0,1,0,0,0
+Oklahoma,Oklahoma County,109,30,30,31,241,0.45,0.12,0.12,0.13,0,0,0,0
+Oklahoma,Okmulgee County,4,4,4,4,10,0.4,0.4,0.4,0.4,0,0,0,0
+Oklahoma,Osage County,4,4,3,2,11,0.36,0.36,0.27,0.18,0,0,0,0
+Oklahoma,Ottawa County,6,3,2,0,9,0.67,0.33,0.22,0.0,1,0,0,0
+Oklahoma,Pawnee County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Payne County,6,4,4,2,17,0.35,0.24,0.24,0.12,0,0,0,0
+Oklahoma,Pittsburg County,4,3,2,2,13,0.31,0.23,0.15,0.15,0,0,0,0
+Oklahoma,Pontotoc County,2,0,0,0,10,0.2,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Pottawatomie County,6,5,4,2,16,0.38,0.31,0.25,0.12,0,0,0,0
+Oklahoma,Pushmataha County,1,1,0,2,3,0.33,0.33,0.0,0.67,0,0,0,1
+Oklahoma,Roger Mills County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Rogers County,3,0,0,0,28,0.11,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Seminole County,4,4,2,2,9,0.44,0.44,0.22,0.22,0,0,0,0
+Oklahoma,Sequoyah County,5,5,4,4,9,0.56,0.56,0.44,0.44,1,1,0,0
+Oklahoma,Stephens County,2,2,2,2,11,0.18,0.18,0.18,0.18,0,0,0,0
+Oklahoma,Texas County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+Oklahoma,Tillman County,4,2,0,0,5,0.8,0.4,0.0,0.0,1,0,0,0
+Oklahoma,Tulsa County,64,31,31,31,175,0.37,0.18,0.18,0.18,0,0,0,0
+Oklahoma,Wagoner County,2,2,2,1,22,0.09,0.09,0.09,0.05,0,0,0,0
+Oklahoma,Washington County,4,2,2,1,13,0.31,0.15,0.15,0.08,0,0,0,0
+Oklahoma,Washita County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Woods County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Oklahoma,Woodward County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Oregon,Baker County,3,2,1,2,6,0.5,0.33,0.17,0.33,1,0,0,0
+Oregon,Benton County,6,3,3,1,18,0.33,0.17,0.17,0.06,0,0,0,0
+Oregon,Clackamas County,12,7,6,3,80,0.15,0.09,0.08,0.04,0,0,0,0
+Oregon,Clatsop County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+Oregon,Columbia County,2,0,0,2,10,0.2,0.0,0.0,0.2,0,0,0,0
+Oregon,Coos County,4,3,2,3,13,0.31,0.23,0.15,0.23,0,0,0,0
+Oregon,Crook County,2,2,1,0,4,0.5,0.5,0.25,0.0,1,1,0,0
+Oregon,Curry County,2,2,1,1,5,0.4,0.4,0.2,0.2,0,0,0,0
+Oregon,Deschutes County,4,1,1,2,24,0.17,0.04,0.04,0.08,0,0,0,0
+Oregon,Douglas County,8,8,7,6,22,0.36,0.36,0.32,0.27,0,0,0,0
+Oregon,Gilliam County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Oregon,Grant County,2,2,1,1,2,1.0,1.0,0.5,0.5,1,1,1,1
+Oregon,Harney County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Oregon,Hood River County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Oregon,Jackson County,16,8,8,6,41,0.39,0.2,0.2,0.15,0,0,0,0
+Oregon,Jefferson County,2,1,1,0,6,0.33,0.17,0.17,0.0,0,0,0,0
+Oregon,Josephine County,9,6,3,5,16,0.56,0.38,0.19,0.31,1,0,0,0
+Oregon,Klamath County,11,6,5,5,20,0.55,0.3,0.25,0.25,1,0,0,0
+Oregon,Lake County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Oregon,Lane County,29,13,11,10,86,0.34,0.15,0.13,0.12,0,0,0,0
+Oregon,Lincoln County,6,2,1,1,17,0.35,0.12,0.06,0.06,0,0,0,0
+Oregon,Linn County,9,5,5,3,21,0.43,0.24,0.24,0.14,0,0,0,0
+Oregon,Malheur County,2,1,1,1,7,0.29,0.14,0.14,0.14,0,0,0,0
+Oregon,Marion County,19,7,7,7,58,0.33,0.12,0.12,0.12,0,0,0,0
+Oregon,Morrow County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Oregon,Multnomah County,43,6,6,15,171,0.25,0.04,0.04,0.09,0,0,0,0
+Oregon,Polk County,3,2,2,1,12,0.25,0.17,0.17,0.08,0,0,0,0
+Oregon,Sherman County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Oregon,Tillamook County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Oregon,Umatilla County,2,2,2,2,15,0.13,0.13,0.13,0.13,0,0,0,0
+Oregon,Union County,3,2,1,0,8,0.38,0.25,0.12,0.0,0,0,0,0
+Oregon,Wallowa County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Oregon,Wasco County,3,1,1,0,8,0.38,0.12,0.12,0.0,0,0,0,0
+Oregon,Washington County,19,1,1,6,104,0.18,0.01,0.01,0.06,0,0,0,0
+Oregon,Wheeler County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Oregon,Yamhill County,5,2,2,1,17,0.29,0.12,0.12,0.06,0,0,0,0
+Pennsylvania,Adams County,2,0,0,0,23,0.09,0.0,0.0,0.0,0,0,0,0
+Pennsylvania,Allegheny County,117,38,38,82,400,0.29,0.1,0.1,0.2,0,0,0,0
+Pennsylvania,Armstrong County,4,2,2,2,19,0.21,0.11,0.11,0.11,0,0,0,0
+Pennsylvania,Beaver County,18,13,13,12,51,0.35,0.25,0.25,0.24,0,0,0,0
+Pennsylvania,Bedford County,3,3,1,3,11,0.27,0.27,0.09,0.27,0,0,0,0
+Pennsylvania,Berks County,9,3,3,4,90,0.1,0.03,0.03,0.04,0,0,0,0
+Pennsylvania,Blair County,8,2,2,4,34,0.24,0.06,0.06,0.12,0,0,0,0
+Pennsylvania,Bradford County,1,0,0,1,14,0.07,0.0,0.0,0.07,0,0,0,0
+Pennsylvania,Bucks County,14,8,8,7,142,0.1,0.06,0.06,0.05,0,0,0,0
+Pennsylvania,Butler County,5,1,1,4,44,0.11,0.02,0.02,0.09,0,0,0,0
+Pennsylvania,Cambria County,16,6,6,8,42,0.38,0.14,0.14,0.19,0,0,0,0
+Pennsylvania,Cameron County,1,0,0,0,2,0.5,0.0,0.0,0.0,1,0,0,0
+Pennsylvania,Carbon County,2,1,1,2,12,0.17,0.08,0.08,0.17,0,0,0,0
+Pennsylvania,Centre County,9,3,3,7,31,0.29,0.1,0.1,0.23,0,0,0,0
+Pennsylvania,Chester County,13,7,7,5,116,0.11,0.06,0.06,0.04,0,0,0,0
+Pennsylvania,Clarion County,3,3,2,5,10,0.3,0.3,0.2,0.5,0,0,0,1
+Pennsylvania,Clearfield County,8,5,2,5,20,0.4,0.25,0.1,0.25,0,0,0,0
+Pennsylvania,Clinton County,1,1,1,3,9,0.11,0.11,0.11,0.33,0,0,0,0
+Pennsylvania,Columbia County,6,1,1,1,15,0.4,0.07,0.07,0.07,0,0,0,0
+Pennsylvania,Crawford County,5,2,1,5,23,0.22,0.09,0.04,0.22,0,0,0,0
+Pennsylvania,Cumberland County,8,3,3,6,49,0.16,0.06,0.06,0.12,0,0,0,0
+Pennsylvania,Dauphin County,16,6,6,12,65,0.25,0.09,0.09,0.18,0,0,0,0
+Pennsylvania,Delaware County,36,5,5,18,143,0.25,0.03,0.03,0.13,0,0,0,0
+Pennsylvania,Elk County,1,0,0,1,9,0.11,0.0,0.0,0.11,0,0,0,0
+Pennsylvania,Erie County,34,24,24,25,71,0.48,0.34,0.34,0.35,0,0,0,0
+Pennsylvania,Fayette County,14,7,7,13,36,0.39,0.19,0.19,0.36,0,0,0,0
+Pennsylvania,Forest County,2,2,0,0,3,0.67,0.67,0.0,0.0,1,1,0,0
+Pennsylvania,Franklin County,4,1,1,3,27,0.15,0.04,0.04,0.11,0,0,0,0
+Pennsylvania,Fulton County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+Pennsylvania,Greene County,1,1,1,2,9,0.11,0.11,0.11,0.22,0,0,0,0
+Pennsylvania,Huntingdon County,1,0,0,1,12,0.08,0.0,0.0,0.08,0,0,0,0
+Pennsylvania,Indiana County,2,0,0,4,23,0.09,0.0,0.0,0.17,0,0,0,0
+Pennsylvania,Jefferson County,4,0,0,2,13,0.31,0.0,0.0,0.15,0,0,0,0
+Pennsylvania,Juniata County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Pennsylvania,Lackawanna County,15,2,2,6,59,0.25,0.03,0.03,0.1,0,0,0,0
+Pennsylvania,Lancaster County,14,6,6,10,98,0.14,0.06,0.06,0.1,0,0,0,0
+Pennsylvania,Lawrence County,13,6,6,7,28,0.46,0.21,0.21,0.25,0,0,0,0
+Pennsylvania,Lebanon County,7,2,2,2,31,0.23,0.06,0.06,0.06,0,0,0,0
+Pennsylvania,Lehigh County,14,3,3,7,76,0.18,0.04,0.04,0.09,0,0,0,0
+Pennsylvania,Luzerne County,33,4,4,13,104,0.32,0.04,0.04,0.12,0,0,0,0
+Pennsylvania,Lycoming County,10,5,5,5,29,0.34,0.17,0.17,0.17,0,0,0,0
+Pennsylvania,McKean County,3,0,0,3,12,0.25,0.0,0.0,0.25,0,0,0,0
+Pennsylvania,Mercer County,12,6,6,9,30,0.4,0.2,0.2,0.3,0,0,0,0
+Pennsylvania,Mifflin County,3,1,1,5,12,0.25,0.08,0.08,0.42,0,0,0,0
+Pennsylvania,Monroe County,2,0,0,1,33,0.06,0.0,0.0,0.03,0,0,0,0
+Pennsylvania,Montgomery County,17,4,4,8,211,0.08,0.02,0.02,0.04,0,0,0,0
+Pennsylvania,Montour County,1,0,0,0,4,0.25,0.0,0.0,0.0,0,0,0,0
+Pennsylvania,Northampton County,14,4,4,9,68,0.21,0.06,0.06,0.13,0,0,0,0
+Pennsylvania,Northumberland County,3,1,1,4,24,0.12,0.04,0.04,0.17,0,0,0,0
+Pennsylvania,Perry County,1,1,0,1,10,0.1,0.1,0.0,0.1,0,0,0,0
+Pennsylvania,Philadelphia County,112,5,5,92,381,0.29,0.01,0.01,0.24,0,0,0,0
+Pennsylvania,Pike County,1,0,0,0,18,0.06,0.0,0.0,0.0,0,0,0,0
+Pennsylvania,Potter County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Pennsylvania,Schuylkill County,9,2,2,5,40,0.22,0.05,0.05,0.12,0,0,0,0
+Pennsylvania,Snyder County,2,1,0,1,8,0.25,0.12,0.0,0.12,0,0,0,0
+Pennsylvania,Somerset County,4,3,3,5,21,0.19,0.14,0.14,0.24,0,0,0,0
+Pennsylvania,Sullivan County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Pennsylvania,Susquehanna County,3,3,3,1,11,0.27,0.27,0.27,0.09,0,0,0,0
+Pennsylvania,Tioga County,2,2,1,2,10,0.2,0.2,0.1,0.2,0,0,0,0
+Pennsylvania,Union County,1,0,0,0,10,0.1,0.0,0.0,0.0,0,0,0,0
+Pennsylvania,Venango County,5,2,2,1,16,0.31,0.12,0.12,0.06,0,0,0,0
+Pennsylvania,Warren County,4,2,1,3,13,0.31,0.15,0.08,0.23,0,0,0,0
+Pennsylvania,Washington County,14,11,11,9,59,0.24,0.19,0.19,0.15,0,0,0,0
+Pennsylvania,Wayne County,1,1,1,1,14,0.07,0.07,0.07,0.07,0,0,0,0
+Pennsylvania,Westmoreland County,22,10,10,15,100,0.22,0.1,0.1,0.15,0,0,0,0
+Pennsylvania,Wyoming County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Pennsylvania,York County,15,2,2,7,90,0.17,0.02,0.02,0.08,0,0,0,0
+Rhode Island,Bristol County,2,2,2,2,11,0.18,0.18,0.18,0.18,0,0,0,0
+Rhode Island,Kent County,5,2,2,3,39,0.13,0.05,0.05,0.08,0,0,0,0
+Rhode Island,Newport County,3,0,0,1,22,0.14,0.0,0.0,0.05,0,0,0,0
+Rhode Island,Providence County,50,5,5,33,141,0.35,0.04,0.04,0.23,0,0,0,0
+Rhode Island,Washington County,4,4,4,1,28,0.14,0.14,0.14,0.04,0,0,0,0
+South Carolina,Abbeville County,2,2,1,4,6,0.33,0.33,0.17,0.67,0,0,0,1
+South Carolina,Aiken County,7,5,4,13,32,0.22,0.16,0.12,0.41,0,0,0,0
+South Carolina,Allendale County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+South Carolina,Anderson County,10,9,9,10,39,0.26,0.23,0.23,0.26,0,0,0,0
+South Carolina,Bamberg County,1,1,1,2,4,0.25,0.25,0.25,0.5,0,0,0,1
+South Carolina,Barnwell County,0,0,0,3,5,0.0,0.0,0.0,0.6,0,0,0,1
+South Carolina,Beaufort County,10,8,7,5,40,0.25,0.2,0.18,0.12,0,0,0,0
+South Carolina,Berkeley County,18,12,7,5,44,0.41,0.27,0.16,0.11,0,0,0,0
+South Carolina,Calhoun County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+South Carolina,Charleston County,25,13,13,16,85,0.29,0.15,0.15,0.19,0,0,0,0
+South Carolina,Cherokee County,4,4,4,6,13,0.31,0.31,0.31,0.46,0,0,0,0
+South Carolina,Chester County,4,3,2,3,11,0.36,0.27,0.18,0.27,0,0,0,0
+South Carolina,Chesterfield County,2,2,0,6,10,0.2,0.2,0.0,0.6,0,0,0,1
+South Carolina,Clarendon County,1,1,0,4,11,0.09,0.09,0.0,0.36,0,0,0,0
+South Carolina,Colleton County,5,4,1,1,9,0.56,0.44,0.11,0.11,1,0,0,0
+South Carolina,Darlington County,5,5,4,8,16,0.31,0.31,0.25,0.5,0,0,0,1
+South Carolina,Dillon County,1,1,1,5,6,0.17,0.17,0.17,0.83,0,0,0,1
+South Carolina,Dorchester County,3,2,1,2,25,0.12,0.08,0.04,0.08,0,0,0,0
+South Carolina,Edgefield County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+South Carolina,Fairfield County,3,3,1,3,5,0.6,0.6,0.2,0.6,1,1,0,1
+South Carolina,Florence County,8,5,5,14,33,0.24,0.15,0.15,0.42,0,0,0,0
+South Carolina,Georgetown County,4,4,1,3,14,0.29,0.29,0.07,0.21,0,0,0,0
+South Carolina,Greenville County,32,18,18,18,111,0.29,0.16,0.16,0.16,0,0,0,0
+South Carolina,Greenwood County,2,1,1,5,14,0.14,0.07,0.07,0.36,0,0,0,0
+South Carolina,Hampton County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+South Carolina,Horry County,13,8,8,7,71,0.18,0.11,0.11,0.1,0,0,0,0
+South Carolina,Jasper County,1,1,0,2,4,0.25,0.25,0.0,0.5,0,0,0,1
+South Carolina,Kershaw County,6,6,3,1,15,0.4,0.4,0.2,0.07,0,0,0,0
+South Carolina,Lancaster County,3,2,2,4,14,0.21,0.14,0.14,0.29,0,0,0,0
+South Carolina,Laurens County,3,3,3,7,17,0.18,0.18,0.18,0.41,0,0,0,0
+South Carolina,Lee County,1,1,0,3,6,0.17,0.17,0.0,0.5,0,0,0,1
+South Carolina,Lexington County,11,6,6,8,73,0.15,0.08,0.08,0.11,0,0,0,0
+South Carolina,Marion County,0,0,0,5,8,0.0,0.0,0.0,0.62,0,0,0,1
+South Carolina,Marlboro County,2,2,2,4,7,0.29,0.29,0.29,0.57,0,0,0,1
+South Carolina,McCormick County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+South Carolina,Newberry County,2,2,2,2,8,0.25,0.25,0.25,0.25,0,0,0,0
+South Carolina,Oconee County,3,3,3,4,15,0.2,0.2,0.2,0.27,0,0,0,0
+South Carolina,Orangeburg County,8,8,6,13,20,0.4,0.4,0.3,0.65,0,0,0,1
+South Carolina,Pickens County,9,8,8,5,28,0.32,0.29,0.29,0.18,0,0,0,0
+South Carolina,Richland County,41,26,26,25,89,0.46,0.29,0.29,0.28,0,0,0,0
+South Carolina,Saluda County,0,0,0,2,5,0.0,0.0,0.0,0.4,0,0,0,0
+South Carolina,Spartanburg County,27,20,19,14,69,0.39,0.29,0.28,0.2,0,0,0,0
+South Carolina,Sumter County,9,4,3,10,23,0.39,0.17,0.13,0.43,0,0,0,0
+South Carolina,Union County,3,2,2,3,9,0.33,0.22,0.22,0.33,0,0,0,0
+South Carolina,Williamsburg County,2,2,0,6,11,0.18,0.18,0.0,0.55,0,0,0,1
+South Carolina,York County,14,10,10,8,46,0.3,0.22,0.22,0.17,0,0,0,0
+South Dakota,Aurora County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Beadle County,3,0,0,0,6,0.5,0.0,0.0,0.0,1,0,0,0
+South Dakota,Bennett County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+South Dakota,Bon Homme County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Brookings County,2,2,2,1,6,0.33,0.33,0.33,0.17,0,0,0,0
+South Dakota,Brown County,1,0,0,1,8,0.12,0.0,0.0,0.12,0,0,0,0
+South Dakota,Brule County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+South Dakota,Buffalo County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Butte County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+South Dakota,Campbell County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Charles Mix County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Clark County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Clay County,2,1,1,1,3,0.67,0.33,0.33,0.33,1,0,0,0
+South Dakota,Codington County,2,0,0,0,7,0.29,0.0,0.0,0.0,0,0,0,0
+South Dakota,Corson County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+South Dakota,Custer County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Davison County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+South Dakota,Day County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+South Dakota,Deuel County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Dewey County,2,1,1,1,2,1.0,0.5,0.5,0.5,1,1,1,1
+South Dakota,Douglas County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Edmunds County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Fall River County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+South Dakota,Faulk County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Grant County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Gregory County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Haakon County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+South Dakota,Hamlin County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Hand County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Hanson County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Harding County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Hughes County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Hutchinson County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Hyde County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Jackson County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+South Dakota,Jerauld County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Jones County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+South Dakota,Kingsbury County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Lake County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Lawrence County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Lincoln County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Lyman County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Marshall County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,McCook County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,McPherson County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Meade County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+South Dakota,Mellette County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+South Dakota,Miner County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Minnehaha County,15,6,6,5,42,0.36,0.14,0.14,0.12,0,0,0,0
+South Dakota,Moody County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Oglala Lakota County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Pennington County,7,4,4,3,23,0.3,0.17,0.17,0.13,0,0,0,0
+South Dakota,Perkins County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Potter County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Roberts County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+South Dakota,Sanborn County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Spink County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Stanley County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Sully County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Todd County,2,2,0,2,2,1.0,1.0,0.0,1.0,1,1,0,1
+South Dakota,Tripp County,1,0,0,0,2,0.5,0.0,0.0,0.0,1,0,0,0
+South Dakota,Turner County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Union County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Walworth County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+South Dakota,Yankton County,2,2,2,1,5,0.4,0.4,0.4,0.2,0,0,0,0
+South Dakota,Ziebach County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Tennessee,Anderson County,4,1,1,2,17,0.24,0.06,0.06,0.12,0,0,0,0
+Tennessee,Bedford County,2,2,2,2,9,0.22,0.22,0.22,0.22,0,0,0,0
+Tennessee,Benton County,2,2,1,1,5,0.4,0.4,0.2,0.2,0,0,0,0
+Tennessee,Bledsoe County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Tennessee,Blount County,3,0,0,0,28,0.11,0.0,0.0,0.0,0,0,0,0
+Tennessee,Bradley County,7,6,6,3,19,0.37,0.32,0.32,0.16,0,0,0,0
+Tennessee,Campbell County,4,3,0,4,11,0.36,0.27,0.0,0.36,0,0,0,0
+Tennessee,Cannon County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Tennessee,Carroll County,0,0,0,3,7,0.0,0.0,0.0,0.43,0,0,0,0
+Tennessee,Carter County,10,10,9,2,17,0.59,0.59,0.53,0.12,1,1,1,0
+Tennessee,Cheatham County,1,0,0,0,9,0.11,0.0,0.0,0.0,0,0,0,0
+Tennessee,Chester County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Tennessee,Claiborne County,2,2,0,1,9,0.22,0.22,0.0,0.11,0,0,0,0
+Tennessee,Clay County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Cocke County,4,4,1,2,9,0.44,0.44,0.11,0.22,0,0,0,0
+Tennessee,Coffee County,2,2,2,1,12,0.17,0.17,0.17,0.08,0,0,0,0
+Tennessee,Crockett County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+Tennessee,Cumberland County,4,4,2,2,14,0.29,0.29,0.14,0.14,0,0,0,0
+Tennessee,Davidson County,71,29,29,26,159,0.45,0.18,0.18,0.16,0,0,0,0
+Tennessee,DeKalb County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Tennessee,Decatur County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Tennessee,Dickson County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Dyer County,2,2,2,1,8,0.25,0.25,0.25,0.12,0,0,0,0
+Tennessee,Fayette County,0,0,0,2,11,0.0,0.0,0.0,0.18,0,0,0,0
+Tennessee,Fentress County,0,0,0,3,4,0.0,0.0,0.0,0.75,0,0,0,1
+Tennessee,Franklin County,1,1,1,2,9,0.11,0.11,0.11,0.22,0,0,0,0
+Tennessee,Gibson County,4,4,4,3,14,0.29,0.29,0.29,0.21,0,0,0,0
+Tennessee,Giles County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Grainger County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Tennessee,Greene County,4,4,2,2,15,0.27,0.27,0.13,0.13,0,0,0,0
+Tennessee,Grundy County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+Tennessee,Hamblen County,7,6,6,3,12,0.58,0.5,0.5,0.25,1,1,1,0
+Tennessee,Hamilton County,28,17,17,15,82,0.34,0.21,0.21,0.18,0,0,0,0
+Tennessee,Hancock County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Tennessee,Hardeman County,1,1,0,2,6,0.17,0.17,0.0,0.33,0,0,0,0
+Tennessee,Hardin County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Tennessee,Hawkins County,2,2,2,3,13,0.15,0.15,0.15,0.23,0,0,0,0
+Tennessee,Haywood County,3,2,2,2,6,0.5,0.33,0.33,0.33,1,0,0,0
+Tennessee,Henderson County,0,0,0,2,6,0.0,0.0,0.0,0.33,0,0,0,0
+Tennessee,Henry County,4,4,2,2,9,0.44,0.44,0.22,0.22,0,0,0,0
+Tennessee,Hickman County,1,1,0,1,6,0.17,0.17,0.0,0.17,0,0,0,0
+Tennessee,Houston County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Humphreys County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Tennessee,Jackson County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Jefferson County,1,1,1,1,9,0.11,0.11,0.11,0.11,0,0,0,0
+Tennessee,Johnson County,1,1,0,2,5,0.2,0.2,0.0,0.4,0,0,0,0
+Tennessee,Knox County,30,18,18,21,112,0.27,0.16,0.16,0.19,0,0,0,0
+Tennessee,Lake County,0,0,0,2,2,0.0,0.0,0.0,1.0,0,0,0,1
+Tennessee,Lauderdale County,2,1,1,4,9,0.22,0.11,0.11,0.44,0,0,0,0
+Tennessee,Lawrence County,1,1,0,2,11,0.09,0.09,0.0,0.18,0,0,0,0
+Tennessee,Lewis County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Tennessee,Lincoln County,1,1,0,1,9,0.11,0.11,0.0,0.11,0,0,0,0
+Tennessee,Loudon County,1,1,1,1,10,0.1,0.1,0.1,0.1,0,0,0,0
+Tennessee,Macon County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Tennessee,Madison County,13,8,8,7,27,0.48,0.3,0.3,0.26,0,0,0,0
+Tennessee,Marion County,1,1,1,2,6,0.17,0.17,0.17,0.33,0,0,0,0
+Tennessee,Marshall County,2,2,2,2,6,0.33,0.33,0.33,0.33,0,0,0,0
+Tennessee,Maury County,5,4,4,2,17,0.29,0.24,0.24,0.12,0,0,0,0
+Tennessee,McMinn County,2,2,2,3,10,0.2,0.2,0.2,0.3,0,0,0,0
+Tennessee,McNairy County,1,1,1,2,7,0.14,0.14,0.14,0.29,0,0,0,0
+Tennessee,Meigs County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Monroe County,1,1,1,2,7,0.14,0.14,0.14,0.29,0,0,0,0
+Tennessee,Montgomery County,14,8,8,3,39,0.36,0.21,0.21,0.08,0,0,0,0
+Tennessee,Moore County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Morgan County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Tennessee,Obion County,1,1,1,2,10,0.1,0.1,0.1,0.2,0,0,0,0
+Tennessee,Overton County,0,0,0,1,7,0.0,0.0,0.0,0.14,0,0,0,0
+Tennessee,Perry County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Tennessee,Pickett County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Polk County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Tennessee,Putnam County,5,4,4,3,15,0.33,0.27,0.27,0.2,0,0,0,0
+Tennessee,Rhea County,2,2,2,2,6,0.33,0.33,0.33,0.33,0,0,0,0
+Tennessee,Roane County,1,1,1,2,10,0.1,0.1,0.1,0.2,0,0,0,0
+Tennessee,Robertson County,2,0,0,2,14,0.14,0.0,0.0,0.14,0,0,0,0
+Tennessee,Rutherford County,11,5,5,3,49,0.22,0.1,0.1,0.06,0,0,0,0
+Tennessee,Scott County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+Tennessee,Sequatchie County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Sevier County,2,1,1,0,18,0.11,0.06,0.06,0.0,0,0,0,0
+Tennessee,Shelby County,123,51,51,68,220,0.56,0.23,0.23,0.31,1,0,0,0
+Tennessee,Smith County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+Tennessee,Stewart County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Sullivan County,12,7,7,10,39,0.31,0.18,0.18,0.26,0,0,0,0
+Tennessee,Sumner County,5,4,4,0,42,0.12,0.1,0.1,0.0,0,0,0,0
+Tennessee,Tipton County,2,1,0,0,13,0.15,0.08,0.0,0.0,0,0,0,0
+Tennessee,Trousdale County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Unicoi County,1,0,0,1,4,0.25,0.0,0.0,0.25,0,0,0,0
+Tennessee,Union County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Tennessee,Van Buren County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Warren County,2,1,1,2,9,0.22,0.11,0.11,0.22,0,0,0,0
+Tennessee,Washington County,7,5,5,4,23,0.3,0.22,0.22,0.17,0,0,0,0
+Tennessee,Wayne County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+Tennessee,Weakley County,4,3,2,2,11,0.36,0.27,0.18,0.18,0,0,0,0
+Tennessee,White County,2,2,1,0,6,0.33,0.33,0.17,0.0,0,0,0,0
+Tennessee,Williamson County,0,0,0,0,37,0.0,0.0,0.0,0.0,0,0,0,0
+Tennessee,Wilson County,5,4,4,1,21,0.24,0.19,0.19,0.05,0,0,0,0
+Texas,Anderson County,5,3,2,3,11,0.45,0.27,0.18,0.27,0,0,0,0
+Texas,Andrews County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Angelina County,5,4,3,3,17,0.29,0.24,0.18,0.18,0,0,0,0
+Texas,Aransas County,2,2,2,1,5,0.4,0.4,0.4,0.2,0,0,0,0
+Texas,Archer County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Armstrong County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Atascosa County,2,1,0,1,8,0.25,0.12,0.0,0.12,0,0,0,0
+Texas,Austin County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Bailey County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Bandera County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Texas,Bastrop County,3,3,2,3,10,0.3,0.3,0.2,0.3,0,0,0,0
+Texas,Baylor County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Bee County,4,3,2,2,7,0.57,0.43,0.29,0.29,1,0,0,0
+Texas,Bell County,31,19,19,15,63,0.49,0.3,0.3,0.24,0,0,0,0
+Texas,Bexar County,158,70,70,89,365,0.43,0.19,0.19,0.24,0,0,0,0
+Texas,Blanco County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Borden County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Bosque County,1,1,0,0,7,0.14,0.14,0.0,0.0,0,0,0,0
+Texas,Bowie County,6,2,2,4,18,0.33,0.11,0.11,0.22,0,0,0,0
+Texas,Brazoria County,8,4,4,1,50,0.16,0.08,0.08,0.02,0,0,0,0
+Texas,Brazos County,22,14,14,9,41,0.54,0.34,0.34,0.22,1,0,0,0
+Texas,Brewster County,2,1,1,1,3,0.67,0.33,0.33,0.33,1,0,0,0
+Texas,Briscoe County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Texas,Brooks County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Texas,Brown County,6,5,4,2,12,0.5,0.42,0.33,0.17,1,0,0,0
+Texas,Burleson County,1,1,1,0,5,0.2,0.2,0.2,0.0,0,0,0,0
+Texas,Burnet County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Caldwell County,4,4,4,1,8,0.5,0.5,0.5,0.12,1,1,1,0
+Texas,Calhoun County,2,2,1,0,5,0.4,0.4,0.2,0.0,0,0,0,0
+Texas,Callahan County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Cameron County,57,31,31,19,85,0.67,0.36,0.36,0.22,1,0,0,0
+Texas,Camp County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Texas,Carson County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Cass County,3,3,2,3,7,0.43,0.43,0.29,0.43,0,0,0,0
+Texas,Castro County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Texas,Chambers County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Cherokee County,4,4,2,1,12,0.33,0.33,0.17,0.08,0,0,0,0
+Texas,Childress County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Texas,Clay County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Cochran County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Texas,Coke County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Texas,Coleman County,2,2,1,0,3,0.67,0.67,0.33,0.0,1,1,0,0
+Texas,Collin County,15,4,4,6,152,0.1,0.03,0.03,0.04,0,0,0,0
+Texas,Collingsworth County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Colorado County,2,2,1,0,5,0.4,0.4,0.2,0.0,0,0,0,0
+Texas,Comal County,3,3,3,0,24,0.12,0.12,0.12,0.0,0,0,0,0
+Texas,Comanche County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Texas,Concho County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Cooke County,3,1,1,1,8,0.38,0.12,0.12,0.12,0,0,0,0
+Texas,Coryell County,7,7,6,3,19,0.37,0.37,0.32,0.16,0,0,0,0
+Texas,Cottle County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Texas,Crane County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Crockett County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Crosby County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Culberson County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Dallam County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Dallas County,250,91,91,85,528,0.47,0.17,0.17,0.16,0,0,0,0
+Texas,Dawson County,3,2,2,1,4,0.75,0.5,0.5,0.25,1,1,1,0
+Texas,DeWitt County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Texas,Deaf Smith County,1,1,1,1,4,0.25,0.25,0.25,0.25,0,0,0,0
+Texas,Delta County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Denton County,23,8,8,7,137,0.17,0.06,0.06,0.05,0,0,0,0
+Texas,Dickens County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Dimmit County,2,2,1,2,2,1.0,1.0,0.5,1.0,1,1,1,1
+Texas,Donley County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Duval County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Texas,Eastland County,3,3,1,0,5,0.6,0.6,0.2,0.0,1,1,0,0
+Texas,Ector County,9,2,2,2,28,0.32,0.07,0.07,0.07,0,0,0,0
+Texas,Edwards County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,El Paso County,94,40,40,25,161,0.58,0.25,0.25,0.16,1,0,0,0
+Texas,Ellis County,4,4,4,2,31,0.13,0.13,0.13,0.06,0,0,0,0
+Texas,Erath County,4,4,3,2,8,0.5,0.5,0.38,0.25,1,1,0,0
+Texas,Falls County,2,1,1,1,6,0.33,0.17,0.17,0.17,0,0,0,0
+Texas,Fannin County,2,2,1,0,9,0.22,0.22,0.11,0.0,0,0,0,0
+Texas,Fayette County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Fisher County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Floyd County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Texas,Foard County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Texas,Fort Bend County,17,10,10,2,76,0.22,0.13,0.13,0.03,0,0,0,0
+Texas,Franklin County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Texas,Freestone County,4,3,1,0,7,0.57,0.43,0.14,0.0,1,0,0,0
+Texas,Frio County,2,2,2,0,3,0.67,0.67,0.67,0.0,1,1,1,0
+Texas,Gaines County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Galveston County,23,11,11,10,66,0.35,0.17,0.17,0.15,0,0,0,0
+Texas,Garza County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Gillespie County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Glasscock County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Goliad County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Gonzales County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Texas,Gray County,4,2,2,1,7,0.57,0.29,0.29,0.14,1,0,0,0
+Texas,Grayson County,6,6,6,3,26,0.23,0.23,0.23,0.12,0,0,0,0
+Texas,Gregg County,11,9,9,9,25,0.44,0.36,0.36,0.36,0,0,0,0
+Texas,Grimes County,3,3,0,1,6,0.5,0.5,0.0,0.17,1,1,0,0
+Texas,Guadalupe County,3,3,3,1,29,0.1,0.1,0.1,0.03,0,0,0,0
+Texas,Hale County,2,0,0,0,9,0.22,0.0,0.0,0.0,0,0,0,0
+Texas,Hall County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Texas,Hamilton County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Texas,Hansford County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Hardeman County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Texas,Hardin County,2,2,1,1,11,0.18,0.18,0.09,0.09,0,0,0,0
+Texas,Harris County,338,120,120,93,786,0.43,0.15,0.15,0.12,0,0,0,0
+Texas,Harrison County,2,2,2,3,14,0.14,0.14,0.14,0.21,0,0,0,0
+Texas,Hartley County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Haskell County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Texas,Hays County,4,1,1,4,25,0.16,0.04,0.04,0.16,0,0,0,0
+Texas,Hemphill County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Henderson County,4,3,3,2,17,0.24,0.18,0.18,0.12,0,0,0,0
+Texas,Hidalgo County,86,61,59,37,112,0.77,0.54,0.53,0.33,1,1,1,0
+Texas,Hill County,2,0,0,0,11,0.18,0.0,0.0,0.0,0,0,0,0
+Texas,Hockley County,3,3,2,1,7,0.43,0.43,0.29,0.14,0,0,0,0
+Texas,Hood County,1,1,1,0,10,0.1,0.1,0.1,0.0,0,0,0,0
+Texas,Hopkins County,2,0,0,0,9,0.22,0.0,0.0,0.0,0,0,0,0
+Texas,Houston County,6,5,1,1,7,0.86,0.71,0.14,0.14,1,1,0,0
+Texas,Howard County,4,2,2,1,10,0.4,0.2,0.2,0.1,0,0,0,0
+Texas,Hudspeth County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Texas,Hunt County,5,4,4,4,19,0.26,0.21,0.21,0.21,0,0,0,0
+Texas,Hutchinson County,3,0,0,0,7,0.43,0.0,0.0,0.0,0,0,0,0
+Texas,Irion County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Jack County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Texas,Jackson County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Texas,Jasper County,1,0,0,0,8,0.12,0.0,0.0,0.0,0,0,0,0
+Texas,Jeff Davis County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Jefferson County,37,17,17,15,72,0.51,0.24,0.24,0.21,1,0,0,0
+Texas,Jim Hogg County,1,1,1,1,2,0.5,0.5,0.5,0.5,1,1,1,1
+Texas,Jim Wells County,4,4,4,3,7,0.57,0.57,0.57,0.43,1,1,1,0
+Texas,Johnson County,5,3,3,0,28,0.18,0.11,0.11,0.0,0,0,0,0
+Texas,Jones County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Texas,Karnes County,2,2,1,1,4,0.5,0.5,0.25,0.25,1,1,0,0
+Texas,Kaufman County,4,4,4,3,18,0.22,0.22,0.22,0.17,0,0,0,0
+Texas,Kendall County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Kenedy County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Texas,Kent County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Kerr County,1,1,1,1,10,0.1,0.1,0.1,0.1,0,0,0,0
+Texas,Kimble County,1,0,0,0,2,0.5,0.0,0.0,0.0,1,0,0,0
+Texas,King County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Kinney County,1,1,1,0,1,1.0,1.0,1.0,0.0,1,1,1,0
+Texas,Kleberg County,3,3,3,2,5,0.6,0.6,0.6,0.4,1,1,1,0
+Texas,Knox County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,La Salle County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Texas,Lamar County,9,6,4,3,12,0.75,0.5,0.33,0.25,1,1,0,0
+Texas,Lamb County,2,1,0,0,5,0.4,0.2,0.0,0.0,0,0,0,0
+Texas,Lampasas County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Texas,Lavaca County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Texas,Lee County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Texas,Leon County,2,2,0,0,3,0.67,0.67,0.0,0.0,1,1,0,0
+Texas,Liberty County,4,4,1,4,14,0.29,0.29,0.07,0.29,0,0,0,0
+Texas,Limestone County,5,4,1,1,8,0.62,0.5,0.12,0.12,1,1,0,0
+Texas,Lipscomb County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Live Oak County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Llano County,2,2,2,1,6,0.33,0.33,0.33,0.17,0,0,0,0
+Texas,Loving County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Lubbock County,29,12,12,10,67,0.43,0.18,0.18,0.15,0,0,0,0
+Texas,Lynn County,2,1,0,0,3,0.67,0.33,0.0,0.0,1,0,0,0
+Texas,Madison County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Texas,Marion County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+Texas,Martin County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Texas,Mason County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Matagorda County,4,3,2,2,10,0.4,0.3,0.2,0.2,0,0,0,0
+Texas,Maverick County,9,5,4,2,9,1.0,0.56,0.44,0.22,1,1,0,0
+Texas,McCulloch County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Texas,McLennan County,21,16,16,11,51,0.41,0.31,0.31,0.22,0,0,0,0
+Texas,McMullen County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Medina County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Menard County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Midland County,7,5,5,2,26,0.27,0.19,0.19,0.08,0,0,0,0
+Texas,Milam County,2,2,1,0,7,0.29,0.29,0.14,0.0,0,0,0,0
+Texas,Mills County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Mitchell County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Montague County,2,1,1,0,6,0.33,0.17,0.17,0.0,0,0,0,0
+Texas,Montgomery County,9,5,4,6,59,0.15,0.08,0.07,0.1,0,0,0,0
+Texas,Moore County,2,1,0,0,4,0.5,0.25,0.0,0.0,1,0,0,0
+Texas,Morris County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Texas,Motley County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Nacogdoches County,5,3,3,2,13,0.38,0.23,0.23,0.15,0,0,0,0
+Texas,Navarro County,2,2,2,1,10,0.2,0.2,0.2,0.1,0,0,0,0
+Texas,Newton County,4,4,0,0,4,1.0,1.0,0.0,0.0,1,1,0,0
+Texas,Nolan County,2,0,0,1,5,0.4,0.0,0.0,0.2,0,0,0,0
+Texas,Nueces County,34,16,15,19,81,0.42,0.2,0.19,0.23,0,0,0,0
+Texas,Ochiltree County,1,0,0,0,3,0.33,0.0,0.0,0.0,0,0,0,0
+Texas,Oldham County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Orange County,5,4,4,2,21,0.24,0.19,0.19,0.1,0,0,0,0
+Texas,Palo Pinto County,3,3,3,2,9,0.33,0.33,0.33,0.22,0,0,0,0
+Texas,Panola County,2,2,1,2,6,0.33,0.33,0.17,0.33,0,0,0,0
+Texas,Parker County,3,3,3,0,19,0.16,0.16,0.16,0.0,0,0,0,0
+Texas,Parmer County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Texas,Pecos County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Texas,Polk County,1,1,0,2,10,0.1,0.1,0.0,0.2,0,0,0,0
+Texas,Potter County,18,8,8,7,33,0.55,0.24,0.24,0.21,1,0,0,0
+Texas,Presidio County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Texas,Rains County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Randall County,4,2,2,1,29,0.14,0.07,0.07,0.03,0,0,0,0
+Texas,Reagan County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Real County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Texas,Red River County,3,3,1,0,4,0.75,0.75,0.25,0.0,1,1,0,0
+Texas,Reeves County,2,2,2,2,5,0.4,0.4,0.4,0.4,0,0,0,0
+Texas,Refugio County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Texas,Roberts County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Robertson County,1,1,0,2,5,0.2,0.2,0.0,0.4,0,0,0,0
+Texas,Rockwall County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Runnels County,2,2,2,0,4,0.5,0.5,0.5,0.0,1,1,1,0
+Texas,Rusk County,5,5,3,2,13,0.38,0.38,0.23,0.15,0,0,0,0
+Texas,Sabine County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Texas,San Augustine County,2,2,0,0,3,0.67,0.67,0.0,0.0,1,1,0,0
+Texas,San Jacinto County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,San Patricio County,5,3,3,3,16,0.31,0.19,0.19,0.19,0,0,0,0
+Texas,San Saba County,1,0,0,0,2,0.5,0.0,0.0,0.0,1,0,0,0
+Texas,Schleicher County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Scurry County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Shackelford County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Shelby County,2,2,1,2,6,0.33,0.33,0.17,0.33,0,0,0,0
+Texas,Sherman County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Smith County,12,6,6,4,41,0.29,0.15,0.15,0.1,0,0,0,0
+Texas,Somervell County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Starr County,9,8,7,5,15,0.6,0.53,0.47,0.33,1,1,0,0
+Texas,Stephens County,2,1,1,1,3,0.67,0.33,0.33,0.33,1,0,0,0
+Texas,Sterling County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Stonewall County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Sutton County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Swisher County,2,1,0,0,3,0.67,0.33,0.0,0.0,1,0,0,0
+Texas,Tarrant County,132,65,65,42,357,0.37,0.18,0.18,0.12,0,0,0,0
+Texas,Taylor County,19,11,11,4,37,0.51,0.3,0.3,0.11,1,0,0,0
+Texas,Terrell County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Texas,Terry County,1,1,1,0,3,0.33,0.33,0.33,0.0,0,0,0,0
+Texas,Throckmorton County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Titus County,4,3,2,1,8,0.5,0.38,0.25,0.12,1,0,0,0
+Texas,Tom Green County,8,5,5,3,25,0.32,0.2,0.2,0.12,0,0,0,0
+Texas,Travis County,78,25,25,25,217,0.36,0.12,0.12,0.12,0,0,0,0
+Texas,Trinity County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+Texas,Tyler County,2,2,1,1,5,0.4,0.4,0.2,0.2,0,0,0,0
+Texas,Upshur County,2,2,0,1,7,0.29,0.29,0.0,0.14,0,0,0,0
+Texas,Upton County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Uvalde County,4,4,4,3,5,0.8,0.8,0.8,0.6,1,1,1,1
+Texas,Val Verde County,5,4,4,3,10,0.5,0.4,0.4,0.3,1,0,0,0
+Texas,Van Zandt County,3,2,2,2,10,0.3,0.2,0.2,0.2,0,0,0,0
+Texas,Victoria County,10,4,3,2,22,0.45,0.18,0.14,0.09,0,0,0,0
+Texas,Walker County,5,4,3,0,10,0.5,0.4,0.3,0.0,1,0,0,0
+Texas,Waller County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Texas,Ward County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Washington County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Webb County,31,11,11,6,61,0.51,0.18,0.18,0.1,1,0,0,0
+Texas,Wharton County,1,1,1,1,11,0.09,0.09,0.09,0.09,0,0,0,0
+Texas,Wheeler County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Wichita County,17,9,9,4,36,0.47,0.25,0.25,0.11,0,0,0,0
+Texas,Wilbarger County,2,2,2,0,4,0.5,0.5,0.5,0.0,1,1,1,0
+Texas,Willacy County,3,3,3,0,5,0.6,0.6,0.6,0.0,1,1,1,0
+Texas,Williamson County,17,14,13,4,89,0.19,0.16,0.15,0.04,0,0,0,0
+Texas,Wilson County,0,0,0,0,11,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Winkler County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Wise County,2,2,2,2,11,0.18,0.18,0.18,0.18,0,0,0,0
+Texas,Wood County,4,3,2,0,10,0.4,0.3,0.2,0.0,0,0,0,0
+Texas,Yoakum County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Texas,Young County,1,1,1,0,4,0.25,0.25,0.25,0.0,0,0,0,0
+Texas,Zapata County,3,2,1,1,3,1.0,0.67,0.33,0.33,1,1,0,0
+Texas,Zavala County,3,3,2,4,4,0.75,0.75,0.5,1.0,1,1,1,1
+Utah,Beaver County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Box Elder County,4,1,1,1,11,0.36,0.09,0.09,0.09,0,0,0,0
+Utah,Cache County,8,1,1,1,26,0.31,0.04,0.04,0.04,0,0,0,0
+Utah,Carbon County,2,1,1,1,5,0.4,0.2,0.2,0.2,0,0,0,0
+Utah,Daggett County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Davis County,11,2,2,0,54,0.2,0.04,0.04,0.0,0,0,0,0
+Utah,Duchesne County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Utah,Emery County,1,1,1,1,3,0.33,0.33,0.33,0.33,0,0,0,0
+Utah,Garfield County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Grand County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Utah,Iron County,5,3,2,1,8,0.62,0.38,0.25,0.12,1,0,0,0
+Utah,Juab County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Kane County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Millard County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Morgan County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Piute County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Utah,Rich County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Salt Lake County,55,13,13,15,211,0.26,0.06,0.06,0.07,0,0,0,0
+Utah,San Juan County,2,2,2,2,4,0.5,0.5,0.5,0.5,1,1,1,1
+Utah,Sanpete County,2,1,0,0,5,0.4,0.2,0.0,0.0,0,0,0,0
+Utah,Sevier County,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Utah,Summit County,0,0,0,0,13,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Tooele County,4,3,3,2,10,0.4,0.3,0.3,0.2,0,0,0,0
+Utah,Uintah County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Utah,Utah County,33,9,9,1,127,0.26,0.07,0.07,0.01,0,0,0,0
+Utah,Wasatch County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Utah,Washington County,8,5,4,1,21,0.38,0.24,0.19,0.05,0,0,0,0
+Utah,Wayne County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Utah,Weber County,14,3,3,2,50,0.28,0.06,0.06,0.04,0,0,0,0
+Vermont,Addison County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Vermont,Bennington County,2,1,1,1,12,0.17,0.08,0.08,0.08,0,0,0,0
+Vermont,Caledonia County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Vermont,Chittenden County,10,0,0,5,34,0.29,0.0,0.0,0.15,0,0,0,0
+Vermont,Essex County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Vermont,Franklin County,1,0,0,0,10,0.1,0.0,0.0,0.0,0,0,0,0
+Vermont,Grand Isle County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Vermont,Lamoille County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Vermont,Orange County,1,1,0,0,10,0.1,0.1,0.0,0.0,0,0,0,0
+Vermont,Orleans County,2,2,0,1,10,0.2,0.2,0.0,0.1,0,0,0,0
+Vermont,Rutland County,3,2,2,2,20,0.15,0.1,0.1,0.1,0,0,0,0
+Vermont,Washington County,3,3,2,2,19,0.16,0.16,0.11,0.11,0,0,0,0
+Vermont,Windham County,3,1,1,2,18,0.17,0.06,0.06,0.11,0,0,0,0
+Vermont,Windsor County,1,1,1,2,18,0.06,0.06,0.06,0.11,0,0,0,0
+Virginia,Accomack County,1,1,0,7,9,0.11,0.11,0.0,0.78,0,0,0,1
+Virginia,Albemarle County,3,1,1,0,22,0.14,0.05,0.05,0.0,0,0,0,0
+Virginia,Alexandria city,4,0,0,1,38,0.11,0.0,0.0,0.03,0,0,0,0
+Virginia,Alleghany County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Virginia,Amelia County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Amherst County,4,2,1,0,9,0.44,0.22,0.11,0.0,0,0,0,0
+Virginia,Appomattox County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Virginia,Arlington County,4,0,0,3,59,0.07,0.0,0.0,0.05,0,0,0,0
+Virginia,Augusta County,2,2,1,2,13,0.15,0.15,0.08,0.15,0,0,0,0
+Virginia,Bath County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Virginia,Bedford County,1,1,1,1,17,0.06,0.06,0.06,0.06,0,0,0,0
+Virginia,Bland County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Virginia,Botetourt County,2,2,0,0,8,0.25,0.25,0.0,0.0,0,0,0,0
+Virginia,Bristol city,4,3,3,3,4,1.0,0.75,0.75,0.75,1,1,1,1
+Virginia,Brunswick County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+Virginia,Buchanan County,0,0,0,3,7,0.0,0.0,0.0,0.43,0,0,0,0
+Virginia,Buckingham County,2,2,0,1,4,0.5,0.5,0.0,0.25,1,1,0,0
+Virginia,Buena Vista city,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Virginia,Campbell County,2,2,2,4,12,0.17,0.17,0.17,0.33,0,0,0,0
+Virginia,Caroline County,0,0,0,0,7,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Carroll County,1,1,0,4,7,0.14,0.14,0.0,0.57,0,0,0,1
+Virginia,Charles City County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Charlotte County,3,3,0,2,3,1.0,1.0,0.0,0.67,1,1,0,1
+Virginia,Charlottesville city,4,1,1,3,12,0.33,0.08,0.08,0.25,0,0,0,0
+Virginia,Chesapeake city,12,8,8,4,41,0.29,0.2,0.2,0.1,0,0,0,0
+Virginia,Chesterfield County,14,6,6,1,71,0.2,0.08,0.08,0.01,0,0,0,0
+Virginia,Clarke County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Colonial Heights city,3,1,1,1,5,0.6,0.2,0.2,0.2,1,0,0,0
+Virginia,Covington city,2,1,1,0,2,1.0,0.5,0.5,0.0,1,1,1,0
+Virginia,Craig County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Culpeper County,3,3,3,2,8,0.38,0.38,0.38,0.25,0,0,0,0
+Virginia,Cumberland County,2,2,0,2,2,1.0,1.0,0.0,1.0,1,1,0,1
+Virginia,Danville city,12,4,4,5,16,0.75,0.25,0.25,0.31,1,0,0,0
+Virginia,Dickenson County,0,0,0,4,4,0.0,0.0,0.0,1.0,0,0,0,1
+Virginia,Dinwiddie County,3,2,1,1,6,0.5,0.33,0.17,0.17,1,0,0,0
+Virginia,Emporia city,2,0,0,1,2,1.0,0.0,0.0,0.5,1,0,0,1
+Virginia,Essex County,2,2,1,1,3,0.67,0.67,0.33,0.33,1,1,0,0
+Virginia,Fairfax County,22,3,3,3,257,0.09,0.01,0.01,0.01,0,0,0,0
+Virginia,Fairfax city,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Falls Church city,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Fauquier County,0,0,0,0,17,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Floyd County,3,3,0,0,3,1.0,1.0,0.0,0.0,1,1,0,0
+Virginia,Fluvanna County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Franklin County,4,4,1,4,10,0.4,0.4,0.1,0.4,0,0,0,0
+Virginia,Franklin city,2,2,2,1,2,1.0,1.0,1.0,0.5,1,1,1,1
+Virginia,Frederick County,1,0,0,1,14,0.07,0.0,0.0,0.07,0,0,0,0
+Virginia,Fredericksburg city,4,2,2,2,6,0.67,0.33,0.33,0.33,1,0,0,0
+Virginia,Galax city,2,0,0,0,2,1.0,0.0,0.0,0.0,1,0,0,0
+Virginia,Giles County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+Virginia,Gloucester County,1,1,1,1,8,0.12,0.12,0.12,0.12,0,0,0,0
+Virginia,Goochland County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Grayson County,2,2,0,2,5,0.4,0.4,0.0,0.4,0,0,0,0
+Virginia,Greene County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Greensville County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Virginia,Halifax County,8,7,1,4,9,0.89,0.78,0.11,0.44,1,1,0,0
+Virginia,Hampton city,21,7,7,8,33,0.64,0.21,0.21,0.24,1,0,0,0
+Virginia,Hanover County,1,1,1,1,23,0.04,0.04,0.04,0.04,0,0,0,0
+Virginia,Harrisonburg city,7,2,2,1,11,0.64,0.18,0.18,0.09,1,0,0,0
+Virginia,Henrico County,21,7,7,6,63,0.33,0.11,0.11,0.1,0,0,0,0
+Virginia,Henry County,6,6,6,7,14,0.43,0.43,0.43,0.5,0,0,0,1
+Virginia,Highland County,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Virginia,Hopewell city,4,3,3,2,6,0.67,0.5,0.5,0.33,1,1,1,0
+Virginia,Isle of Wight County,0,0,0,1,8,0.0,0.0,0.0,0.12,0,0,0,0
+Virginia,James City County,2,1,1,0,11,0.18,0.09,0.09,0.0,0,0,0,0
+Virginia,King George County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,King William County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,King and Queen County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Virginia,Lancaster County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Lee County,0,0,0,5,6,0.0,0.0,0.0,0.83,0,0,0,1
+Virginia,Lexington city,1,0,0,0,1,1.0,0.0,0.0,0.0,1,0,0,0
+Virginia,Loudoun County,7,1,1,1,65,0.11,0.02,0.02,0.02,0,0,0,0
+Virginia,Louisa County,0,0,0,1,6,0.0,0.0,0.0,0.17,0,0,0,0
+Virginia,Lunenburg County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Virginia,Lynchburg city,14,6,6,9,19,0.74,0.32,0.32,0.47,1,0,0,0
+Virginia,Madison County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Virginia,Manassas Park city,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+Virginia,Manassas city,4,1,1,0,7,0.57,0.14,0.14,0.0,1,0,0,0
+Virginia,Martinsville city,4,2,2,3,5,0.8,0.4,0.4,0.6,1,0,0,1
+Virginia,Mathews County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Mecklenburg County,4,4,2,3,9,0.44,0.44,0.22,0.33,0,0,0,0
+Virginia,Middlesex County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Montgomery County,6,4,4,2,16,0.38,0.25,0.25,0.12,0,0,0,0
+Virginia,Nelson County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+Virginia,New Kent County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Newport News city,28,11,11,11,44,0.64,0.25,0.25,0.25,1,0,0,0
+Virginia,Norfolk city,47,16,16,19,79,0.59,0.2,0.2,0.24,1,0,0,0
+Virginia,Northampton County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+Virginia,Northumberland County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Virginia,Norton city,1,1,1,1,1,1.0,1.0,1.0,1.0,1,1,1,1
+Virginia,Nottoway County,2,2,0,2,4,0.5,0.5,0.0,0.5,1,1,0,1
+Virginia,Orange County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Virginia,Page County,0,0,0,1,5,0.0,0.0,0.0,0.2,0,0,0,0
+Virginia,Patrick County,2,2,0,1,4,0.5,0.5,0.0,0.25,1,1,0,0
+Virginia,Petersburg city,10,9,9,8,11,0.91,0.82,0.82,0.73,1,1,1,1
+Virginia,Pittsylvania County,6,6,2,2,16,0.38,0.38,0.12,0.12,0,0,0,0
+Virginia,Poquoson city,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Portsmouth city,16,4,4,6,31,0.52,0.13,0.13,0.19,1,0,0,0
+Virginia,Powhatan County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Prince Edward County,2,2,0,2,5,0.4,0.4,0.0,0.4,0,0,0,0
+Virginia,Prince George County,3,3,3,0,7,0.43,0.43,0.43,0.0,0,0,0,0
+Virginia,Prince William County,24,10,10,3,82,0.29,0.12,0.12,0.04,0,0,0,0
+Virginia,Pulaski County,2,2,2,5,8,0.25,0.25,0.25,0.62,0,0,0,1
+Virginia,Radford city,3,3,3,1,3,1.0,1.0,1.0,0.33,1,1,1,0
+Virginia,Rappahannock County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Richmond County,0,0,0,1,2,0.0,0.0,0.0,0.5,0,0,0,1
+Virginia,Richmond city,35,13,13,24,66,0.53,0.2,0.2,0.36,1,0,0,0
+Virginia,Roanoke County,4,0,0,2,18,0.22,0.0,0.0,0.11,0,0,0,0
+Virginia,Roanoke city,19,10,10,15,23,0.83,0.43,0.43,0.65,1,0,0,1
+Virginia,Rockbridge County,3,3,0,1,4,0.75,0.75,0.0,0.25,1,1,0,0
+Virginia,Rockingham County,3,3,2,5,19,0.16,0.16,0.11,0.26,0,0,0,0
+Virginia,Russell County,0,0,0,3,7,0.0,0.0,0.0,0.43,0,0,0,0
+Virginia,Salem city,1,0,0,0,5,0.2,0.0,0.0,0.0,0,0,0,0
+Virginia,Scott County,2,2,1,3,6,0.33,0.33,0.17,0.5,0,0,0,1
+Virginia,Shenandoah County,1,1,1,2,9,0.11,0.11,0.11,0.22,0,0,0,0
+Virginia,Smyth County,1,1,1,7,9,0.11,0.11,0.11,0.78,0,0,0,1
+Virginia,Southampton County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Virginia,Spotsylvania County,6,4,4,1,30,0.2,0.13,0.13,0.03,0,0,0,0
+Virginia,Stafford County,3,2,2,0,27,0.11,0.07,0.07,0.0,0,0,0,0
+Virginia,Staunton city,4,0,0,0,6,0.67,0.0,0.0,0.0,1,0,0,0
+Virginia,Suffolk city,7,4,4,5,28,0.25,0.14,0.14,0.18,0,0,0,0
+Virginia,Surry County,2,2,0,1,2,1.0,1.0,0.0,0.5,1,1,0,1
+Virginia,Sussex County,1,1,0,1,5,0.2,0.2,0.0,0.2,0,0,0,0
+Virginia,Tazewell County,3,3,3,3,11,0.27,0.27,0.27,0.27,0,0,0,0
+Virginia,Virginia Beach city,22,7,7,3,99,0.22,0.07,0.07,0.03,0,0,0,0
+Virginia,Warren County,3,3,3,3,8,0.38,0.38,0.38,0.38,0,0,0,0
+Virginia,Washington County,2,2,2,4,13,0.15,0.15,0.15,0.31,0,0,0,0
+Virginia,Waynesboro city,2,1,1,1,5,0.4,0.2,0.2,0.2,0,0,0,0
+Virginia,Westmoreland County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Virginia,Williamsburg city,3,2,2,1,3,1.0,0.67,0.67,0.33,1,1,1,0
+Virginia,Winchester city,2,0,0,2,5,0.4,0.0,0.0,0.4,0,0,0,0
+Virginia,Wise County,3,3,3,8,11,0.27,0.27,0.27,0.73,0,0,0,1
+Virginia,Wythe County,1,1,1,2,6,0.17,0.17,0.17,0.33,0,0,0,0
+Virginia,York County,1,0,0,0,14,0.07,0.0,0.0,0.0,0,0,0,0
+Washington,Adams County,4,2,1,1,5,0.8,0.4,0.2,0.2,1,0,0,0
+Washington,Asotin County,3,0,0,0,6,0.5,0.0,0.0,0.0,1,0,0,0
+Washington,Benton County,13,5,5,4,37,0.35,0.14,0.14,0.11,0,0,0,0
+Washington,Chelan County,5,3,2,2,14,0.36,0.21,0.14,0.14,0,0,0,0
+Washington,Clallam County,7,3,3,2,21,0.33,0.14,0.14,0.1,0,0,0,0
+Washington,Clark County,23,4,4,4,104,0.22,0.04,0.04,0.04,0,0,0,0
+Washington,Columbia County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Washington,Cowlitz County,11,4,4,4,24,0.46,0.17,0.17,0.17,0,0,0,0
+Washington,Douglas County,4,2,1,0,8,0.5,0.25,0.12,0.0,1,0,0,0
+Washington,Ferry County,2,2,1,1,3,0.67,0.67,0.33,0.33,1,1,0,0
+Washington,Franklin County,3,2,2,0,12,0.25,0.17,0.17,0.0,0,0,0,0
+Washington,Garfield County,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0,0,0
+Washington,Grant County,7,7,3,3,16,0.44,0.44,0.19,0.19,0,0,0,0
+Washington,Grays Harbor County,7,5,4,2,16,0.44,0.31,0.25,0.12,0,0,0,0
+Washington,Island County,4,2,2,0,21,0.19,0.1,0.1,0.0,0,0,0,0
+Washington,Jefferson County,4,4,3,1,7,0.57,0.57,0.43,0.14,1,1,0,0
+Washington,King County,81,22,22,33,397,0.2,0.06,0.06,0.08,0,0,0,0
+Washington,Kitsap County,15,6,6,5,54,0.28,0.11,0.11,0.09,0,0,0,0
+Washington,Kittitas County,4,4,2,0,8,0.5,0.5,0.25,0.0,1,1,0,0
+Washington,Klickitat County,1,1,0,0,3,0.33,0.33,0.0,0.0,0,0,0,0
+Washington,Lewis County,6,3,2,2,20,0.3,0.15,0.1,0.1,0,0,0,0
+Washington,Lincoln County,2,2,1,1,4,0.5,0.5,0.25,0.25,1,1,0,0
+Washington,Mason County,5,4,2,2,14,0.36,0.29,0.14,0.14,0,0,0,0
+Washington,Okanogan County,2,2,1,1,10,0.2,0.2,0.1,0.1,0,0,0,0
+Washington,Pacific County,2,2,1,2,7,0.29,0.29,0.14,0.29,0,0,0,0
+Washington,Pend Oreille County,2,2,0,0,5,0.4,0.4,0.0,0.0,0,0,0,0
+Washington,Pierce County,70,34,33,18,172,0.41,0.2,0.19,0.1,0,0,0,0
+Washington,San Juan County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Washington,Skagit County,8,4,3,3,29,0.28,0.14,0.1,0.1,0,0,0,0
+Washington,Skamania County,1,1,1,1,5,0.2,0.2,0.2,0.2,0,0,0,0
+Washington,Snohomish County,27,9,9,4,149,0.18,0.06,0.06,0.03,0,0,0,0
+Washington,Spokane County,42,12,11,8,105,0.4,0.11,0.1,0.08,0,0,0,0
+Washington,Stevens County,6,5,1,1,12,0.5,0.42,0.08,0.08,1,0,0,0
+Washington,Thurston County,8,3,3,1,49,0.16,0.06,0.06,0.02,0,0,0,0
+Washington,Wahkiakum County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Washington,Walla Walla County,6,1,1,2,12,0.5,0.08,0.08,0.17,1,0,0,0
+Washington,Whatcom County,7,3,2,4,34,0.21,0.09,0.06,0.12,0,0,0,0
+Washington,Whitman County,4,2,1,1,10,0.4,0.2,0.1,0.1,0,0,0,0
+Washington,Yakima County,22,6,4,4,45,0.49,0.13,0.09,0.09,0,0,0,0
+West Virginia,Barbour County,1,1,1,2,4,0.25,0.25,0.25,0.5,0,0,0,1
+West Virginia,Berkeley County,3,0,0,0,14,0.21,0.0,0.0,0.0,0,0,0,0
+West Virginia,Boone County,0,0,0,3,8,0.0,0.0,0.0,0.38,0,0,0,0
+West Virginia,Braxton County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+West Virginia,Brooke County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+West Virginia,Cabell County,12,1,1,9,29,0.41,0.03,0.03,0.31,0,0,0,0
+West Virginia,Calhoun County,1,1,0,1,2,0.5,0.5,0.0,0.5,1,1,0,1
+West Virginia,Clay County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+West Virginia,Doddridge County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Fayette County,3,2,2,3,12,0.25,0.17,0.17,0.25,0,0,0,0
+West Virginia,Gilmer County,1,1,1,0,2,0.5,0.5,0.5,0.0,1,1,1,0
+West Virginia,Grant County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+West Virginia,Greenbrier County,1,1,0,3,7,0.14,0.14,0.0,0.43,0,0,0,0
+West Virginia,Hampshire County,1,1,0,2,5,0.2,0.2,0.0,0.4,0,0,0,0
+West Virginia,Hancock County,2,1,1,1,8,0.25,0.12,0.12,0.12,0,0,0,0
+West Virginia,Hardy County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Harrison County,5,3,3,2,22,0.23,0.14,0.14,0.09,0,0,0,0
+West Virginia,Jackson County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+West Virginia,Jefferson County,4,2,2,0,15,0.27,0.13,0.13,0.0,0,0,0,0
+West Virginia,Kanawha County,13,8,8,10,53,0.25,0.15,0.15,0.19,0,0,0,0
+West Virginia,Lewis County,1,1,1,2,5,0.2,0.2,0.2,0.4,0,0,0,0
+West Virginia,Lincoln County,0,0,0,4,5,0.0,0.0,0.0,0.8,0,0,0,1
+West Virginia,Logan County,1,1,1,6,9,0.11,0.11,0.11,0.67,0,0,0,1
+West Virginia,Marion County,4,0,0,1,18,0.22,0.0,0.0,0.06,0,0,0,0
+West Virginia,Marshall County,1,1,1,2,9,0.11,0.11,0.11,0.22,0,0,0,0
+West Virginia,Mason County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,McDowell County,0,0,0,5,8,0.0,0.0,0.0,0.62,0,0,0,1
+West Virginia,Mercer County,4,3,3,5,16,0.25,0.19,0.19,0.31,0,0,0,0
+West Virginia,Mineral County,1,1,1,2,7,0.14,0.14,0.14,0.29,0,0,0,0
+West Virginia,Mingo County,1,1,1,6,7,0.14,0.14,0.14,0.86,0,0,0,1
+West Virginia,Monongalia County,8,4,4,4,24,0.33,0.17,0.17,0.17,0,0,0,0
+West Virginia,Monroe County,1,1,0,1,3,0.33,0.33,0.0,0.33,0,0,0,0
+West Virginia,Morgan County,1,1,0,0,4,0.25,0.25,0.0,0.0,0,0,0,0
+West Virginia,Nicholas County,1,1,0,1,7,0.14,0.14,0.0,0.14,0,0,0,0
+West Virginia,Ohio County,6,1,1,5,18,0.33,0.06,0.06,0.28,0,0,0,0
+West Virginia,Pendleton County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Pleasants County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Pocahontas County,2,2,1,1,4,0.5,0.5,0.25,0.25,1,1,0,0
+West Virginia,Preston County,3,3,1,2,8,0.38,0.38,0.12,0.25,0,0,0,0
+West Virginia,Putnam County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Raleigh County,9,7,6,6,17,0.53,0.41,0.35,0.35,1,0,0,0
+West Virginia,Randolph County,2,1,0,3,7,0.29,0.14,0.0,0.43,0,0,0,0
+West Virginia,Ritchie County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Roane County,3,3,1,2,4,0.75,0.75,0.25,0.5,1,1,0,1
+West Virginia,Summers County,1,1,0,1,4,0.25,0.25,0.0,0.25,0,0,0,0
+West Virginia,Taylor County,0,0,0,1,4,0.0,0.0,0.0,0.25,0,0,0,0
+West Virginia,Tucker County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Tyler County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Upshur County,1,1,1,2,6,0.17,0.17,0.17,0.33,0,0,0,0
+West Virginia,Wayne County,1,1,1,4,11,0.09,0.09,0.09,0.36,0,0,0,0
+West Virginia,Webster County,0,0,0,2,3,0.0,0.0,0.0,0.67,0,0,0,1
+West Virginia,Wetzel County,3,3,2,1,5,0.6,0.6,0.4,0.2,1,1,0,0
+West Virginia,Wirt County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+West Virginia,Wood County,9,2,2,5,26,0.35,0.08,0.08,0.19,0,0,0,0
+West Virginia,Wyoming County,0,0,0,5,6,0.0,0.0,0.0,0.83,0,0,0,1
+Wisconsin,Adams County,1,1,0,1,7,0.14,0.14,0.0,0.14,0,0,0,0
+Wisconsin,Ashland County,2,2,0,0,7,0.29,0.29,0.0,0.0,0,0,0,0
+Wisconsin,Barron County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Bayfield County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Brown County,16,4,4,5,54,0.3,0.07,0.07,0.09,0,0,0,0
+Wisconsin,Buffalo County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Burnett County,1,1,0,0,6,0.17,0.17,0.0,0.0,0,0,0,0
+Wisconsin,Calumet County,3,3,3,1,11,0.27,0.27,0.27,0.09,0,0,0,0
+Wisconsin,Chippewa County,1,1,1,1,11,0.09,0.09,0.09,0.09,0,0,0,0
+Wisconsin,Clark County,1,1,0,0,8,0.12,0.12,0.0,0.0,0,0,0,0
+Wisconsin,Columbia County,0,0,0,0,12,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Crawford County,1,1,1,0,6,0.17,0.17,0.17,0.0,0,0,0,0
+Wisconsin,Dane County,26,9,9,8,105,0.25,0.09,0.09,0.08,0,0,0,0
+Wisconsin,Dodge County,0,0,0,1,20,0.0,0.0,0.0,0.05,0,0,0,0
+Wisconsin,Door County,0,0,0,0,9,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Douglas County,4,2,2,3,12,0.33,0.17,0.17,0.25,0,0,0,0
+Wisconsin,Dunn County,1,0,0,0,8,0.12,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Eau Claire County,6,3,3,4,20,0.3,0.15,0.15,0.2,0,0,0,0
+Wisconsin,Florence County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Fond du Lac County,5,3,3,2,20,0.25,0.15,0.15,0.1,0,0,0,0
+Wisconsin,Forest County,2,2,0,0,4,0.5,0.5,0.0,0.0,1,1,0,0
+Wisconsin,Grant County,3,3,3,0,12,0.25,0.25,0.25,0.0,0,0,0,0
+Wisconsin,Green County,3,3,3,0,8,0.38,0.38,0.38,0.0,0,0,0,0
+Wisconsin,Green Lake County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Iowa County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Iron County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Jackson County,1,1,0,0,5,0.2,0.2,0.0,0.0,0,0,0,0
+Wisconsin,Jefferson County,1,0,0,0,20,0.05,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Juneau County,2,2,1,0,7,0.29,0.29,0.14,0.0,0,0,0,0
+Wisconsin,Kenosha County,14,8,8,10,35,0.4,0.23,0.23,0.29,0,0,0,0
+Wisconsin,Kewaunee County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,La Crosse County,4,2,2,2,25,0.16,0.08,0.08,0.08,0,0,0,0
+Wisconsin,Lafayette County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Langlade County,3,3,1,1,6,0.5,0.5,0.17,0.17,1,1,0,0
+Wisconsin,Lincoln County,1,0,0,0,10,0.1,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Manitowoc County,6,4,4,3,19,0.32,0.21,0.21,0.16,0,0,0,0
+Wisconsin,Marathon County,7,3,3,3,27,0.26,0.11,0.11,0.11,0,0,0,0
+Wisconsin,Marinette County,5,4,2,3,12,0.42,0.33,0.17,0.25,0,0,0,0
+Wisconsin,Marquette County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Menominee County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Wisconsin,Milwaukee County,102,7,7,56,296,0.34,0.02,0.02,0.19,0,0,0,0
+Wisconsin,Monroe County,3,3,3,3,9,0.33,0.33,0.33,0.33,0,0,0,0
+Wisconsin,Oconto County,2,2,0,1,10,0.2,0.2,0.0,0.1,0,0,0,0
+Wisconsin,Oneida County,2,1,1,1,14,0.14,0.07,0.07,0.07,0,0,0,0
+Wisconsin,Outagamie County,10,3,3,2,40,0.25,0.08,0.08,0.05,0,0,0,0
+Wisconsin,Ozaukee County,0,0,0,0,18,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Pepin County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Pierce County,3,2,0,0,8,0.38,0.25,0.0,0.0,0,0,0,0
+Wisconsin,Polk County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Portage County,4,0,0,0,14,0.29,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Price County,2,2,0,1,6,0.33,0.33,0.0,0.17,0,0,0,0
+Wisconsin,Racine County,14,4,4,11,44,0.32,0.09,0.09,0.25,0,0,0,0
+Wisconsin,Richland County,2,2,1,1,5,0.4,0.4,0.2,0.2,0,0,0,0
+Wisconsin,Rock County,17,12,12,8,38,0.45,0.32,0.32,0.21,0,0,0,0
+Wisconsin,Rusk County,4,4,1,0,5,0.8,0.8,0.2,0.0,1,1,0,0
+Wisconsin,Sauk County,2,1,1,0,13,0.15,0.08,0.08,0.0,0,0,0,0
+Wisconsin,Sawyer County,2,2,1,1,6,0.33,0.33,0.17,0.17,0,0,0,0
+Wisconsin,Shawano County,3,3,1,0,11,0.27,0.27,0.09,0.0,0,0,0,0
+Wisconsin,Sheboygan County,3,0,0,1,26,0.12,0.0,0.0,0.04,0,0,0,0
+Wisconsin,St. Croix County,0,0,0,0,14,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Taylor County,1,1,1,1,6,0.17,0.17,0.17,0.17,0,0,0,0
+Wisconsin,Trempealeau County,0,0,0,0,8,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Vernon County,2,2,1,3,7,0.29,0.29,0.14,0.43,0,0,0,0
+Wisconsin,Vilas County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Walworth County,4,2,2,3,22,0.18,0.09,0.09,0.14,0,0,0,0
+Wisconsin,Washburn County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Washington County,0,0,0,0,28,0.0,0.0,0.0,0.0,0,0,0,0
+Wisconsin,Waukesha County,5,4,4,5,86,0.06,0.05,0.05,0.06,0,0,0,0
+Wisconsin,Waupaca County,1,1,1,0,12,0.08,0.08,0.08,0.0,0,0,0,0
+Wisconsin,Waushara County,1,1,1,2,7,0.14,0.14,0.14,0.29,0,0,0,0
+Wisconsin,Winnebago County,11,5,5,3,41,0.27,0.12,0.12,0.07,0,0,0,0
+Wisconsin,Wood County,2,2,2,1,17,0.12,0.12,0.12,0.06,0,0,0,0
+Wyoming,Albany County,6,2,2,0,10,0.6,0.2,0.2,0.0,1,0,0,0
+Wyoming,Big Horn County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Campbell County,1,1,1,1,7,0.14,0.14,0.14,0.14,0,0,0,0
+Wyoming,Carbon County,2,2,2,2,5,0.4,0.4,0.4,0.4,0,0,0,0
+Wyoming,Converse County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Crook County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Fremont County,0,0,0,0,10,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Goshen County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Hot Springs County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Johnson County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Laramie County,4,4,4,1,20,0.2,0.2,0.2,0.05,0,0,0,0
+Wyoming,Lincoln County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Natrona County,2,1,1,1,18,0.11,0.06,0.06,0.06,0,0,0,0
+Wyoming,Niobrara County,1,1,0,0,1,1.0,1.0,0.0,0.0,1,1,0,0
+Wyoming,Park County,0,0,0,0,5,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Platte County,1,1,0,0,2,0.5,0.5,0.0,0.0,1,1,0,0
+Wyoming,Sheridan County,0,0,0,0,6,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Sublette County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Sweetwater County,0,0,0,1,12,0.0,0.0,0.0,0.08,0,0,0,0
+Wyoming,Teton County,0,0,0,0,4,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Uinta County,0,0,0,1,3,0.0,0.0,0.0,0.33,0,0,0,0
+Wyoming,Washakie County,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0
+Wyoming,Weston County,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0
